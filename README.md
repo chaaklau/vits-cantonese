@@ -2,6 +2,11 @@ python -m venv ./venv
 
 open demo.ipynb and install the dependencies
 
+move files to opencc lib after installing opencc
+mv ./opencc/jyutjyu.json ./venv/lib/site-packages/opencc/clib/share/opencc/jyutjyu.json
+mv ./opencc/jyutjyu.ocd2 ./venv/lib/site-packages/opencc/clib/share/opencc/jyutjyu.ocd2
+
+
 cd vits/monotonic_align
 python setup.py build_ext --inplace
 
