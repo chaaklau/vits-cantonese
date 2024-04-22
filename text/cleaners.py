@@ -126,3 +126,9 @@ def chinese_dialect_cleaners(text):
     text = re.sub(r'\s+$', '', text)
     text = re.sub(r'([^\.,!\?\-…~])$', r'\1.', text)
     return text
+
+
+def chinese_dialect_cleaners2(text):
+    text = re.sub(r'\s+$', '', text)
+    text = re.sub(r'([^\.,!\?\-…~])$', r'\1.', text)
+    return text

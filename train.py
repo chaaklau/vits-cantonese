@@ -52,8 +52,10 @@ def main():
   os.environ['MASTER_PORT'] = '8000'
 
   hps = utils.get_hparams()
-  mp.spawn(run, nprocs=n_gpus, args=(n_gpus, hps,))
-
+  if n_gpus > 1:
+    mp.spawn(run, nprocs=n_gpus, args=(n_gpus, hps,))
+  else:
+    run(0, n_gpus, hps)
 
 def run(rank, n_gpus, hps):
   global global_step
@@ -64,11 +66,16 @@ def run(rank, n_gpus, hps):
     writer = SummaryWriter(log_dir=hps.model_dir)
     writer_eval = SummaryWriter(log_dir=os.path.join(hps.model_dir, "eval"))
 
-  dist.init_process_group(backend='nccl', init_method='env://', world_size=n_gpus, rank=rank)
-  torch.manual_seed(hps.train.seed)
-  torch.cuda.set_device(rank)
+  # For n_gpus > 0
+  if n_gpus > 1:
+    dist.init_process_group(backend='nccl', init_method='env://', world_size=n_gpus, rank=rank)  
+    torch.manual_seed(hps.train.seed)
+    torch.cuda.set_device(rank)
+  else:
+    torch.cuda.set_device(rank)
 
   train_dataset = TextAudioLoader(hps.data.training_files, hps.data)
+
   train_sampler = DistributedBucketSampler(
       train_dataset,
       hps.train.batch_size,
@@ -76,6 +83,7 @@ def run(rank, n_gpus, hps):
       num_replicas=n_gpus,
       rank=rank,
       shuffle=True)
+
   collate_fn = TextAudioCollate()
   train_loader = DataLoader(train_dataset, num_workers=8, shuffle=False, pin_memory=True,
       collate_fn=collate_fn, batch_sampler=train_sampler)
@@ -84,6 +92,7 @@ def run(rank, n_gpus, hps):
     eval_loader = DataLoader(eval_dataset, num_workers=8, shuffle=False,
         batch_size=hps.train.batch_size, pin_memory=True,
         drop_last=False, collate_fn=collate_fn)
+
 
   net_g = SynthesizerTrn(
       len(symbols),
@@ -101,8 +110,10 @@ def run(rank, n_gpus, hps):
       hps.train.learning_rate, 
       betas=hps.train.betas, 
       eps=hps.train.eps)
-  net_g = DDP(net_g, device_ids=[rank])
-  net_d = DDP(net_d, device_ids=[rank])
+  if n_gpus > 1:
+    net_g = DDP(net_g, device_ids=[rank])
+    net_d = DDP(net_d, device_ids=[rank])
+
 
   try:
     _, _, _, epoch_str = utils.load_checkpoint(utils.latest_checkpoint_path(hps.model_dir, "G_*.pth"), net_g, optim_g)

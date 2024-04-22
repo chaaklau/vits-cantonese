@@ -1,0 +1,921 @@
+wavs/0_0000.wav|kɐm˩˧ jɐk̚˨ hɐi˨ jiː˨ lɐŋ˨˩ jiː˨ saːm˩˧ nɪŋ˨˩ sɐp̚˨ jiː˨ ŋyːk̚˨ jiːp̚˨ ʦʰɐk̚˩˥ jɐk̚˨
+wavs/0_0001.wav|kʰyː˨˩ tɵj˩˧ ŋɔː˩˧ hɐu˩˥ hɐu˩˥ 
+wavs/0_0002.wav|kɐm˩˧ nɪŋ˨˩ tʊŋ˩˧ tʰɪŋ˩˧ hɐu˩˥ tʊŋ˩˧ 
+wavs/0_0003.wav|ŋɔː˨˩ tiː˩˥ hɐu˩˥ kɐu˩˧ hɐŋ˩˧ 
+wavs/0_0004.wav|ŋɔː˩˧ hɐu˩˥ kʷaː˩˧ ʦyː˨ niː˩˧ 
+wavs/0_0005.wav|nɛː˩˧ kɔː˩˧ pʰɐŋ˨˩ kʷɔː˩˥ hɐu˩˥ taːi˨ 
+wavs/0_0006.wav|nɛː˩˧ tʰiːu˨˩ jyː˩˥ hɐu˩˥ sɐŋ˩˧ sɪŋ˩˧ 
+wavs/0_0007.wav|kɔː˩˥ tiː˥ liː˩˥ hɐu˩˥ hɐu˩˥ hɛːk̚˩˥ 
+wavs/0_0008.wav|nɛː˩˧ tʰɐu˨˩ tiː˥ tiː˨ fɔː̃i˩˧ hɐu˩˥ taːi˨ 
+wavs/0_0009.wav|hɐu˩˥ tɔː˩˧ aː˧ 
+wavs/0_0010.wav|nɛː˩˧ ʦɛːk̚˩˥ puːi˥ hɐu˩˥ taːi˨ 
+wavs/0_0011.wav|m̩˨˩ hɐu˩˥ ʦɵj˩˧ kɔː̃i˩˥ laː˩˧ 
+wavs/0_0012.wav|hɛːk̚˩˥ tɔː˩˧ jɐk̚˩˥ wʊŋ˩˥ laː˩˧ 
+wavs/0_0013.wav|ʦʰɛːŋ˩˥ ʦɔː˩˥ niː˩˧ lœːŋ˩˥ ʦʰiː˩˧ tuː˩˧ mɐu˩˧ lɵj˨˩ 
+wavs/0_0014.wav|ʦɵj˩˧ ʦʰɐŋ˩˥ niː˩˧ tɔː˩˧ jɐk̚˩˥ ʦʰiː˩˧ lɔː˨˩ 
+wavs/0_0015.wav|nɛː˩˧ jɐk̚˩˥ ʦʰiː˩˧ jɐk̚˩˥ tɐŋ˨ wuːi˩˧ jɛːŋ˨˩ laːk̚˧ 
+wavs/0_0016.wav|m̩˨˩ hɐu˩˥ lyːŋ˨ ʦɐu˩˥ aː˧ 
+wavs/0_0017.wav|ŋɔː˩˧ mɐu˩˧ maːi˩˧ piː˩˥ niː˩˧ 
+wavs/0_0018.wav|ŋɔː˩˧ tiːm˩˥ jœːŋ˨ tuː˩˧ m̩˨˩ wuːi˩˧ kɔː̃i˩˥ kaː˩˧ laːk̚˧ 
+wavs/0_0019.wav|m̩˨˩ hyː˩˧ kɔː˩˥ tiː˥ tiː˨ fɔː̃i˩˧ 
+wavs/0_0020.wav|ŋɔː˨˩ tiː˩˥ mɐu˩˧ tʊk̚˨ kʷɔː˩˧ syː˩˧ kaː˩˧ 
+wavs/0_0021.wav|m̩˨˩ sɐi˩˥ kɛːŋ˩˧ 
+wavs/0_0023.wav|tɐk̚˨ ʦiː˩˥ maːi˩˧ piː˩˥ niː˩˧ kaː˩˧ 
+wavs/0_0024.wav|ŋɔː˩˧ ʊk̚˩˥ kiː˩˥ , ŋɔː˩˧ ʊk̚˩˥ kʰiː˩˥ hɛːk̚˩˥ fæː̃i˨ , hɐu˩˥ siːu˩˥ hɛːk̚˩˥ mɪŋ˨ 
+wavs/0_0025.wav|niː˩˧ sɛːŋ˨˩ jɐk̚˨ ʦʰɔː˩˧ kɔː˩˥ tʰɐu˨˩ 
+wavs/0_0026.wav|ŋaːm˩˥ ŋaːm˩˥ sœːŋ˩˥ wɐŋ˩˥ niː˩˧ , niː˩˧ ʦɐu˨ ʦɐu˩˥ kʷɔː˩˧ lɵj˨˩ lɔːk̚˩˥ 
+wavs/0_0027.wav|kʰyː˨˩ ŋaːm˩˥ ŋaːm˩˥ ʦʰɐk̚˩˥ haːu˨ hyː˩˧ 
+wavs/0_0028.wav|a˩˧ mɐu˨˩ tʰɐi˩˥ kɐŋ˩˥ tɪŋ˨ siː˨ 
+wavs/0_0029.wav|jɐŋ˨˩ hæːk̚˩˥ ŋaːm˩˥ ŋaːm˩˥ ʦɐu˩˥ haːu˨ 
+wavs/0_0030.wav|kʰyː˨˩ kɐm˩˧ ŋaːm˩˥ ʦʰɵj˩˧ ʊk̚˩˥ kʰiː˩˥ tʊk̚˨ kɐŋ˩˥ syː˩˧ 
+wavs/0_0031.wav|ʦʊŋ˩˥ ʦiː˩˧ ŋɔː˩˧ muː˨˩ lɐŋ˨ jyː˨˩ hɔː˩˥ tuː˩˧ m̩˨˩ hyː˩˧ kaː˩˧ laːk̚˧ 
+wavs/0_0032.wav|niː˩˧ wæːk̚˨ faː˩˧ haːu˨ ŋɔː˩˧ kɔː˩˥ pʊŋ˩˥ syː˩˧ 
+wavs/0_0033.wav|niː˩˧ taː˩˥ ŋɔː˩˧ , ŋɔː˩˧ tuː˩˧ m̩˨˩ wuːi˩˧ wæː̃i˨˩ sɐu˩˥ kaː˩˧ laːk̚˧ 
+wavs/0_0034.wav|ŋɔː˩˧ taːi˨ ʦiː˩˥
+wavs/0_0035.wav|niː˩˧ hæː̃i˨˩ sɪŋ˩˧ laː˩˧ . ŋɔː˨˩ tiː˩˥ jɐk̚˩˥ ʦɐŋ˨ kæːŋ˩˧ ʦɐu˨ lɵj˨˩ 
+wavs/0_0036.wav|kʰyː˨˩ hɐu˩˥ ʦʰʊŋ˩˧ mɐŋ˨˩ kaː˩˧ 
+wavs/0_0037.wav|kʰyː˨˩ ʦuː˨ kɐŋ˩˥ miː˥ jɛː˩˧ aː˧ ?
+wavs/0_0038.wav|taːi˨ kaː˩˧ jɐk̚˩˥ ʦʰɐi˨˩ hyː˩˧ lɔː˨˩ 
+wavs/0_0039.wav|a˩˥ sɵj˨˩ ʦʰœːŋ˩˧ kɔː˥ maː˩˧ ?
+wavs/0_0040.wav|a˩˥ sɵj˨˩ lɵj˨˩ haːu˨ aː˧ ?
+wavs/0_0041.wav|a˩˥ sɵj˨˩ kɔː̃i˩˥ kaː˩˧ ?
+wavs/0_0042.wav|ʦʰɐŋ˨˩ taːi˨ mɐŋ˨˩ hɐi˨ aː˩˥ sɵj˨˩ lɐi˨˩ kaː˩˧ ?
+wavs/0_0047.wav|niː˩˧ sœːŋ˩˥ hɛːk̚˩˥ miː˥ jɛː˩˧ ?
+wavs/0_0048.wav|kʰyː˨˩ miː˥ jɛː˩˧ tuː˩˧ m̩˨˩ kɛːŋ˩˧ 
+wavs/0_0049.wav|niː˩˧ waː˨ miː˥ jɛː˩˧ ŋaːu˩˧ niː˩˧ aː˧ ?
+wavs/0_0050.wav|pʰuː˩˧ ʦɐi˩˥ ʦʰɵj˩˧ syːŋ˩˥ tʰɐu˨˩ aː˧ ?
+wavs/0_0051.wav|niː˩˧ hyː˩˧ syːŋ˩˥ tʰɐu˨˩ ?
+wavs/0_0052.wav|ʦɵj˨ kɔː˩˥ tʰɐu˨˩ 
+wavs/0_0053.wav|niː˩˧ syːŋ˩˥ jɐk̚˨ fæː̃i˩˥ hyː˩˧ aː˧ ?
+wavs/0_0054.wav|niː˩˧ kiː˩˥ nɵj˨ lɵj˨˩ jɐk̚˩˥ ʦʰiː˩˧ ? niː˩˧ kiː˩˥ kɐu˩˥ lɵj˨˩ jɐk̚˩˥ ʦʰiː˩˧ ?
+wavs/0_0055.wav|niː˩˧ kiː˩˥ kɐu˩˥ lɵj˨˩ jɐk̚˩˥ ʦʰiː˩˧ ?
+wavs/0_0056.wav|sɐp̚˨ saːm˩˧ kaːm˩˥ ʦʰɐk̚˩˥ hɐi˨ kiː˩˥ tɔː˩˧ ?
+wavs/0_0057.wav|niː˩˧ maːi˩˧ haːu˨ kiː˩˥ tɔː˩˧ pʊŋ˩˥ syː˩˧ aː˧ ?
+wavs/0_0058.wav|kiː˩˥ tɔː˩˧ ʦʰɪŋ˩˥ ?
+wavs/0_0059.wav|kʰyː˨˩ tiːm˩˥ kaːi˩˥ ʦʊŋ˨ m̩˨˩ ʦʰɛːŋ˨˩ lɵj˨˩ kaː˩˧ ?
+wavs/0_0060.wav|tiːm˩˥ jœːŋ˩˥
+wavs/0_0061.wav|sɪŋ˩˧ ʦiː˩˧ jɐp̚˨ tɐk̚˩˥ hyː˩˧ aː˧ ?
+wavs/0_0062.wav|nɛː˩˧ kɔː˩˧ jɐŋ˨˩
+wavs/0_0063.wav|nɛː˩˧ kɪŋ˨ saːm˩˧
+wavs/0_0064.wav|nɛː˩˧ kɔː˩˧ hɐi˨ ŋaːm˩˥ ŋaːm˩˥ maːi˩˧ kɔː˩˧ 
+wavs/0_0065.wav|nɛː˩˧ jɐk̚˩˥ wɐi˨ hɐi˨ ŋɔː˩˧ taːi˨ kɔː˩˧ 
+wavs/0_0066.wav|ʦɐu˨ ʦʰɵj˩˧ nɛː˩˧ tʰɐu˨˩ 
+wavs/0_0067.wav|niː˩˧ kʰiː˩˧ hɐi˩˥ tʰɐu˨˩ tɐŋ˩˥ haː˩˧ laː˩˧ 
+wavs/0_0068.wav|nɛː˩˧ tiː˥ puːi˥ hɐi˨ sɐŋ˩˧ kɔː˩˧ 
+wavs/0_0069.wav|nɛː˩˧ jɐk̚˩˥ tʰɐu˨˩ siː˨˩ kɔː˩˥ tʰɐu˨˩ aː˧ ?
+wavs/0_0070.wav|nɛː˩˧ kɪŋ˨ saːm˥ ʦʰɵj˩˧ syːŋ˩˥ tʰɐu˨˩ maːi˩˧ kaː˩˧ ?
+wavs/0_0071.wav|kɔː˩˥ tiː˥ jɛː˩˧ fɔː̃i˩˧ hɐi˩˥ nɛː˩˧ tʰɐu˨˩ lɔː˨˩ 
+wavs/0_0072.wav|kɔː˩˥ tiː˥ jɛː˩˧ fɔː̃i˩˧ hɐi˩˥ nɛː˩˧ tʰɐu˨˩ 
+wavs/0_0073.wav|kɔː˩˥ kæːŋ˩˧ hiː˩˧ jyːŋ˨ ʦʊŋ˨ ʦʰɵj˩˧ kɔː˩˥ tʰɐu˨˩ ʦaː˩˧ 
+wavs/0_0074.wav|kʰyː˨˩ m̩˨˩ piː˩˥ ŋɔː˩˧ kaːm˩˥ jœːŋ˨ ʦuː˨ 
+wavs/0_0075.wav|nɛː˩˧ kɔː˩˧ jɐŋ˩˥ tiːm˩˥ kaːi˩˥ kɐm˩˧ sɵj˩˧ kaː˩˧ ?
+wavs/0_0076.wav|kʰyː˨˩ kɔː˩˥ tiː˩˥ jɐŋ˨˩ ʦuː˨ siː˨ tʰʊŋ˨˩ kʰiː˨˩ tʰaː˩˧ jɐŋ˨˩ m̩˨˩ tʰʊŋ˨˩ kɔː˩˧ 
+wavs/0_0077.wav|tʰɔːŋ˨˩ kʷɔː˩˥ , kɐu˩˧ tiːm˩˥ 
+wavs/0_0078.wav|tʊŋ˩˧ jɐm˩˥ , ʦʰiː˩˧ ʦiː˩˥ tuː˩˧ jɐu˩˧ tɐk̚˩˥ maːi˨ 
+wavs/0_0079.wav|tʰʊŋ˨˩ kʰyː˨˩ hyː˩˧ kaːi˩˧ lɔː˨˩ 
+wavs/0_0080.wav|ŋɔː˨˩ tiː˩˥ m̩˨˩ tʰʊŋ˨˩ kʰyː˨˩ liːu˨ lɔːk̚˩˥ 
+wavs/0_0081.wav|tʰʊŋ˨˩ niː˩˧ hyː˩˧ 
+wavs/0_0082.wav|taː˩˥ fuːi˩˧ tiː˥ ʦʰœːŋ˩˧ kʰyː˨˩ laː˩˧ 
+wavs/0_0083.wav|niː˩˧ taːi˩˧ jɐk̚˩˥ tʰiːu˨˩ kɛːŋ˩˥ kɐŋ˩˧ lɔː˨˩ 
+wavs/0_0084.wav|lɔː˩˥ paː˩˥ kaːu˩˧ ʦɪŋ˩˥ piː˩˥ ŋɔː˩˧ 
+wavs/0_0085.wav|sæːŋ˩˧ mʊŋ˨˩ 
+wavs/0_0086.wav|hæːk̚˩˥ haːu˨ ŋɔː˩˧ jɐk̚˩˥ tʰiːu˩˧ wɔː˩˧ 
+wavs/0_0087.wav|naːu˨ haːu˨ ŋɔː˩˧ jɐk̚˩˥ ʦʰæːŋ˩˧ 
+wavs/0_0088.wav|ʦʰiː˩˥ læːŋ˨ ŋɔː˩˧ kɔː˩˥ kɪŋ˨ saːm˥ . ʦʰiː˩˥ læːŋ˨ ŋɔː˩˧ kɔː˩˥ kɪŋ˨ saːm˥ 
+wavs/0_0089.wav|kʰyː˨˩ lɔː˩˥ tʰiːu˨˩ mɐu˨˩ kɐŋ˥ mæːk̚˩˥ tʰɵj˨˩ 
+wavs/0_0090.wav|sɐi˩˧ mɐŋ˩˧ ʦɐi˩˥ piː˩˥ aː˩˧ maː˩˧ taː˩˥ 
+wavs/0_0091.wav|kɔː˩˥ ʦɛːk̚˩˥ puːi˥ piː˩˥ kʰyː˩˧ taː˩˥ læːŋ˨ ʦɔː˩˥ laː˩˧ 
+wavs/0_0092.wav|kɔː˩˥ ʦɛːk̚˩˥ puːi˥ piː˩˥ kʰyː˨˩ taː˩˥ læːŋ˨ ʦɔː˩˥ laː˩˧ 
+wavs/0_0093.wav|piː˩˥ kɐu˩˥ ŋaːu˩˧ 
+wavs/0_0094.wav|niː˩˧ piː˩˥ aː˩˥ sɵj˨˩ tʰɛːk̚˩˥ aː˧ ?
+wavs/0_0095.wav|tɐŋ˩˥ ŋɔː˩˧ kɔː̃i˩˥ piː˩˧ niː˩˧ tʰɛːŋ˩˧ laː˩˧ 
+wavs/0_0096.wav|kɔː˩˥ kæːŋ˩˧ ʊk̚˩˥ jɐk̚˩˥ ʦɐu˩˥ ʦɐu˨ ʦuː˩˧ ʦɔː˩˥ piː˩˧ jɐŋ˨˩ laː˩˧ 
+wavs/0_0097.wav|m̩˨˩ kʷuːi˩˧ niː˩˧ tʰʊŋ˨˩ ŋɔː˩˧ maːi˩˧ lœːŋ˩˥ pʊŋ˩˥ syː˩˧ fæːŋ˩˥ lɵj˨˩ lɔːk̚˩˥ 
+wavs/0_0098.wav|niː˩˧ hɔː˩˥ m̩˨˩ hɔː˩˥ jiː˩˧ pɔːŋ˩˧ ŋɔː˩˧ ʦʰaːu˩˧ haː˩˧ nɛː˩˧ tiː˥ jɛː˩˧ aː˧ ?
+wavs/0_0099.wav|kʰyː˨˩ kɔː˩˥ kaː˩˧ jɐŋ˨˩ tɵj˩˧ ŋɔː˩˧ hɐu˩˥ hɐu˩˥ kaː˩˧ 
+wavs/0_0100.wav|ʦʰɵj˩˧ nɛː˩˧ tʰɐu˨˩ sæːŋ˩˧ wʊk̚˨ tɵj˩˧ kʰyː˨˩ , tɵj˩˧ kʰyː˨˩ tiː˩˥
+wavs/0_0101.wav|tɵj˩˧ kʰyː˨˩ tiː˩˥ , ʦʰɵj˩˧ nɛː˩˧ tʰɐu˨˩ sæːŋ˩˧ wʊk̚˨ tɵj˩˧ kʰyː˨˩ tiː˩˥ syːŋ˩˧ hɐi˨ hɐu˩˥ hɐu˩˥ kaː˩˧ laː˩˧ 
+wavs/0_0102.wav|liː˩˧ mɐŋ˨˩ hœːŋ˩˧ ʦʰɐŋ˨˩ kʰœːŋ˨˩ ʦɛː˩˧ kʷɔː˩˧ ʦʰɪŋ˨˩ kaː˩˧ 
+wavs/0_0103.wav|tiː˥ ʦʰʊŋ˨˩ hɐu˩˥ ʦʰiː˩˧ sɐu˩˥ ʦœːŋ˩˥ kɐm˩˥ taːi˨ 
+wavs/0_0104.wav|wɐi˨˩ taːi˨ kaː˩˧ ʦuː˨ siː˨ ʦɛː˩˧ 
+wavs/0_0105.wav|ʦʰɵj˩˧ mʊŋ˨˩ hɐu˩˥ ʦʰɔː˩˧ haː˩˧ 
+wavs/0_0106.wav|niː˩˧ lœːŋ˩˥ kɔː˩˧ kʰiː˩˧ maːi˨˩ jɐk̚˩˥ ʦʰɐi˨˩ 
+wavs/0_0107.wav|kɔː˩˥ tiː˥ ʦœːk̚˩˥ ʦɐi˩˥ hɐi˩˥ tʰɪŋ˩˧ kɔː˩˥ tuː˨ fiː˩˧ lɵj˨˩ fiː˩˧ hyː˩˧ 
+wavs/0_0108.wav|jyːŋ˨˩ lɵj˨˩ kɔː˩˥ ʦiː˩˧ kɔːŋ˩˧ pɐk̚˩˥ jɐk̚˩˥ luː˨ tuː˩˧ ʦʰɵj˩˧ kɔː˩˥ kɔː˩˧ syː˩˧ paːu˩˧ jɐp̚˨ pɪŋ˨ 
+wavs/0_0109.wav|jyːŋ˨˩ lɵj˨˩ kɔː˩˥ ʦiː˩˧ kɔːŋ˩˧ pɐk̚˩˥ jɐk̚˩˥ luː˨ tuː˩˧ hɐi˩˥ , tuː˩˧ ʦʰɵj˩˧ kɔː˩˥ kɔː˩˧ syː˩˧ paːu˩˧ jɐp̚˨ pɪŋ˨ 
+wavs/0_0110.wav|niː˩˧ ʦʰɵj˩˧ syːŋ˩˥ tʰɐu˨˩ ʦyː˨ kaː˩˧ ?
+wavs/0_0111.wav|kʰyː˨˩ ʦʰɵj˩˧ pɐk̚˩˥ kɐŋ˩˧ ʦuː˨ saːi˩˧ kɔː˩˧ 
+wavs/0_0112.wav|kɐm˩˧ mæːŋ˩˧ ʦɐu˨ fɐŋ˩˧ hɐi˩˥ niː˩˧ kɔː˩˥ tʰɐu˨˩ 
+wavs/0_0113.wav|kʰyː˨˩ ʦʰɵj˩˧ kɔː˩˥ tɵj˩˧ mʊŋ˨˩ sœːŋ˩˧ mɪŋ˨ ʦuː˨ kɔː˩˥ kɔː˩˧ kiː˩˧ hɐu˨ 
+wavs/0_0115.wav|kʰyː˨˩ hɐu˩˥ kʷɔː˩˧ niː˩˧ jɐk̚˩˥ tiː˥ 
+wavs/0_0116.wav|jɐu˨˩ ʦʰyːŋ˩˧ hɐu˩˥ kɐi˩˧ hiː˩˥ , hæːŋ˨˩ sɐp̚˨ fɐŋ˩˧ ʦʊŋ˩˧ ʦɐu˨ tɐu˩˧ paː˩˧ siː˩˥ ʦaːm˨ 
+wavs/0_0117.wav|jɐu˨˩ jyːŋ˨˩ lɔːŋ˩˧ hæːŋ˨˩ tɐu˩˧ kɐm˩˥ tʰɪŋ˨˩ wuːi˩˧ kiː˩˥ nɵj˨ aː˧ ?
+wavs/0_0118.wav|kʰyː˨˩ ŋaːm˩˥ ŋaːm˩˥ jɐu˨˩ jɐŋ˩˧ kʷɔːk̚˩˥ fæːŋ˩˥ lɵj˨˩ 
+wavs/0_0119.wav|fɔː˩˥ ʦʰɛː˩˧ tɐu˩˧ ʦaːm˨ laː˩˧ 
+wavs/0_0120.wav|taːm˩˧ kɐu˩˧ kɔː˩˧ tʰɐu˨˩ , tʰɐi˩˥ ʦʰɐŋ˩˧ ʦʰɔː˩˥ laː˩˧ 
+wavs/0_0121.wav|kɐŋ˩˧ ʦyː˨ kɔː˩˧ hɔː˨˩ pɪŋ˩˧ hæːŋ˨˩ , hɐu˩˥ faːi˩˧ ʦɐu˨ tɐu˩˧ laːk̚˧ 
+wavs/0_0122.wav|wɐŋ˩˥ mɐu˨˩ pɐk̚˩˥ lɵj˨˩ sɛː˩˥ ʦiː˨
+wavs/0_0123.wav|wɐŋ˩˥ paː˩˥ tɐu˩˧ lɵj˨˩ ʦʰɪk̚˩˥ fuːi˩˧ kʰyː˨˩
+wavs/0_0124.wav|wɐŋ˩˥ ʦɛːk̚˩˥ sɐu˩˥ pʊŋ˩˥ ʦyː˨ kʰyː˨˩
+wavs/0_0125.wav|ʦiːu˩˧ ʦyː˨ nɛː˩˧ kɔː˩˧ pæːŋ˨ fæːk̚˩˥ hyː˩˧ ʦuː˨ laː˩˧ 
+wavs/0_0126.wav|jɐu˨˩ ʦiːu˩˧ tɐu˩˧ mæːŋ˩˧ 
+wavs/0_0127.wav|jɐu˨˩ kɐm˩˧ jɐk̚˨ fuːi˩˧ ʦʰiː˩˥ 
+wavs/0_0128.wav|jɐu˨˩ ʦʰɐk̚˩˥ tiːm˩˥ hyː˩˧ tɐu˩˧ pæːk̚˩˥ tiːm˩˥ 
+wavs/0_0129.wav|ʦʰaːm˩˧ kʷʊŋ˩˧ kʷuːi˩˥ ʦɔː˩˥ hyː˩˧ lɐi˩˧ paːi˩˧ siː˩˧ lɔː˨˩ 
+wavs/0_0130.wav|ʦʰɐŋ˩˧ kʰyː˨˩ m̩˨˩ ʦʰɵj˩˧ kɔː˩˥ tʰɐu˨˩ , jɐu˩˧ siː˨ faːi˩˧ tiː˥ kɔː̃i˩˥ laː˩˧ 
+wavs/0_0131.wav|taːi˨ kaː˩˧ tuː˩˧ hɐu˩˥ taːm˩˧ sɐm˩˧ niː˩˧ aː˧ 
+wavs/0_0132.wav|siː˩˧ kʷuː˩˧ wɐi˨˩ ʦɔː˩˥ tiː˥ ʦɐi˩˥ nyː˩˧ , ʦæːŋ˩˧ lɔːk̚˨ jɐŋ˨˩ hɐu˩˥ tɔː˩˧ ʦaːi˩˧ 
+wavs/0_0133.wav|wɐi˨˩ nɛː˩˧ pʊŋ˩˥ syː˩˧ waːk̚˨ tiː˥ ʦʰaːp̚˩˥ waː˩˥ lɔː˨˩ 
+wavs/0_0134.wav|kɐm˩˧ nɪŋ˨˩ ʦʰɐk̚˩˥ ʦʰæːŋ˩˥ piː˩˥ kɐu˨ nɪŋ˨˩ tɔː˩˧ 
+wavs/0_0135.wav|ʦʰyː˨˩ ʦɔː˩˥ ʦyː˩˥ fæːŋ˨ , mɐu˩˧ kʰiː˨˩ tʰaː˩˧ jɛː˩˧ wuːi˩˧ ʦuː˨ kaː˩˧ laː˩˧ 
+wavs/0_0136.wav|jɐk̚˩˥ luː˨ hæːŋ˨˩ , jɐk̚˩˥ luː˨ hɐŋ˩˧ ʦyː˨ kɔː˩˧ 
+wavs/0_0137.wav|jɐk̚˩˥ luː˨ tʰɐi˩˥ pɐu˩˧ ʦiː˩˥ , jɐk̚˩˥ luː˨ hɐp̚˩˥ ŋæːŋ˩˧ fɐŋ˩˧ 
+wavs/0_0138.wav|sœːŋ˩˧ ʦɐu˩˧ hyː˩˧ siː˨˩ haː˩˧ ʦɐu˩˧ hyː˩˧ aː˧ ?
+wavs/0_0139.wav|ŋɔː˩˧ hyː˩˧ siː˨˩ niː˩˧ hyː˩˧ aː˧ ?
+wavs/0_0140.wav|nɛː˩˧ ʦiː˩˧ pɐk̚˩˥ hɐi˨ niː˩˧ siː˨˩ hɐi˨ ŋɔː˩˧ kɛː˩˧ ?
+wavs/0_0141.wav|niː˩˧ ʦʊŋ˩˧ jiː˩˧ hɛːk̚˩˥ ʦʊk̚˩˥ siː˨ hɛːk̚˩˥ fæːŋ˨ ?
+wavs/0_0142.wav|jɐk̚˩˥ hɐi˨ hɛːk̚˩˥ jyː˩˥ , jɐk̚˩˥ hɐi˨ hɛːk̚˩˥ kɐi˩˧ , niː˩˧ ʦiː˨ kiː˩˥ kæːŋ˩˥ lɔːk̚˩˥ 
+wavs/0_0143.wav|jɐk̚˩˥ hɐi˨ niː˩˧ hyː˩˧ , jɐk̚˩˥ hɐi˨ kʰyː˨˩ hyː˩˧ , ʦʊŋ˩˥ ʦiː˩˧ jɐk̚˩˥ tɐŋ˨ jiːu˩˧ jɐu˩˧ jɐŋ˨˩ hyː˩˧ 
+wavs/0_0144.wav|ʦʰɔː˩˧ fɔː˩˥ ʦʰɛː˩˧ , ʦʰɔː˩˧ fiː˩˧ kiː˩˧ tuː˩˧ tɐk̚˩˥ 
+wavs/0_0145.wav|nɐŋ˨˩ jyːŋ˨ piː˩˥ tiː˥ ʦʰɪŋ˩˥ kʰyː˨˩ , tuː˩˧ m̩˨˩ sœːŋ˩˥ kʰyː˨˩ ʦɵj˩˧ kʷɔː˩˧ lɵj˨˩ 
+wavs/0_0146.wav|jyː˩˧ kʰiː˨˩ tʰɔː˩˧ ʦyː˨ kɔː˩˥ tʰɐu˨˩ , pɐk̚˩˥ jyː˨˩ ʦɐu˩˥ tiː˥ tʰyːŋ˩˧ fuːi˩˧ kɔː˩˥ tʰiːu˨˩ miː˩˧ laː˩˧ 
+wavs/0_0147.wav|kiː˩˧ jɪŋ˨˩ nɛː˩˧ kɔː˩˧ ʦuː˨ fæːk̚˩˥ m̩˨˩ hɐu˩˥ , pɐk̚˩˥ jyː˨˩ nɐm˩˥ kʷɔː˩˧ tɐi˨ jiː˨ tiː˥ pæːŋ˨ fæːk̚˩˥ laː˩˧ 
+wavs/0_0148.wav|ŋɔː˩˧ ʦʰœːŋ˩˧ kɔː˩˧ tʰʊŋ˨˩ tʰiːu˩˧ muː˩˧ tuː˩˧ m̩˨˩ sɐk̚˩˥ kaː˩˧ 
+wavs/0_0149.wav|m̩˨˩ hɐi˨ ʦɐŋ˨ hɐi˨ ŋɔː˩˧ wuːi˩˧ kaː˩˧ , taːi˨ kaː˩˧ tuː˩˧ wuːi˩˧ kaː˩˧ 
+wavs/0_0150.wav|m̩˨˩ hɐi˨ ʦɐŋ˨ hɐi˨ ŋɔː˩˧ jiːu˩˧ kaː˩˧ , taːi˨ kaː˩˧ tuː˩˧ jiːu˩˧ kaː˩˧ 
+wavs/0_0151.wav|pɐk̚˩˥ ʦiː˩˥ kiːu˩˧ kʰyː˨˩ ʦʰaːm˩˧ kaː˩˧ , ʦʊŋ˨ jiːu˩˧ kʰyː˨˩ ʦuː˨ ʦyː˩˥ kɔːk̚˩˥ tʰiːm˩˧ aː˧ 
+wavs/0_0152.wav|sɵj˩˧ jɪŋ˨˩ niː˩˧ tuː˩˧ hɐu˩˥ ʦʰʊŋ˩˧ mɐŋ˨˩ , tæːŋ˨ hɐi˨ tuː˩˧ jiːu˩˧ kʰɐŋ˨˩ lɐk̚˨ kaː˩˧ 
+wavs/0_0153.wav|niː˩˧ kɔːŋ˩˥ kɔː˩˧ hɐu˩˥ liː˩˧ sœːŋ˩˥ , tæːŋ˨ hɐi˨ ʦuː˨ m̩˨˩ tɐu˩˧ nɛː˩˧ 
+wavs/0_0154.wav|ai˩˧ , ʦiː˩˥ jiːu˩˧ sɐŋ˩˧ tʰɐi˩˥ hɐu˩˥ , nɛː˩˧ tiː˥ siːu˩˥ siː˨ ŋɔː˩˧ ʦiː˨ kiː˩˥ hiːu˩˥ ʦuː˨ kaː˩˧ laː˩˧ 
+wavs/0_0155.wav|ʦiː˩˥ jiːu˩˧ sɐŋ˩˧ tʰɐi˩˥ hɐu˩˥ , nɛː˩˧ tiː˥ siːu˩˥ siː˨ ŋɔː˩˧ ʦiː˨ kiː˩˥ wuːi˩˧ ʦuː˨ kaː˩˧ laː˩˧ 
+wavs/0_0156.wav|jɐk̚˩˥ jɐu˩˧ siːu˩˥ paː˩˧ ŋɔː˩˧ ʦɐu˨ taːp̚˩˥ ʦʰɛː˩˧ jɐp̚˨ lɵj˨˩ wɐŋ˩˥ niː˩˧ 
+wavs/0_0157.wav|m̩˨˩ liː˩˧ miː˥ jɛː˩˧ jyːŋ˨˩ jɐŋ˥ , tuː˩˧ m̩˨˩ hɔː˩˥ jiː˩˧ ʦiːp̚˩˥ sɐu˨ kɛː˩˧ 
+wavs/0_0158.wav|jyː˨˩ kʷɔː˩˥ niː˩˧ m̩˨˩ sɐŋ˩˧ , ŋɔː˩˧ ʦɐu˨ ʦʰɐŋ˩˧ ʦiː˨ taːi˩˧ niː˩˧ hyː˩˧ tʰɐi˩˥ haː˩˧ 
+wavs/0_0159.wav|ŋɔː˩˧ aː˩˧ jɛː˨˩ hɐi˨ jœːŋ˩˧ ʦœːk̚˩˥ kɛː˩˧ , sɔː˩˥ jiː˩˧ ŋɔː˩˧ mɐi˩˧ sɐk̚˩˥ lɔː˨˩ 
+wavs/0_0160.wav|ŋɔː˩˧ tʰɐi˩˥ haːu˨ pʊŋ˩˧ jɐk̚˨ syː˩˧ , tʰɐi˩˥ tɐu˩˧ hɐu˩˥ kʷuːi˨ aː˧ 
+wavs/0_0161.wav|niː˩˧ jɐp̚˨ sɐŋ˨˩ m̩˨˩ ʦʰɛːŋ˨˩ ? jɐp̚˨ ʦɔː˩˥ laː˩˧ 
+wavs/0_0162.wav|tʰɪŋ˩˧ kʷɔː̃i˩˧ laː˩˧ , faːi˩˧ tiː˥ hiː˩˥ sɐŋ˩˧ aː˧ !
+wavs/0_0163.wav|ŋɔː˩˧ ʦʊk̚˩˥ tɐu˩˧ jɐk̚˩˥ kɔː˩˧ ʦʰɐk̚˨ , kʰyː˨˩ sœːŋ˩˥ tʰɐu˩˧ jɛː˩˧ 
+wavs/0_0164.wav|kʰyː˨˩ fɐŋ˩˧ haːu˨ jɐk̚˩˥ kɔː˩˧ ʦʊŋ˩˧ tʰɐu˨˩ 
+wavs/0_0165.wav|hɛːk̚˩˥ fæː̃i˨ m̩˨˩ ʦʰɛːŋ˨˩ ? hɛːk̚˩˥ haːu˨ laː˩˧ ?
+wavs/0_0166.wav|kʷʊk̚˩˥ haːu˨ hɐu˩˥ tɔː˩˧ wɔː˨˩ fæː̃i˩˥ lɵj˨˩ 
+wavs/0_0167.wav|kʰyː˨˩ hɛːk̚˩˥ jyːŋ˨˩ fæː̃i˨ ʦɐu˨ ʦɐu˩˥ haːu˨ lɔːk̚˩˥ 
+wavs/0_0168.wav|ŋɔː˩˧ sɐk̚˨ haːu˨ fæː̃i˨ laː˩˧ 
+wavs/0_0169.wav|tɐŋ˩˥ ŋɔː˩˧ mɔːk̚˩˥ tɐi˩˧ nɛː˩˧ kɪŋ˨ saːm˩˧ sɪŋ˥ 
+wavs/0_0170.wav|pɐk̚˩˥ jyː˨˩ hɛːk̚˩˥ maːi˨˩ fæːŋ˨ ʦɐu˨ ʦɐu˩˥ lɔː˨˩ ?
+wavs/0_0171.wav|jɐk̚˩˥ kɐu˩˧ ʦʊŋ˩˧ ʦɐu˨ jiːu˩˧ ʦɐu˩˥ laː˩˧ 
+wavs/0_0172.wav|kʰyː˨˩ ʦɔː̃i˨ tɐu˩˧ pɔː˩˧ liː˨˩ 
+wavs/0_0173.wav|niː˩˧ tʰɐu˨˩ sɪŋ˩˧ hyː˩˧ kʷɔː˩˧ syːŋ˩˥ tʰɐu˨˩ aː˧ ?
+wavs/0_0174.wav|niː˩˧ tʰɐu˨˩ sɪŋ˩˧ hyː˩˧ kʷɔː˩˧ syːŋ˩˥ tʰɐu˨˩ aː˧ ?
+wavs/0_0175.wav|ŋɔː˩˧ sɛː˩˥ hɐu˩˥ kɔː˩˥ fʊŋ˩˧ sɐŋ˩˧ ʦɐu˨ hæːŋ˨˩ tɐk̚˩˥ laːk̚˧ 
+wavs/0_0176.wav|niː˩˧ tʰɐi˩˥ haː˩˧ fæːk̚˩˥ sæːŋ˩˧ mɛː˥ siː˨ ?
+wavs/0_0177.wav|niː˩˧ ʦʰɔː˩˧ haː˩˧ sɪŋ˥ , m̩˨˩ sɐi˩˥ hæːk̚˩˥ hiː˩˧ 
+wavs/0_0178.wav|maː˨˩ fæːŋ˨˩ niː˩˧ tʰɐi˩˥ haː˩˧ 
+wavs/0_0179.wav|niː˩˧ siː˩˧ haː˩˧ wɐŋ˩˥ haː˩˧ kɔː˩˥ kɔː˩˧ kʷɐi˨ tʰʊŋ˩˥ , tʰɐi˨ haː˩˧ jɐu˩˧ mɐu˩˧ ?
+wavs/0_0180.wav|ŋɔː˨˩ tiː˩˥ lœːŋ˩˥ kɔː˩˧ sœːŋ˩˧ lœːŋ˨˩ jɐk̚˩˥ haː˩˧ sɪŋ˥ 
+wavs/0_0181.wav|ʦʰɪŋ˨˩ mɪŋ˨ fʊŋ˩˧ luː˨ , hɐu˩˥ tɔː˩˧ jɐŋ˨˩ kʰiː˩˧ hɐi˩˥ ʦʰɛː˩˧ ʦaːm˨ kɔː˩˥ tuː˨ tɐŋ˩˥ ʦʰɛː˥ 
+wavs/0_0182.wav|ʦʰɔː˩˧ kɔː˩˥ tʰɐu˨˩ hɛːk̚˩˥ fæːŋ˨ 
+wavs/0_0183.wav|kʰyː˨˩ tiː˩˥ tiː˥ jɐŋ˨˩ hɐi˩˥ tuː˨ kɔː̃i˩˥ kɐŋ˩˥ jɛː˩˧ , ŋɔː˩˧ m̩˨˩ hɐu˩˥ jiː˩˧ siː˩˧ taːp̚˩˥ ʦɵj˩˥ wɔː˩˧ 
+wavs/0_0184.wav|ŋɔː˩˧ lɔː˩˥ ʦyː˨ jɐk̚˩˥ kɔː˩˧ hɐu˩˥ ʦʰʊŋ˨˩ kɛː˩˧ tɵj˩˥ 
+wavs/0_0185.wav|mʊŋ˨˩ hɐu˩˥ kʰiː˩˧ ʦɔː˩˥ kɐm˩˥ tɔː˩˧ ŋɔː˩˧ m̩˨˩ sɐk̚˩˥ kɔː˩˥ tiː˥ jɐŋ˨˩ kɛː˥ ?
+wavs/0_0186.wav|kɔː˩˥ tɐu˨ mʊŋ˨˩ fuːi˩˧ hɐu˨ lɔː˨˩ 
+wavs/0_0187.wav|kɔː˩˥ tɐu˨ mʊŋ˨˩ fuːi˩˧ hɐu˨ lɔː˨˩ 
+wavs/0_0188.wav|taːi˨ ʦaːp̚˨ fuːi˩˧ haːu˨ laː˩˧ , niː˩˧ jɐp̚˨ hyː˩˧ laː˥ 
+wavs/0_0189.wav|nɛː˩˧ tiː˥ ʦʰɪŋ˩˥ niː˩˧ lɔː˩˥ ʦyː˨ sɪŋ˥ 
+wavs/0_0190.wav|kʰyː˨˩ ʦʊŋ˩˧ jiː˩˧ hɐi˩˥ ʦʰɔːŋ˨˩ sœːŋ˩˧ kɔː˩˥ tuː˨ tʰɐi˩˥ syː˩˧ wɔː˩˧ 
+wavs/0_0191.wav|kʰyː˨˩ taːm˩˧ ʦyː˨ jɐk̚˩˥ paː˩˥ ʦɛː˩˧ , ʦʰɵj˩˧ tʰɐu˨˩ tɐŋ˩˥ kɐŋ˩˥ jɐŋ˨˩ 
+wavs/0_0192.wav|niː˩˧ kiː˩˧ tɐk̚˩˥ jiːu˩˧ tʰʊŋ˥ ʦiː˥ ŋɔː˩˧ 
+wavs/0_0193.wav|niː˩˧ kiː˩˧ tɐk̚˩˥ jiːu˩˧ tʰʊŋ˥ ʦiː˥ kʰyː˨˩ aː˧ 
+wavs/0_0194.wav|kʷɐi˨ tɛːŋ˩˥ fɔː̃i˩˧ ʦɔː˩˥ jɐk̚˩˥ kaː˩˧ tɪŋ˨ siː˨ kiː˩˧ 
+wavs/0_0195.wav|kɔː˩˧ kɔː˩˧ piː˩˥ ʦʰɵj˩˧ ʦɐu˨ faːi˩˧ jiːu˩˧ fuːi˩˧ ʦʰiː˩˥ laː˩˧ 
+wavs/0_0196.wav|kɔː˩˧ tiː˥ syː˨ fuːi˩˧ ʦʰiː˩˥ lɔːk̚˨ jiːp̚˨ laː˩˧ 
+wavs/0_0197.wav|kʰyː˩˧ jɐk̚˩˥ kɔː̃i˩˥ jɛː˩˧ hiː˩˥ maː˩˧ jiːu˩˧ kɔː̃i˩˥ lœːŋ˩˥ kɔː˩˧ ʦʊŋ˥ tʰɐu˨˩ 
+wavs/0_0198.wav|ŋɔː˩˧ hyː˩˧ kʷɔː˩˧ sœːŋ˩˧ fuːi˩˥ 
+wavs/0_0199.wav|ŋɔː˩˧ kiː˩˥ jɐk̚˨ ʦʰɪŋ˨˩ hyː˩˧ kʷɔː˩˧ laː˥ 
+wavs/0_0200.wav|kɐm˩˧ nɪŋ˨˩ taː˩˥ kʷɔː˩˧ kiː˩˥ ʦʰiː˩˧ fʊŋ˩˧ 
+wavs/0_0201.wav|tʰɐu˨˩ sɪŋ˥ waːi˨ ʦɔː˩˥ , naː˥ haː˩˧ fɐk̚˩˥ jɪŋ˨˩ jɐu˨ hɐu˩˥ fæːŋ˩˥ 
+wavs/0_0202.wav|ŋɔː˨˩ tiː˩˥ ʦʊŋ˨ m̩˨˩ ʦʰɛːŋ˨˩ hɛːk̚˩˥ fæːŋ˨ ʦaː˩˧ 
+wavs/0_0203.wav|niː˩˧ tiː˩˧ tɐu˩˧ ʦɛː˥ , tæːŋ˨ hɐi˨ kʰiː˨˩ tʰaː˥ jɐŋ˨˩ m̩˨˩ tiː˩˧ aː˥ maː˩˧ !
+wavs/0_0204.wav|ʦɛːŋ˨ hɐi˨ jɐk̚˩˥ ʦœːŋ˩˧ ʦiː˩˥ ʦɛː˥ , ʦuː˨ mɛː˥ kɐm˧ kɐŋ˩˥ ʦœːŋ˥ aː˧ ?
+wavs/0_0205.wav|ŋɔː˩˧ ʦɐu˨ m̩˨˩ hyː˩˧ !
+wavs/0_0206.wav|kɐm˩˧ jɐk̚˨ hɐi˨ lɐi˩˧ paːi˩˧ saːm˩˧ 
+wavs/0_0207.wav|ɔ˩˧ , niː˩˧ sœːŋ˩˥ æːk̚˩˥ ʦʰɪŋ˩˥ aː˩˧ ?
+wavs/0_0208.wav|m̩˨˩ wuːi˩˧ jɐu˨ ʦʰiː˨˩ tɐu˩˧ kʷaː˩˧ ?
+wavs/0_0209.wav|faːi˩˧ tiː˥ laː˩˧ , kʷʊŋ˩˥ siː˨˩ kæːŋ˩˧ aː˩˧ !
+wavs/0_0210.wav|niː˩˧ fɔː̃i˩˧ sɐm˩˧ laː˩˧ !
+wavs/0_0211.wav|hɐm˨ maː˨˩ læːŋ˨˩ lɔː˩˥ hyː˩˧ !
+wavs/0_0212.wav|hɐm˨ maː˨˩ læːŋ˨˩ lɔː˩˥ hyː˩˧ laː˥ !
+wavs/0_0213.wav|pɔː̃i˩˧ haː˩˧ sɐu˩˥ lɔːk̚˩˥ !
+wavs/0_0214.wav|faːi˩˧ tiː˥ ʦuː˨ jɛː˩˧ !
+wavs/0_0215.wav|tɐk̚˩˥ hæːŋ˨˩ kʷɔː˩˧ lɵj˨˩ ʦʰɔː˩˧ jɐk̚˩˥ haː˩˧ 
+wavs/0_0216.wav|niː˩˧ kʰiː˩˧ maːi˨˩ jɐk̚˩˥ pɪŋ˩˧ , m̩˨˩ hɐu˩˥ kaːu˩˥ ʦyː˨ jɐŋ˨˩ !
+wavs/0_0217.wav|pɐi˨ laː˩˧ !
+wavs/0_0218.wav|ʦɐŋ˩˧ hɐi˨ kʊk̚˩˥ hiː˩˧ !
+wavs/0_0221.wav|jɐk̚˨ ŋyːk̚˨ jɐŋ˨˩ ʦɐk̚˩˥ , sɐŋ˨˩ sʊk̚˩˥ lɪk̚˨ ʦœːŋ˩˧ , fʊŋ˨˩ lɵj˨˩ syː˩˥ wɔːŋ˩˧ , ʦʰɐu˩˧ sɐu˩˧ tʊŋ˩˧ ʦʰɔː̃i˨˩
+wavs/0_0222.wav|jɐŋ˨ jyː˨˩ sɛːŋ˨˩ sɵj˩˧
+wavs/0_0223.wav|wɐŋ˨˩ tʰɐŋ˨˩ ʦiː˩˧ jyː˩˧
+wavs/0_0224.wav|luː˨ kɪk̚˩˥ wɐi˨˩ sɔː̃i˩˧
+wavs/0_0225.wav|kɐm˩˧ sæːŋ˩˧ lɐi˨ sɵj˩˥ , jʊk̚˨ ʦʰɐk̚˩˥ kʷʰɐŋ˩˧ kɔː̃i˩˧
+wavs/0_0226.wav|kiːm˩˧ hɐu˨ kyː˨ kʰyːk̚˩˥
+wavs/0_0227.wav|ʦyː˩˧ ʦʰɐŋ˩˧ jɛː˨ kʷɔː̃i˩˧
+wavs/0_0228.wav|kʷɔː˩˥ ʦɐŋ˩˧ liː˩˧ nɵj˨
+wavs/0_0229.wav|ʦʰɵj˩˧ ʦʊŋ˨ kaːi˩˧ kœːŋ˩˧
+wavs/0_0230.wav|fuːi˩˥ haːm˨˩ hɔː˨˩ tʰaːm˩˧
+wavs/0_0231.wav|jyː˩˧ ʦʰœːŋ˨˩
+wavs/0_0232.wav|lʊŋ˨˩ siː˩˧ fɔː˩˥ tɐi˩˧
+wavs/0_0233.wav|niːu˩˧ kʷʊŋ˩˧ jɐŋ˨˩ wɔː̃i˨˩
+wavs/0_0234.wav|ʦʰiː˩˥ ʦɐi˩˧ mɐŋ˨˩ ʦiː˨ naːi˩˧ fʊk̚˨ jiː˨ sœːŋ˨˩
+wavs/0_0235.wav|tʰɵj˩˧ wɐi˨ jœːŋ˨ kʷɔːk̚˩˥ jɐu˩˧ jyː˨˩ tʰɐu˨˩ tʰɔː̃i˨˩
+wavs/0_0236.wav|tiːu˩˧ mɐŋ˨˩ fɐk̚˨ ʦɵj˨
+wavs/0_0237.wav|ʦɐu˩˧ fæːk̚˩˥ jɐŋ˩˧ tʰɔː̃i˩˧
+wavs/0_0238.wav|ʦɔː˨ ʦʰiːu˨˩ mɐŋ˨ tɐu˨
+wavs/0_0239.wav|sɵj˨˩ kʊŋ˩˥ pʰɐŋ˨˩ ʦœːŋ˥
+wavs/0_0240.wav|wuːi˩˧ jʊk̚˨ lɐi˨˩ sɐu˩˥
+wavs/0_0241.wav|sɐŋ˨˩ fʊk̚˨ jʊŋ˩˧ kœːŋ˥
+wavs/0_0242.wav|haː˨˩ jiː˩˧ jɐk̚˩˥ tʰɐi˩˥
+wavs/0_0243.wav|sɐk̚˩˥ pɐŋ˩˧ kʷɐi˩˧ wɔː̃i˨˩
+wavs/0_0244.wav|mɐŋ˨˩ fʊŋ˩˥ ʦʰɵj˩˧ syː˨ pæːk̚˨ kʰyː˩˧ sɐk̚˨ ʦʰœːŋ˨˩
+wavs/0_0245.wav|faː˩˧ pʰiː˩˧ ʦʰɐu˩˥ mʊk̚˨ laːi˨ kʰɐp̚˨ mæː̃i˨ fɔː̃i˩˧
+wavs/0_0246.wav|kʷʰuːi˩˧ ʦʰiː˩˥ sɐŋ˩˧ fæːk̚˩˥ siː˩˧ taːi˨ ŋ˩˧ sœːŋ˨˩
+wavs/0_0247.wav|kʊŋ˩˧ wɐi˨˩ kʊk̚˩˥ jœːŋ˩˧ hiː˩˥ kɐm˩˥ wɐi˩˧ sœːŋ˩˧ hiː˩˥ kɐm˩˥ wɐi˩˥ sœːŋ˩˧
+wavs/0_0248.wav|nyː˩˧ muː˨ ʦɐŋ˩˧ kɪk̚˩˥
+wavs/0_0249.wav|naːm˨˩ haːu˨ ʦʰɵj˨˩ lœːŋ˨˩
+wavs/0_0250.wav|ʦiː˩˧ kʷɔː˩˧ pɪk̚˩˥ kʷuːi˩˥
+wavs/0_0251.wav|tɐk̚˩˥ nɐŋ˨˩ mɔːk̚˨ mɔː̃i˨˩
+wavs/0_0252.wav|mɔː̃i˩˥ tʰaːm˨˩ pʰiː˩˥ tyːŋ˩˥
+wavs/0_0253.wav|miː˨˩ ʦʰiː˩˥ kiː˩˥ ʦʰœːŋ˨˩
+wavs/0_0254.wav|sɐŋ˩˧ siː˩˥ hɔː˩˥ fʊk̚˩˥
+wavs/0_0255.wav|hiː˩˧ jʊk̚˨ næːŋ˨˩ lœːŋ˨˩
+wavs/0_0256.wav|mɐk̚˨ piː˩˧ siː˥ ʦʰɵj˩˧
+wavs/0_0257.wav|siː˩˧ ʦæː̃i˩˧ kɐu˩˧ jœːŋ˨˩
+wavs/0_0258.wav|kɐŋ˩˥ hæː̃i˨˩ wɐi˨˩ jɪŋ˨˩
+wavs/0_0259.wav|hɐk̚˩˥ niːm˨ ʦɔːk̚˩˥ sɐŋ˩˧
+wavs/0_0260.wav|kɪŋ˩˧ tɐk̚˩˥ kɪŋ˩˧ mɐŋ˨˩ lɐp̚˨
+wavs/0_0261.wav|jɐŋ˨˩ tyːŋ˩˧ piːu˩˥ ʦɐŋ˩˧
+wavs/0_0262.wav|hʊŋ˩˧ kʊk̚˩˥ ʦʰyːŋ˨˩ sɛːŋ˩˧
+wavs/0_0263.wav|hyː˩˧ tʰɔː̃i˨˩ ʦaːp̚˨ tʰɛːŋ˩˧
+wavs/0_0264.wav|wɔː˨ jɐŋ˩˧ wɔː˨  wɔː˨ jɐŋ˥ ɔːk̚˩˥ ʦɐk̚˩˥
+wavs/0_0265.wav|fʊk̚˩˥ jyːŋ˨˩ sɪŋ˨ hɐŋ˩˧
+wavs/0_0266.wav|ʦʰɛːk̚˩˥ pɐk̚˩˥ fiː˩˧ pɐu˩˥ ʦʰyːŋ˩˧ jɐm˥ siː˨ kɐŋ˩˧
+wavs/0_0267.wav|ʦiː˩˧ fuː˨ siː˨ kʷɐŋ˩˧
+wavs/0_0268.wav|jɐk̚˨ jɐk̚˨ , jɐk̚˨ jiːm˨˩ jyː˩˧ kɐŋ˩˧
+wavs/0_0269.wav|haːu˩˧ tɔː̃i˩˧ kʰɪk̚˩˥ lɐk̚˨ ʦʊŋ˩˧ ʦɐk̚˩˥ ʦɐŋ˨ mɛːŋ˨
+wavs/0_0270.wav|lɐm˨˩ sɐm˩˧ liː˨ pɔːk̚˨
+wavs/0_0271.wav|sʊk̚˩˥ hɐŋ˩˧
+wavs/0_0272.wav|wɐŋ˩˧ ʦʰɐŋ˩˧
+wavs/0_0273.wav|sʊk̚˩˥ hɐŋ˩˧ wɐŋ˩˧ ʦʰɐŋ˩˧
+wavs/0_0274.wav|ʦʰiː˩˧ læːŋ˨˩ siː˩˧ hɐŋ˩˧
+wavs/0_0275.wav|jyː˨˩ ʦʰʊŋ˨˩ ʦiː˩˧ sɐŋ˨
+wavs/0_0276.wav|ʦʰyːŋ˩˧ lɐu˨˩ pɐk̚˩˥ sɐk̚˩˥ jyːŋ˥ ʦʰɐŋ˨˩ ʦʰyː˩˥ jɐŋ˩˥
+wavs/0_0277.wav|jʊŋ˨˩ ʦiː˩˥ jœːk̚˨ siː˩˧ jɪŋ˨˩ ʦʰiː˨˩ wʊŋ˩˧ tɐŋ˨
+wavs/0_0278.wav|tʊk̚˩˥ ʦʰɔː˩˧ sɐŋ˨˩ miː˩˧
+wavs/0_0279.wav|sɐŋ˨ ʦʊŋ˩˧ jiː˨˩ lɐŋ˨
+wavs/0_0280.wav|wɐŋ˨˩ jiːp̚˨ sɔː˩˥ kiː˩˧
+wavs/0_0281.wav|ʦɐk̚˨ sɐm˨ muː˨˩ kɐŋ˩˥
+wavs/0_0282.wav|hɔːk̚˨ jɐu˥ tɐŋ˩˧ siː˨
+wavs/0_0283.wav|siːp̚˩˥ ʦɐk̚˩˥ ʦʰʊŋ˨˩ ʦɐŋ˩˧
+wavs/0_0284.wav|ʦʰyːŋ˨˩ jiː˩˧ kɐm˩˧ tʰɔː̃i˨˩
+wavs/0_0285.wav|hyː˩˧ jiː˨˩ jɐk̚˩˥ wɐŋ˨
+wavs/0_0286.wav|ŋɔːk̚˨ syː˨˩ kʷɐi˩˧ ʦɪŋ˨ lɐi˩˧ pɪk̚˨ ʦyːŋ˩˧ piː˥
+wavs/0_0287.wav|lɐi˩˧ pɪk̚˨ ʦyːŋ˩˧ piː˩˧
+wavs/0_0288.wav|sœːŋ˩˧ haː˩˧ wɔː˨ mʊk̚˨
+wavs/0_0289.wav|fuː˩˧ ʦʰœːŋ˩˧ fuː˩˧ ʦʰɵj˨˩
+wavs/0_0290.wav|wuːi˨ sɐu˨ fuː˨ fɐŋ˩˧
+wavs/0_0291.wav|jɐp̚˨ fʊŋ˨ muː˩˧ jiː˨˩
+wavs/0_0292.wav|ʦyː˩˧ kʷuː˩˧ pæːk̚˩˥ sʊk̚˩˥ jɐu˨˩ ʦiː˩˥ piː˩˥ jiː˨˩
+wavs/0_0293.wav|hʊŋ˩˥ waːi˨˩ hɐŋ˩˧ tɐi˨ tʰʊŋ˨˩ hiː˩˧ lɪŋ˨˩ ʦiː˩˧
+wavs/0_0294.wav|kaːu˩˧ jɐu˩˧ tʰɐu˨˩ fɐŋ˩˧
+wavs/0_0295.wav|ʦʰɪk̚˩˥ mɔː˨˩ ʦɐm˩˧ kʷʰɐi˥
+wavs/0_0296.wav|ʦʰɪk̚˩˥ mɔː˨˩ ʦɐm˩˧ kʷʰɐi˩˧
+wavs/0_0297.wav|jɐŋ˨˩ ʦʰiː˨˩ jɐŋ˥ ʦʰɐk̚˩˥
+wavs/0_0298.wav|ʦɐu˨ ʦʰiː˩˧ fɐk̚˩˥ liː˨˩
+wavs/0_0299.wav|ʦɪk̚˩˥ jiː˨ liːm˨˩ tʰɵj˩˧ tɪŋ˩˧ pʰuːi˩˧ fiː˩˥ kʷʰɐi˩˧
+wavs/0_0300.wav|sɐŋ˩˧ ʦɐŋ˨ ʦʰɐŋ˨˩ jɐk̚˨
+wavs/0_0301.wav|sɐm˩˧ tʊŋ˨ sɐŋ˨˩ pʰiː˨˩
+wavs/0_0302.wav|sɐu˩˥ ʦɐŋ˩˧ ʦiː˩˧ mʊŋ˩˧
+wavs/0_0303.wav|ʦʊk̚˨ mɐk̚˨ jiː˩˧ jiː˨˩
+wavs/0_0304.wav|kɪŋ˩˧ ʦʰiː˨˩ ŋaː˩˧ ʦʰɐu˩˧ hɐu˩˥ ʦœːk̚˩˥ ʦiː˨
+wavs/0_0305.wav|kɪŋ˩˧ ʦʰiː˨˩ ŋaː˩˧ ʦʰɐu˩˧ hɐu˩˥ ʦœːk̚˩˥ ʦiː˨ miː˨˩
+wavs/0_0306.wav|tuː˩˧ jɐp̚˩˥ waː˨ haː˨ tʊŋ˩˧ sɐi˩˧ jiː˨ kɐŋ˩˧
+wavs/0_0307.wav|puːi˨ mɔː̃i˨˩ mɪŋ˨ lɔːk̚˨
+wavs/0_0308.wav|fɐu˨˩ wɐi˨ kyː˩˧ kɐŋ˩˧
+wavs/0_0309.wav|kʊŋ˩˧ tɪŋ˨ pʰʊŋ˨˩ wɐk̚˩˥ lɐu˨˩ kʷʊŋ˩˧ fiː˩˧ kɐŋ˩˧
+wavs/0_0310.wav|lɐu˨˩ kʷʊŋ˩˧ fiː˩˧ kɛːŋ˩˧
+wavs/0_0311.wav|lɐu˨˩ kʷʊŋ˩˧ fiː˩˧ kɛːŋ˩˧
+wavs/0_0312.wav|tʰuː˨˩ sɛː˩˥ kʰɐm˨˩ sɐu˩˧
+wavs/0_0313.wav|wæːk̚˨ ʦʰɵj˩˥ sɪŋ˩˧ lɐŋ˨˩
+wavs/0_0314.wav|pɐŋ˩˥ sɛː˩˧ pʰɔːŋ˨˩ kʰɐi˩˥ kaːp̚˩˥ ʦœːŋ˩˧ tɵj˩˧ jɐŋ˨˩
+wavs/0_0315.wav|siː˩˧ jyːŋ˨˩ ʦʰɪk̚˩˥ ʦɐk̚˨ kʷuː˩˥ sɐk̚˩˥ ʦʰɵj˩˧ sɐŋ˩˧
+wavs/0_0316.wav|sɐŋ˩˧ kaːi˩˧ naːp̚˨ pɐi˨
+wavs/0_0317.wav|pɪŋ˨ ʦyːŋ˩˥ jiː˨˩ sɛːŋ˩˧
+wavs/0_0318.wav|pɪŋ˨ ʦyːŋ˩˥ jiː˨˩ sɛːŋ˩˧
+wavs/0_0319.wav|jɐu˨ tʰʊŋ˩˧ kʷɔːŋ˩˥ nɵj˨ ʦɔː˩˥ tæːk̚˨ sɐŋ˨˩ mɐŋ˨˩
+wavs/0_0320.wav|kiː˩˧ ʦaːp̚˨ fɐŋ˨˩ tɪŋ˩˥
+wavs/0_0321.wav|jɐk̚˨ ʦyː˨ kʷʰɐŋ˨˩ jɐŋ˩˧
+wavs/0_0322.wav|tuː˨ hɐu˨ ʦʊŋ˩˧ tɐi˨ ʦʰɐk̚˩˥ syː˩˧ pɐk̚˩˥ kɐŋ˩˧
+wavs/0_0323.wav|fuː˩˥ lɔː˨˩ ʦœːŋ˩˧ sœːŋ˩˧
+wavs/0_0324.wav|luː˨ haːp̚˨ waːi˨˩ hɐŋ˩˧
+wavs/0_0325.wav|wuː˨ fʊŋ˩˧ pæːk̚˩˥ jyːŋ˨
+wavs/0_0326.wav|kaː˩˧ kʰɐp̚˩˥ ʦʰɪŋ˩˧ pɐŋ˩˧
+wavs/0_0327.wav|kɐu˩˧ kʷʊŋ˩˧ pʰuːi˨˩ lɪŋ˩˧
+wavs/0_0328.wav|kʰyː˩˧ kʊk̚˩˥ ʦɐŋ˩˧ jɐŋ˩˧
+wavs/0_0329.wav|sɐi˩˧ lʊk̚˨ ʦʰiː˩˥ fuː˩˧
+wavs/0_0330.wav|ʦʰɛː˩˧ kaː˩˧ fiː˨˩ hɐŋ˩˧
+wavs/0_0331.wav|ʦʰæːk̚˩˥ kʊŋ˩˧ mɐu˨ sɐk̚˨ lɐk̚˨ piː˩˧ hɐk̚˩˥ mɐŋ˨˩
+wavs/0_0332.wav|pʰʊŋ˨˩ kʰɐi˩˧ jiː˩˧ wɐŋ˩˧
+wavs/0_0333.wav|ʦɔː˩˧ siː˨˩ aː˩˧ hɐŋ˨˩
+wavs/0_0334.wav|ɐm˩˧ ʦæːk̚˨ kʰʊk̚˩˥ fɐu˨ miː˨˩ tæːŋ˩˧ sʊk̚˨ jɐŋ˨˩
+wavs/0_0335.wav|wʊŋ˨˩ kʊŋ˩˧ hɔːŋ˩˧ hɐp̚˨
+wavs/0_0336.wav|ʦɐi˩˧ jœːk̚˨ fuː˨˩ kʰɐŋ˩˧
+wavs/0_0337.wav|jiː˩˥ wuːi˨˩ fʊŋ˩˧ wɐi˨
+wavs/0_0338.wav|syːk̚˩˥ kɐm˩˥ muː˩˧ tɐŋ˩˧
+wavs/0_0339.wav|ʦɐŋ˩˧ ŋaːi˨ mɐk̚˨ mɐk̚˨ tɔː˩˧ siː˩˥ sɐk̚˨ nɐŋ˨˩
+wavs/0_0340.wav|ʦɐŋ˩˧ ʦʰɔː˩˥ kɐŋ˩˧ paː˩˧ ʦiːu˨ ŋɐi˨ kʷʰɐŋ˩˧ wæːŋ˨˩
+wavs/0_0341.wav|kaː˩˥ tʰuː˨˩ mɪk̚˨ kʷʰɐk̚˩˥
+wavs/0_0342.wav|ʦʰɪŋ˩˧ tʰuː˩˥ wuːi˩˧ mɐŋ˨˩
+wavs/0_0343.wav|hɔː˩˥ ʦɐŋ˩˧ jœːk̚˩˥ fæːk̚˩˥
+wavs/0_0344.wav|fʊŋ˨˩ pɐi˨ fæːŋ˨˩ jɐŋ˨˩
+wavs/0_0345.wav|hiː˩˥ ʦɪŋ˩˥ pʰɔː˩˥ mʊk̚˨ jʊŋ˨ kʷɐŋ˩˧ ʦɵj˩˧ ʦɐŋ˩˧
+wavs/0_0346.wav|syːŋ˩˧ wɐi˩˧ saː˩˧ mɔːk̚˩˥ ʦʰiː˨˩ jyː˨ tæːŋ˩˧ ʦʰɛːŋ˩˧
+wavs/0_0347.wav|kɐu˩˥ ʦɐu˩˧ jyː˩˧ ʦɐk̚˩˥ pæːk̚˩˥ kʷɐŋ˨ ʦʰɐŋ˨˩ pɐŋ˨
+wavs/0_0348.wav|ŋɔːk̚˨ ʦʊŋ˩˧ hɐŋ˨˩ tɵj˨ sɪŋ˨˩ ʦyː˩˥ wɐŋ˨˩ tʰɐŋ˨˩
+wavs/0_0349.wav|ŋæːŋ˨ mʊŋ˨˩ ʦiː˩˥ ʦʰɵj˩˧
+wavs/0_0350.wav|kɐi˩˧ tʰɪŋ˨˩ ʦʰɛːk̚˩˥ sɐŋ˨˩
+wavs/0_0351.wav|kʷʰɐŋ˩˧ ʦʰiː˨˩ kʰɪk̚˩˥ sɛːk̚˨ kyː˨ jɛː˩˧ tʊŋ˨ tʰɐŋ˨˩
+wavs/0_0352.wav|kʷʰɔː̃i˩˧ jyːŋ˩˧ mɪŋ˨˩ miːu˩˧
+wavs/0_0353.wav|ŋaːm˨˩ ʦɐu˨ miːu˩˧ mɐŋ˨˩
+wavs/0_0354.wav|ʦiː˨ pʊŋ˩˥ jyː˩˧ nʊŋ˨˩ muː˨ ʦiː˩˧ kaː˩˧ ʦʰœːŋ˨˩
+wavs/0_0355.wav|sʊk̚˨ ʦɵj˩˧ naːm˨˩ mɐu˩˧ ŋɔː˩˧ ŋɐi˨ syː˩˥ ʦɐk̚˩˥
+wavs/0_0356.wav|ŋɔː˩˧ ŋɐi˨ syː˩˥ ʦɐk̚˩˥
+wavs/0_0357.wav|sɵj˩˧ sʊk̚˨ kʊŋ˩˧ sɐŋ˩˧
+wavs/0_0358.wav|hyːŋ˩˧ sœːŋ˩˥
+wavs/0_0359.wav|ʦyːk̚˩˥ ʦɐk̚˩˥ hyːŋ˩˧ sœːŋ˩˥ ʦyːk̚˩˥ ʦɐk̚˩˥
+wavs/0_0360.wav|mæːŋ˨ ɔː˩˧ tɐŋ˩˧ suː˩˧
+wavs/0_0361.wav|siː˩˥ jyː˨˩ pɐŋ˩˥ ʦɐk̚˨
+wavs/0_0362.wav|syː˩˧ kiː˩˥ ʦʊŋ˩˧ jʊŋ˨˩ lɐu˨˩ hiːm˩˧ kɐŋ˩˥ sɐk̚˩˥
+wavs/0_0363.wav|lɐŋ˨˩ jɐm˩˧ ʦʰæːk̚˩˥ liː˩˧ kaːm˩˧ maːu˨ pɪŋ˨ sɐk̚˩˥
+wavs/0_0364.wav|jiː˨˩ kʰyːk̚˩˥ kaː˩˧ jɐu˨˩
+wavs/0_0365.wav|mɪŋ˩˧ kʰiː˨˩ ʦiː˩˧ ʦɐk̚˨
+wavs/0_0366.wav|sæːŋ˩˥ kʊŋ˩˧ kiː˩˧ kaːi˩˧
+wavs/0_0367.wav|ʦʰʊŋ˩˧ ʦɐŋ˩˧ kʰɔːŋ˩˧ kɪk̚˨
+wavs/0_0368.wav|tʰɵj˩˧ jʊk̚˨ kɐŋ˨ ʦʰiː˩˥
+wavs/0_0369.wav|lɐm˨˩ kɐu˩˧ hɐŋ˨ ʦɪk̚˩˥
+wavs/0_0370.wav|lœːŋ˩˥ sɔː˩˧ kɪŋ˩˧ kiː˩˧
+wavs/0_0371.wav|kaːi˩˥ ʦuː˩˥ sɵj˨˩ pɐk̚˩˥
+wavs/0_0372.wav|sɔːk̚˩˥ kyː˩˧ hæː̃i˨˩ ʦʰyː˩˧ sɐm˩˥ mɐk̚˨ ʦɐk̚˨ liːu˨˩
+wavs/0_0373.wav|kʰɐu˨˩ kʷuː˩˥ ʦʰɐm˨˩ lɐŋ˨
+wavs/0_0374.wav|sæːŋ˩˥ lyː˨ siːu˩˧ jiːu˨˩
+wavs/0_0375.wav|jɐŋ˩˧ ʦɐu˩˧ lɵj˨ hɪŋ˩˥
+wavs/0_0376.wav|ʦʰɐk̚˩˥ ʦɛː˨ fʊŋ˩˧ ʦiːu˩˧
+wavs/0_0377.wav|kʰyː˨˩ hɔː˨˩ tɪk̚˩˥ lɐk̚˨
+wavs/0_0378.wav|jyːŋ˨˩ mɔːŋ˩˧ ʦʰɐu˩˧ tʰiːu˨˩
+wavs/0_0379.wav|pʰiː˨˩ pʰaː˨˩ mæːŋ˩˧ ʦʰɵj˩˧ ŋ˨˩ tʰʊŋ˨˩ ʦɐu˩˥ tiːu˩˧
+wavs/0_0380.wav|ʦʰɐŋ˨˩ kɐŋ˩˧ wɐi˩˥ ɐi˩˧ lɔːk̚˨ jiːp̚˨ pʰiːu˩˧ jiːu˨˩
+wavs/0_0381.wav|jɐu˨˩ kʷʰɐŋ˩˧ tʊk̚˨ wɐŋ˨
+wavs/0_0382.wav|lɐŋ˨˩ mɔː˩˧ kɔː̃i˩˧ siːu˩˧
+wavs/0_0383.wav|taːm˩˧ tʊk̚˨ wʊŋ˨ siː˩˧ jyː˨ mʊk̚˨ nɔːŋ˨˩ sœːŋ˩˧
+wavs/0_0384.wav|jiː˨ jɐu˨˩ jɐu˨˩ wɐi˩˧
+wavs/0_0385.wav|ʦʊk̚˩˥ mʊk̚˨
+wavs/0_0386.wav|wʊŋ˨˩ ʦʰœːŋ˨˩
+wavs/0_0387.wav|kyː˨ sɪŋ˨ ʦʰæː̃i˩˧ fæːŋ˨ sɐk̚˩˥ hɐu˩˥ ʦʰʊŋ˩˧ ʦʰœːŋ˨˩
+wavs/0_0388.wav|paːu˩˥ jyː˩˧ pʰæːŋ˩˧ ʦɵj˩˥
+wavs/0_0389.wav|kiː˩˧ jiːm˩˧ ʦɐu˩˧ hɔːŋ˩˧
+wavs/0_0390.wav|ʦʰɐŋ˩˧ ʦʰɐk̚˩˥ kʷuː˩˧ kɐu˨
+wavs/0_0391.wav|lɐu˩˧ siːu˩˥ jiː˨ lœːŋ˨˩
+wavs/0_0392.wav|ʦʰiːp̚˩˥ jyː˨ ʦɐk̚˩˥ fɔːŋ˩˥ siː˨ kɐŋ˩˧ wɐi˨˩ fɔː̃i˨˩
+wavs/0_0393.wav|jyːŋ˨˩ sɪŋ˩˧ jyːŋ˨˩ kɪk̚˩˥
+wavs/0_0394.wav|ŋɐŋ˨˩ ʦʊk̚˩˥ wɐi˩˧ wɔːŋ˨˩
+wavs/0_0395.wav|ʦɐu˩˧ mɪŋ˨˩ ʦɐk̚˨ miː˨
+wavs/0_0396.wav|laːm˨˩ sɐŋ˩˥ ʦœːŋ˨ ʦʰɔːŋ˨˩
+wavs/0_0397.wav|jyːŋ˨˩ kɔː˩˧ ʦɐu˩˥ jɪŋ˩˧ ʦiːp̚˩˥ puːi˩˧ kyː˩˥ sœːŋ˩˧
+wavs/0_0398.wav|kiːu˩˥ sɐu˩˥ tɐŋ˨ ʦʊk̚˩˥
+wavs/0_0399.wav|jyːk̚˨ jyː˨ ʦʰɛː˩˥ hɔːŋ˩˧
+wavs/0_0400.wav|tɐk̚˩˥ hɐu˨ ʦiː˨ ʦʊk̚˨
+wavs/0_0401.wav|ʦɐi˩˧ ʦiː˨ ʦɐŋ˩˧ sœːŋ˨˩
+wavs/0_0402.wav|kʰɐi˩˧ sɔː̃i˩˥ ʦɵj˩˧ paːi˩˧
+wavs/0_0403.wav|sʊŋ˩˥ kyː˨ hʊŋ˩˥ wɔːŋ˨˩
+wavs/0_0404.wav|ʦɪŋ˩˧ tiːp̚˨ kæː̃i˩˥ jiːu˩˧
+wavs/0_0405.wav|kʷuː˩˧ taːp̚˩˥ sɐm˩˥ ʦʰœːŋ˨˩
+wavs/0_0406.wav|haːi˨˩ kɐu˩˧ sœːŋ˩˥ jʊk̚˨
+wavs/0_0407.wav|ʦɐp̚˩˥ jiːt̚˨ jyːŋ˨ lœːŋ˨˩ ʦɐp̚˩˥ ŋɪk̚˨ jyːŋ˨ lœːŋ˨˩
+wavs/0_0408.wav|lyː˨˩ lɔː˨˩ tʊk̚˨ tɐk̚˨
+wavs/0_0409.wav|haːi˩˧ jœːk̚˩˥ ʦʰiːu˩˧ sœːŋ˩˧
+wavs/0_0410.wav|ʦyː˩˧ ʦaːm˩˥ ʦʰaːk̚˨ tɐu˨
+wavs/0_0411.wav|puː˨ wɔːk̚˨ pʊŋ˨ mɔːŋ˨˩
+wavs/0_0412.wav|puː˩˧ sɛː˨ liːu˨˩ jyːŋ˩˥
+wavs/0_0413.wav|kʰɐi˩˧ kʰɐm˨˩ jyːŋ˩˥ , siːu˩˧
+wavs/0_0414.wav|tʰiːm˩˧ pɐk̚˩˥ lɐŋ˨˩ ʦiː˩˥
+wavs/0_0415.wav|kʷɐŋ˩˧ haːu˩˥ jɐm˨ tiːu˩˧
+wavs/0_0416.wav|sɐk̚˩˥ fɐŋ˩˧ liː˨ ʦʊk̚˨
+wavs/0_0417.wav|pɐŋ˨ kaːi˩˧
+wavs/0_0418.wav|kaːi˩˧ miːu˨
+wavs/0_0419.wav|mɐu˨˩ siː˩˧ sʊk̚˩˥ ʦiː˩˧ mɐu˨˩ siː˩˧ sʊk̚˨ ʦiː˩˧ kʊŋ˩˧ pʰɐŋ˨˩ jɪŋ˨˩ siːu˩˧
+wavs/0_0420.wav|nɪŋ˨˩ ʦʰiː˩˥ muːi˩˧ ʦʰɵj˩˧
+wavs/0_0421.wav|hiː˩˧ fɐi˩˧ lɔːŋ˩˧ jiːu˨
+wavs/0_0422.wav|syːŋ˨˩ kiː˩˧ jyːŋ˨˩ wæːk̚˨
+wavs/0_0423.wav|fuːi˩˧ pʰæːk̚˩˥ wæːŋ˨˩ ʦiːu˩˧
+wavs/0_0424.wav|ʦiː˩˥ sɐŋ˩˧ sɐu˩˧ kuː˩˥ wɐŋ˩˧ sɵj˩˧ kɐk̚˩˥ siːu˨˩
+wavs/0_0425.wav|kyː˩˥ puː˨ jɐŋ˩˧ lɛːŋ˩˧ fuː˩˥ jœːŋ˩˧ lɔːŋ˨˩ miːu˨
+wavs/0_0426.wav|ʦʰʊk̚˩˥ taːi˩˧ kɐŋ˩˧ ʦɔːŋ˩˧ pʰuːi˨˩ wuːi˨˩
+wavs/0_0427.wav|siːm˨˩ tʰiːu˩˧
+wavs/0_0428.wav|pʰuːi˨˩ wuːi˨˩
+wavs/0_0429.wav|pʰuːi˨˩ wuːi˨˩ ʦiːm˩˧ tʰiːu˩˧
+wavs/0_0430.wav|kʷuː˩˧ lɐu˨ kʷaː˩˥ mɐŋ˨˩
+wavs/0_0431.wav|jyː˨˩ mʊŋ˨˩ tɐŋ˩˥ ʦʰiːu˩˧
+wavs/0_0432.wav|wɐi˨ jyː˩˧ ʦɔː˨ ʦɛː˩˥
+wavs/0_0433.wav|jɪŋ˩˧ ʦɵj˩˧ fuː˨˩ jaː˩˧
+wavs/0_0434.wav|kʷʊŋ˩˧ kɐm˩˧ jiː˨˩ kaːm˩˧ kʷuː˩˥ , muː˨˩ kʷuː˩˥ pɐk̚˩˥ sɛːŋ˨˩ kɐm˩˧ 
+wavs/0_0435.wav|tiː˩˧ kiː˩˥ tiː˩˧ piː˩˥ , ʦœːŋ˩˧ sɐm˩˧ piː˩˥ sɐm˩˧ 
+wavs/0_0436.wav|ʦɐu˩˥ fʊŋ˨˩ tiː˩˧ kiː˩˥ jɐm˩˥ 
+wavs/0_0437.wav|siː˩˧ hœːŋ˩˧ wuːi˩˧ jɐŋ˨˩ jɐm˨˩ 
+wavs/0_0438.wav|sœːŋ˩˧ sɐk̚˩˥ mʊŋ˩˧ tʰɪŋ˩˧ haː˩˧ 
+wavs/0_0439.wav|tiː˩˧ sɐm˩˧ jɐu˩˧ kiː˩˥ jɐŋ˨˩ 
+wavs/0_0440.wav|sœːŋ˩˧ fʊŋ˨˩ hɐu˩˥ ʦʰiː˩˧ ʦʰɔː˩˧ sœːŋ˩˧ sɐk̚˩˥ 
+wavs/0_0441.wav|tɐu˩˧ lɐu˩˧ ʦʊŋ˩˧ muː˨˩ jyːŋ˩˧ hɐŋ˨ sɐm˩˧ 
+wavs/0_0442.wav|kɐŋ˨ sɵj˩˥ tiː˩˧ jyː˩˥ sɐŋ˩˧ , kɐŋ˨ sæːŋ˩˧ sɐk̚˩˥ niːu˩˧ jɐm˥ 
+wavs/0_0443.wav|jiː˨ ʦœːŋ˩˧ jiː˨ tʰɵj˩˧ sæːŋ˩˧ kʰɐi˩˧ sɵj˩˥ , jiː˨ fæːŋ˩˥ jiː˨ fʊk̚˩˥ siːu˩˥ jɐŋ˨˩ sɐm˩˧ 
+wavs/0_0444.wav|wɐŋ˨ hyː˩˧ kɐm˩˧ sɛːŋ˨˩ tʰɪk̚˩˥ , siː˨˩ lɵj˨˩ tʰɪk̚˩˥ ʦʰiː˩˧ kɐm˩˧ 
+wavs/0_0445.wav|tʊk̚˨ syː˩˧ syː˩˧ jʊŋ˨ jiː˩˧ , jɐk̚˩˥ ʦiː˨ ʦɐk̚˨ ʦʰɪŋ˩˧ kɐm˩˧ 
+wavs/0_0446.wav|fʊŋ˨˩ jɐŋ˨˩ tæːŋ˨ syːk̚˩˥ saːm˩˧ fɐŋ˩˧ waː˨ 
+wavs/0_0447.wav|miː˨ hɔː˩˥ ʦʰyːŋ˨˩ pʰaːu˩˧ jɐk̚˩˥ pʰɪŋ˩˥ sɐm˩˧ 
+wavs/0_0448.wav|jɐu˩˧ jiː˩˧ ʦɵj˩˧ faː˩˧ faː˩˧ pɐk̚˩˥ fæːk̚˩˥ , muː˨˩ sɐm˩˧ ʦʰaːp̚˩˥ lɐu˩˧ lɐu˩˧ sɛːŋ˨˩ jɐm˩˧ 
+wavs/0_0449.wav|wæːk̚˨ fuː˩˥ wæːk̚˨ pʰiː˨˩ næːŋ˨˩ wæːk̚˨ kʷɐk̚˩˥ , tiː˩˧ jɐŋ˨˩ tiː˩˧ mɪŋ˨ pɐk̚˩˥ tiː˩˧ sɐm˩˧ 
+wavs/0_0450.wav|tiː˩˧ jɐŋ˨˩ tiː˩˧ mɪŋ˨ pɐk̚˩˥ tiː˩˧ sɐm˩˧ 
+wavs/0_0451.wav|ʦʰɪŋ˨˩ ʦʰɵj˨˩ jyː˨˩ fɐŋ˩˧ tʰuː˩˥ , jɐŋ˨˩ jiː˨ ʦɐk̚˨ ʦʰɪŋ˩˧ kɐm˩˧ 
+wavs/0_0452.wav|lɐu˨˩ sɵj˩˥ haː˩˧ tʰæːŋ˩˧ fiː˩˧ jɐu˩˧ jiː˩˧ , pæːk̚˨ wɐŋ˨˩ ʦʰɐk̚˩˥ ʦɐu˨ pʊŋ˩˥ muː˨˩ sɐm˩˧ 
+wavs/0_0453.wav|tɔːŋ˩˧ siː˨˩ jœːk̚˨ pɐk̚˩˥ tɐŋ˩˧ kɐu˩˧ mɔːŋ˨ , sɵj˨˩ sɐŋ˩˧ tʊŋ˩˧ lɐu˨˩ fuːi˩˥ jœːŋ˨˩ sɐm˩˧ 
+wavs/0_0454.wav|luː˨ jiːu˨˩ tiː˩˧ maː˩˧ lɐk̚˨ , siː˨ kɐu˩˥ kɪŋ˩˧ jɐŋ˨˩ sɐm˩˧ 
+wavs/0_0455.wav|lœːŋ˩˥ jɐŋ˨˩ jɐk̚˩˥ pʊŋ˩˧ sɐm˩˧ , muː˨˩ ʦʰɪŋ˨˩ hɐm˩˧ maːi˩˧ kɐm˩˧ , jɐk̚˩˥ jɐŋ˨˩ jɐk̚˩˥ pʊŋ˩˧ sɐm˩˧ , jɐu˩˧ ʦʰɪŋ˨˩ næːŋ˨˩ maːi˩˧ ʦɐm˩˧ 
+wavs/0_0456.wav|sœːŋ˩˧ kɪŋ˩˧ jiː˨ tɐk̚˩˥ hɐu˩˥ , kɐu˩˥ ʦyː˨ næːŋ˨˩ wɐi˨˩ jɐŋ˨˩ 
+wavs/0_0457.wav|maː˩˧ hæːŋ˨˩ muː˨˩ lɐk̚˨ kaːi˩˧ jɐŋ˩˧ sɐu˩˧ , jɐŋ˨˩ pɐk̚˩˥ fʊŋ˩˧ lɐu˨˩ ʦiː˩˥ wɐi˨˩ pʰɐŋ˨˩ 
+wavs/0_0458.wav|jiːu˨˩ jɐŋ˨˩ pɐk̚˩˥ siː˨ ʦʰiː˩˧ fʊŋ˩˧ , ʦʰiː˩˧ fʊŋ˩˧ pɐk̚˩˥ wuːi˩˧ jiːu˨˩ jɐŋ˨˩ 
+wavs/0_0459.wav|siː˨ ʦʰɐŋ˩˧ pɐk̚˩˥ siː˨ ʦʰɐŋ˩˧ , fiː˩˧ ʦʰɐŋ˩˧
+wavs/0_0460.wav|kʰœːk̚˩˥ siː˨ ʦʰɐŋ˩˧ 
+wavs/0_0461.wav|lɛːŋ˩˧ m̩˨˩ lɛːŋ˩˧ , hœːŋ˩˧ ʦʊŋ˩˧ sɵj˩˥ , ʦʰɐŋ˩˧ m̩˨˩ ʦʰɐŋ˩˧ , kʷuː˩˧ hœːŋ˩˧ jɐŋ˨˩ 
+wavs/0_0462.wav|jɐŋ˨˩ faː˩˧ jɐu˨˩ pʰaː˩˧ ʦʰɐŋ˩˧ kʷɔːŋ˩˧ lɐu˩˧ , hiː˩˥ hɔː˩˥ kɐu˩˧ jɐŋ˨˩ wɔːŋ˩˥ tuː˨ ʦʰɐŋ˩˧ 
+wavs/0_0463.wav|sœːŋ˩˧ fʊŋ˨˩ pɐk̚˩˥ jɐm˩˥
+wavs/0_0464.wav|hʊŋ˩˧ kʷɐi˩˧ hyː˩˧ , tʊŋ˨ hɐu˩˥ tʰɐu˨˩ faː˩˧ jaː˩˧ siːu˩˧ jɐŋ˨˩ 
+wavs/0_0465.wav|hʊŋ˨˩ fɐŋ˩˥ kaːi˩˧ jɐŋ˨˩ jɐu˩˧
+wavs/0_0466.wav|siː˩˥ lɐu˩˧ , fʊŋ˩˧ lɐu˨˩ lɔːŋ˨ ʦiː˩˥ mɔːk̚˨ kɐu˩˧ pʰɐŋ˨˩ 
+wavs/0_0467.wav|ʦʰɵj˩˧ kaː˩˧ pɐk̚˩˥ wuːi˩˧ jɐŋ˨˩ pɐŋ˩˧ hæːk̚˩˥ , ʦʰɐk̚˩˥ wuːi˨ fɔːŋ˩˧ tiː˩˧ siːu˩˥ ʦyː˩˥ jɐŋ˨˩ 
+wavs/0_0468.wav|wɔːŋ˨˩ kɐm˩˧ muː˨˩ kaː˩˧ 
+wavs/0_0469.wav|a˩˧ ŋɐi˨ muː˨˩ ʦɐŋ˩˧ 
+wavs/0_0470.wav|hæːk̚˩˥ lɵj˨˩ ʦyː˩˥ pɐk̚˩˥ kʷuː˩˧ 
+wavs/0_0471.wav|jɐŋ˩˧ hʊŋ˩˥ siː˨ ʦʰiː˩˧ jɐŋ˨˩ 
+wavs/0_0472.wav|pʰɐŋ˨˩ kyː˩˧ naːu˨ siː˩˧ muː˨˩ jɐŋ˨˩ mɐŋ˨ 
+wavs/0_0473.wav|fuː˩˧ ʦʰɵj˩˧ sɐm˩˧ sæːŋ˩˧ jɐu˩˧ jyːŋ˩˧ ʦʰɐŋ˩˧ 
+wavs/0_0474.wav|sɵj˨˩ jɐŋ˨˩ puːi˨ hɐu˨ muː˨˩ jɐŋ˨˩ kɔːŋ˩˥ , naː˩˧ kɔː˩˧ jɐŋ˨˩ ʦʰɪŋ˨˩ m̩˨˩ kɔːŋ˩˥ jɐŋ˨˩ 
+wavs/0_0475.wav|jɐu˩˧ ʦʰɪŋ˨˩ jɐu˩˧ ʦʰɪŋ˩˥ kɔː̃i˩˥ ʦɐŋ˩˧ waː˨ , mɐu˩˧ ʦʰɪŋ˩˥ jyː˩˧ pɐk̚˩˥ ʦɐŋ˩˧ 
+wavs/0_0476.wav|jɐu˩˧ ʦʰɪŋ˩˥ kɔː̃i˩˥ ʦɐŋ˩˧ waː˨ , mɐu˩˧ ʦʰɪŋ˩˥ kɔː̃i˩˥ m̩˨˩ ʦɐŋ˩˧
+wavs/0_0477.wav|m̩˨˩ sɐŋ˩˧ tʰɐi˩˥ haː˩˧ jyːŋ˨˩ ʦʊŋ˥ ʦɐu˩˥ , puːi˩˧ puːi˩˧ sɪŋ˩˧ hyːŋ˩˧ jɐu˩˧ ʦʰɪŋ˩˥ jɐŋ˨˩ 
+wavs/0_0478.wav|m̩˨˩ sɐŋ˩˧ tæːŋ˨ fʊŋ˩˧ ʦɐk̚˨ ʦʊŋ˥ ʦɐu˩˥ , puːi˩˧ puːi˩˧ sɪŋ˩˧ hyːŋ˩˧ jɐu˩˧ ʦʰɪŋ˨˩ jɐŋ˨˩ 
+wavs/0_0479.wav|naːu˨ liː˩˧ jɐu˩˧ ʦʰɪŋ˩˥ , ʦɐŋ˨ ʦʰyː˩˧ wʊŋ˩˧ sɐŋ˩˧ 
+wavs/0_0480.wav|lɵj˨˩ jyː˨˩ fʊŋ˩˧ jyː˩˧ , hyː˩˧ ʦʰiː˩˧ miː˨˩ ʦʰɐŋ˨˩ 
+wavs/0_0481.wav|ʦœːŋ˩˥ kɔː̃i˩˧ hɐu˨ lɔː̃i˨ tʰɵj˩˧ ʦʰɪŋ˨˩ lɔːŋ˨ , sɐi˩˧ sœːŋ˩˧ sɐŋ˩˧ jɐŋ˨˩ kʷʊŋ˩˥ kɐu˨ jɐŋ˨˩ 
+wavs/0_0482.wav|kɐŋ˨ sɵj˩˥ lɐu˨˩ tʰɵj˨˩ sɪŋ˩˧ tɐk̚˩˥ ŋyːk̚˨ 
+wavs/0_0483.wav|hœːŋ˩˧ jœːŋ˨˩ faː˩˧ mʊk̚˨ ʦɐu˩˥ fʊŋ˨˩ ʦʰɐŋ˩˧ 
+wavs/0_0484.wav|mɔːk̚˨ tɐu˨ kʷɐŋ˩˧ hæː̃i˨˩ ʦɐu˩˥ 
+wavs/0_0485.wav|kɐŋ˩˧ jɐu˩˧ ʦɐu˩˥ hæː̃i˨˩ jɐŋ˨˩ 
+wavs/0_0486.wav|mɔːk̚˨ sɐŋ˩˧ ʦɐk̚˨ ʦʊŋ˩˧ ʦɐk̚˨ , syː˩˧ fɔː̃i˨˩ jɐŋ˨˩ pɐk̚˩˥ jɐŋ˨˩ 
+wavs/0_0487.wav|sæːŋ˩˧ ʦʊŋ˩˧ jɐu˩˧ ʦɐk̚˨ syː˨ 
+wavs/0_0488.wav|sɐi˩˧ sœːŋ˩˧ mɐu˩˧ ʦɐk̚˨ jɐŋ˨˩ 
+wavs/0_0489.wav|ʦiː˨ hɐŋ˨ ʦiː˩˧ muː˨˩ jiːp̚˨ , mɔːk̚˨ jyːŋ˩˧ tʰaːi˩˧ jœːŋ˨˩ pʰɪŋ˥ 
+wavs/0_0490.wav|mɔːk̚˨ jyːŋ˩˧ tʰaːi˩˧ jœːŋ˨˩ pʰɪŋ˩˧ 
+wavs/0_0491.wav|taːi˨ kaː˩˧ tuː˥ hɐi˨ mɐŋ˨ 
+wavs/0_0492.wav|jɐk̚˩˥ tiː˥ tuː˥ m̩˨˩ jɐu˨˩ jɐŋ˨˩ 
+wavs/0_0493.wav|jɐk̚˩˥ nɪŋ˨˩ ʦiː˥ kɐi˩˧ ʦʰɵj˩˧ jyː˩˧ ʦʰɐŋ˩˧ , jɐk̚˩˥ jɐk̚˨ ʦiː˥ kɐi˩˧ ʦʰɵj˩˧ jyː˩˧ jɐŋ˨˩ , jɐk̚˩˥ kaː˩˧ ʦiː˥ kɐi˩˧ ʦʰɵj˩˧ fuː˨˩ wɔː˨ , jɐk̚˩˥ sæːŋ˩˧ ʦiː˥ kɐi˩˧ ʦʰɵj˩˧ fuː˨˩ kʰɐŋ˨˩ 
+wavs/0_0494.wav|ʦæːk̚˩˥ jɐŋ˨˩ ʦiː˩˧ sɐm˩˧ ʦæːk̚˩˥ kiː˩˥ 
+wavs/0_0495.wav|syː˩˧ kiː˩˥ ʦiː˩˧ sɐm˩˧ syː˩˧ jɐŋ˨˩ 
+wavs/0_0496.wav|sɐu˩˥ hɐu˩˥ jyː˨˩ pʰɐŋ˨˩ 
+wavs/0_0497.wav|fɔː̃i˨˩ jiː˩˧ jyː˨˩ sɐŋ˨˩ 
+wavs/0_0498.wav|nɐŋ˨˩ hɔː˩˥ jɐŋ˨˩ fuː˨ ŋɔː˩˧ , ʦʰɪk̚˩˥ mɔːk̚˨ ŋɔː˩˧ fuː˨ jɐŋ˨˩ 
+wavs/0_0499.wav|ʦɵj˩˧ saːm˩˧ sɵj˥ sɐŋ˨ jiː˩˧ , tɐi˨ jɐk̚˩˥ mɔːk̚˨ hiː˩˧ sɐm˩˧ 
+wavs/0_0500.wav|fuː˩˥ sæːŋ˩˧ jɐu˨˩ hɔː˩˥ kɐŋ˨ , jɐŋ˨˩ sʊk̚˨ pɐk̚˩˥ hɐm˩˧ ʦʰɐŋ˩˧ 
+wavs/0_0501.wav|lɵj˨˩ syːk̚˩˥ siː˨ fiː˩˧ ʦɛː˩˥ , ʦɐu˨ hɐi˨ siː˨ fiː˩˧ jɐŋ˨˩ 
+wavs/0_0502.wav|jyːŋ˩˧ sɵj˩˥ næː̃i˨˩ kɐu˩˧ kɐŋ˨ fɔː˩˥ , jyːŋ˩˧ ʦʰɐŋ˩˧ pɐk̚˩˥ jyː˨˩ kɐŋ˨ lɐŋ˨˩ 
+wavs/0_0503.wav|jɐu˩˧ ʦʰaː˨˩ jɐu˩˧ ʦɐu˩˥ tɔː˩˧ hɐŋ˩˧ tɐi˨ 
+wavs/0_0504.wav|kɐp̚˩˥ næː̃i˨ hɔː˩˥ ʦʰɐŋ˨˩ kɪŋ˩˧ jɐk̚˩˥ jɐŋ˨˩ 
+wavs/0_0505.wav|jɐŋ˨˩ ʦʰɐŋ˨˩ ʦʰiː˩˧ ʦiː˩˥ ʦœːŋ˩˧ ʦœːŋ˩˧ pɔːk̚˨ , sɐi˩˧ siː˨ jyː˨˩ kʰiː˨˩ kʊk̚˨ kʊk̚˨ sɐŋ˩˧ 
+wavs/0_0506.wav|sæː̃i˩˧ ʦʊŋ˩˧ jaː˩˧ jɐu˩˧ ʦʰɪŋ˩˧ nɪŋ˨˩ syː˨ , sɐi˩˧ sœːŋ˩˧ næː̃i˨˩ fʊŋ˨˩ pæːk̚˩˥ sɵj˩˧ jɐŋ˨˩ 
+wavs/0_0507.wav|lɐk̚˨ miː˨˩ jɐu˩˧ fuː˨ ʦʰʊŋ˨˩ , jɪŋ˨˩ hɛːŋ˩˧ mɔːk̚˨ hyːŋ˩˧ jɐŋ˨˩ 
+wavs/0_0508.wav|mɐu˩˧ ʦʰɪŋ˨˩ jɐu˩˧ jɐp̚˨ ʦʊŋ˩˧ 
+wavs/0_0509.wav|ʦɐu˩˧ næː̃i˨ mɔːk̚˨ ʦʰɐm˨˩ ʦʰɐŋ˩˧ 
+wavs/0_0510.wav|mɐu˩˧ ʦʰɪŋ˨˩ jɐu˥ jɐp̚˨ ʦʊŋ˩˧ , jyː˨ næː̃i˨ mɔːk̚˨ ʦʰɐm˨˩ ʦʰɐŋ˩˧ 
+wavs/0_0511.wav|pʰɐŋ˨˩ sæːŋ˩˧ mɔːk̚˨ ʦɔːk̚˩˥ ʦɐu˩˧ miː˨˩ siː˨ , sɐi˩˧ sœːŋ˩˧ jɐŋ˩˧ muː˨˩ ʦʰɪk̚˩˥ ʦʰiː˩˥ jɐŋ˨˩ 
+wavs/0_0512.wav|siː˩˥ ʦɛː˩˥ kʷɔːk̚˩˥ ʦiː˩˧ pɐu˩˥ , jyː˨˩ wɐi˨˩ ʦɐk̚˨ sœːŋ˩˧ ʦɐŋ˩˧ 
+wavs/0_0513.wav|jœːk̚˨ jiːu˩˧ tyːŋ˨ ʦɐu˩˥ fæːk̚˩˥ , sɛːŋ˩˥ ŋæːŋ˩˧ tʰɐi˩˥ ʦɵj˩˧ jɐŋ˨˩ 
+wavs/0_0514.wav|kʰɐu˨˩ jɐŋ˨˩ sɵj˩˧ kʰɐu˨˩ taːi˨ ʦœːŋ˩˥ fuː˩˧ , ʦɐi˩˧ jɐŋ˨˩ syː˩˧ ʦɐi˩˧ kɐp̚˩˥ siː˨˩ muː˨˩ 
+wavs/0_0515.wav|kʰɐu˨˩ jɐŋ˨˩ sɵj˩˧ kʰɐu˨˩ taːi˨ ʦœːŋ˩˥ fuː˩˧ , ʦɐi˩˧ jɐŋ˨˩ syː˩˧ ʦɐi˩˧ kɐp̚˩˥ siː˨˩ mɐu˩˧ 
+wavs/0_0516.wav|fʊk̚˩˥ siː˨˩ jɐk̚˩˥ tɪk̚˩˥ jyː˨˩ kɐm˩˧ luː˨ 
+wavs/0_0517.wav|ʦɵj˩˧ hɐu˨ tʰiːm˩˧ puːi˩˧ pɐk̚˩˥ jyː˨˩ mɐu˩˧ 
+wavs/0_0518.wav|kɐu˩˥ ʦyː˨ lɐŋ˨ jɐŋ˨˩ ʦɪŋ˨ , pʰɐŋ˨˩ lɵj˨˩ ʦʰɐŋ˩˧ jaː˩˧ sɔː˩˧ 
+wavs/0_0519.wav|ʦɐu˩˥ ʦʊŋ˩˧ pɐk̚˩˥ jyː˩˧ ʦɐŋ˩˧ kʷɐŋ˩˧ ʦiː˩˥ , ʦʰɵj˨˩ sœːŋ˩˧ fɐŋ˩˧ mɐŋ˨˩ taːi˨ ʦœːŋ˩˥ fuː˥ 
+wavs/0_0520.wav|ʦʰɐk̚˩˥ kaː˩˧ jyː˨˩ ʦʰɔː˩˧ , sɛːŋ˨˩ fɐk̚˨ jɐu˩˧ jyː˨˩ 
+wavs/0_0521.wav|ʦɐk̚˩˥ kɐm˩˧ ʦʰɪŋ˩˧ lœːŋ˩˥ , pɐk̚˩˥ jyː˨˩ mɐŋ˨˩ kaːi˩˥ kɐŋ˩˧ syː˩˧ 
+wavs/0_0522.wav|jœːŋ˩˧ ʦiː˩˥ pɐk̚˩˥ kɐu˩˧ jyː˨˩ jœːŋ˩˧ lyː˨˩ , jœːŋ˩˧ nyː˩˧ pɐk̚˩˥ kɐu˩˧ jyː˨˩ jœːŋ˩˧ ʦyː˩˧ 
+wavs/0_0523.wav|jɐu˩˧ tʰɪŋ˨˩ pɐk̚˩˥ kæː̃i˩˧ ʦʰɔː̃i˩˧ lɐm˩˧ hyː˩˧ , jɐu˩˧ syː˩˧ pɐk̚˩˥ tʊk̚˨ ʦiː˩˥ syːŋ˩˧ jyː˨˩ 
+wavs/0_0524.wav|ʦʰɔː̃i˩˧ lɐm˩˧ hyː˩˧ hɐi˨˩ sɵj˩˧ ŋyːk̚˨ fæːk̚˨ , ʦiː˩˥ syːŋ˩˧ jyː˨˩ hɐi˨˩ lɐi˩˧ jiː˨ sɔː˩˧ 
+wavs/0_0525.wav|tʰʊŋ˨˩ kʷɐŋ˩˧ jɐk̚˩˥ ʦɐk̚˨ waː˨ , sɐŋ˩˧ tʊk̚˨ sɐp̚˨ nɪŋ˨˩ syː˩˧ 
+wavs/0_0526.wav|jɐŋ˨˩ pɐk̚˩˥ tʰʊŋ˩˧ kʷuː˩˥ kɐm˩˧ 
+wavs/0_0527.wav|maː˩˧ ŋɐu˨˩ jyː˨˩ kʰɐm˩˧ kʷʰɐn˨˩ 
+wavs/0_0528.wav|jɐŋ˨˩ pɐk̚˩˥ tʰʊŋ˩˧ kɐm˩˧ kʷuː˩˥ , maː˩˧ ŋɐu˨˩ jyː˨˩ kʰɐm˩˧ kʷʰɐn˨˩ 
+wavs/0_0529.wav|mɔːŋ˨˩ mɔːŋ˨˩ siː˩˧ fuːi˩˥ jɐŋ˨˩ muː˨˩ suː˩˥ , naː˩˧ kɔː˩˧ naːm˨˩ jiː˨˩ siː˨ ʦœːŋ˩˥ fuː˩˧ 
+wavs/0_0530.wav|pæːk̚˨ ʦɐu˩˥ jœːŋ˨ sɛːŋ˨˩ jyːŋ˨˩ hɐu˩˥ hæːk̚˩˥ , wɔːŋ˨˩ kɐm˩˧ sæː̃i˩˥ ʦɐŋ˨ , wɐi˨˩ sɐu˩˧ syː˩˧ 
+wavs/0_0531.wav|kɐu˩˧ jɐŋ˨˩ jɐk̚˩˥ mɐŋ˨ , sɐŋ˩˧ kʷɔː˩˧ ʦʰɐk̚˩˥ kʰɐp̚˩˥ fɐu˨˩ tʰuː˨˩ 
+wavs/0_0532.wav|sɐŋ˨˩ mʊŋ˨˩ sɐk̚˩˥ fɔː˩˥ , jœːŋ˩˧ kʰɐp̚˨ ʦʰiː˨˩ jyː˨˩ 
+wavs/0_0533.wav|tʰɐŋ˨˩ ʦʰɪŋ˨˩ sæː̃i˩˧ sɵj˨ ʦʰɐu˩˥ , hɐu˩˥ siː˨ pɐk̚˩˥ jyː˨˩ mɐu˩˧ 
+wavs/0_0534.wav|jʊk̚˨ kʰɐu˨˩ sæːŋ˩˧ fuː˩˧ kʷɐi˩˧ , syː˩˧ haː˩˧ siː˩˥ kʊŋ˩˧ fuː˩˧ 
+wavs/0_0535.wav|pæːk̚˩˥ nɪŋ˨˩ sɛːŋ˨˩ ʦiː˩˧ pɐk̚˩˥ ʦʊk̚˩˥ , jɐk̚˩˥ tæːŋ˨ jɐk̚˩˥ tæːŋ˨ paːi˨ ʦiː˩˧ jɐu˩˧ jyː˨˩ . pæːk̚˩˥ nɪŋ˨˩ sɛːŋ˨˩ ʦiː˩˧ pɐk̚˩˥ ʦʊk̚˩˥ , jɐk̚˩˥ tæːŋ˩˧ jɐk̚˩˥ tæːŋ˩˧ paːi˨ ʦiː˩˧ jɐu˩˧ jyː˨˩ 
+wavs/0_0536.wav|jɐŋ˨˩ sɐm˩˧ ʦʰiː˩˧ tʰɪk̚˩˥ , kʷʊŋ˩˧ fæːk̚˩˥ jyː˨˩ luː˨˩ 
+wavs/0_0537.wav|sɪŋ˨ faː˩˧ pɐk̚˩˥ ʦʊk̚˩˥ , ɔːk̚˩˥ faː˩˧ jɐu˩˧ jyː˨˩ 
+wavs/0_0538.wav|sɵj˩˥ tʰaːi˩˧ ʦʰɐŋ˩˧ ʦɐu˨ mɐu˩˧ jyː˩˥ , jɐŋ˨˩ ʦiː˩˧ ʦʰæːk̚˩˥ ʦɐu˨ mɐu˩˧ tʰuː˨˩ 
+wavs/0_0539.wav|tiː˩˧ ʦɛː˩˥ kaːm˩˥ pʊŋ˩˧ 
+wavs/0_0540.wav|sæːŋ˩˥ ʦɛː˩˥ ʦʰyːŋ˨˩ muː˨˩ 
+wavs/0_0541.wav|ʦʰɵj˩˧ kaː˩˧ jɐu˨˩ fuː˨ , ʦʰɐk̚˩˥ kaː˩˧ ʦʰʊŋ˨˩ fuː˩˧ 
+wavs/0_0542.wav|ʦʰɵj˩˧ kaː˩˧ jɐu˨˩ fuː˨ , ʦʰɐk̚˩˥ kaː˩˧ ʦʰʊŋ˨˩ fuː˩˧ 
+wavs/0_0543.wav|ʦʰiː˩˧ jɐŋ˨˩ wɐi˩˧ fuː˩˧ , jɪŋ˨˩ nyː˩˧ kɐŋ˩˧ fuː˩˧ 
+wavs/0_0544.wav|siː˨ fiː˩˧ ʦʊŋ˩˧ jɐu˩˧ jɐk̚˨
+wavs/0_0545.wav|siː˨ fiː˩˧ ʦʊŋ˩˧ jɐk̚˨ jɐu˩˧ , pɐk̚˩˥ tʰɛːŋ˩˧ ʦiː˨ jɪŋ˨˩ mɐu˩˧ 
+wavs/0_0546.wav|nɐŋ˨˩ hɔː˩˥ ʦɐŋ˩˧ jiː˨˩ pɐk̚˩˥ ʦʊk̚˩˥ , pɐk̚˩˥ hɔː˩˥ ʦʰɛː˨˩ jiː˨˩ jɐu˩˧ jyː˨˩ 
+wavs/0_0547.wav|nɐŋ˨˩ hɔː˩˥ sɐŋ˩˧ kʰiː˨˩ jɐu˩˧ , pɐk̚˩˥ hɔː˩˥ sɐŋ˩˧ kʰiː˨˩ mɐu˩˧ 
+wavs/0_0548.wav|ʦʊk̚˩˥ liː˨˩ maːu˨˩ sɛː˩˧ fʊŋ˩˧ kʷɔː̃i˩˧ hɐu˩˥ 
+wavs/0_0549.wav|tɐu˨ jyːŋ˨ ʦɐŋ˩˧ tʰɔː̃i˨˩ ʦʊŋ˩˧ pɐk̚˩˥ jyː˨˩ 
+wavs/0_0550.wav|mɐŋ˨ lyː˩˧ jɐu˩˧ siː˨˩ ʦʊŋ˩˧ sɵj˩˧ jɐu˩˧ , mɐŋ˨ liː˩˧ mɐu˩˧ siː˨˩ mɔːk̚˨ kʰœːŋ˨˩ kʰɐu˨˩ 
+wavs/0_0551.wav|tɐu˨ jyːŋ˨ jɐŋ˨˩ sɪŋ˩˧ hæːk̚˩˥ , syː˩˧ tʰɔː̃i˨˩ jɐŋ˩˧ sœːŋ˩˧ jyː˨˩ 
+wavs/0_0552.wav|tʰɐŋ˨˩ ʦɵj˩˧ ʦʰɐi˩˧ fʊŋ˨ ʦʊk̚˩˥ , ʦʰiː˨˩ jœːŋ˩˧ faː˩˧ lʊŋ˨˩ jyː˨˩ 
+wavs/0_0553.wav|kɪk̚˩˥ kaːu˩˧ syː˩˧ sɐŋ˩˧ kiː˩˥ , ʦʰiː˩˧ ŋɔː˩˧ pɐk̚˩˥ jyː˨˩ mɐu˩˧ 
+wavs/0_0554.wav|tæːŋ˨ fʊŋ˩˧ saːm˩˧ ŋ˩˧ jɐk̚˨ , sœːŋ˩˧ kɪŋ˩˧ pɐk̚˩˥ jyː˨˩ ʦʰɔː˩˧ 
+wavs/0_0555.wav|jɐŋ˨˩ ʦʰɐŋ˨˩ ʦʰiː˩˧ sɵj˩˥ fɐŋ˩˧ kɐu˩˧ haː˩˧ , sɐi˩˧ siː˨ jyː˨˩ wɐŋ˨˩ jɐm˨ kyːŋ˩˥ syː˩˧ 
+wavs/0_0556.wav|wuːi˩˧ syːk̚˩˥ syːk̚˩˥ tuː˩˧ siː˨ , pɐk̚˩˥ wuːi˩˧ syːk̚˩˥ muː˨˩ lɐi˩˧ 
+wavs/0_0557.wav|mɔː˨˩ tɐu˩˧ hɐŋ˨ pɐk̚˩˥ liː˨ , tɐu˩˧ liː˨ sœːŋ˩˧ jɐŋ˨˩ ʦiː˩˥ 
+wavs/0_0558.wav|kʰɐu˨˩ ʦʰɵj˨˩ hɐŋ˨ pɐk̚˩˥ tɐk̚˩˥ , ʦʰɵj˨˩ tɔː˩˧ fuːi˨ ʦiː˨ kiː˩˥ 
+wavs/0_0559.wav|ʦiː˩˧ ʦʊk̚˩˥ tiː˩˧ ʦʊk̚˩˥ sœːŋ˨˩ ʦʊk̚˩˥ , ʦʊŋ˩˧ sɐŋ˩˧ pɐk̚˩˥ jʊk̚˨ 
+wavs/0_0560.wav|ʦiː˩˧ ʦiː˩˥ tiː˩˧ ʦiː˩˥ sœːŋ˨˩ ʦiː˩˥ , ʦʊŋ˩˧ sɐŋ˩˧ pɐk̚˩˥ ʦʰiː˩˥ 
+wavs/0_0561.wav|jɐu˩˧ fʊk̚˩˥ sœːŋ˩˧ ʦʰɵj˨˩ , mɐu˩˧ fʊk̚˩˥ sœːŋ˩˧ kiː˩˥ 
+wavs/0_0562.wav|ʦʰaːi˩˧ ʦiː˩˧ hɐu˨˩ liː˨˩ , sɐk̚˩˥ ʦiː˩˧ ʦʰɪŋ˩˧ liː˩˧ 
+wavs/0_0563.wav|jœːk̚˨ tɐŋ˩˧ kɐu˩˧ pɪk̚˩˥ ʦiː˨ piː˩˧ , jœːk̚˨ siːp̚˩˥ jyːŋ˩˧ pɪk̚˩˥ ʦiː˨ niː˩˧ 
+wavs/0_0564.wav|saːm˩˧ siː˩˧ jiː˨˩ hæːŋ˨˩ , ʦɵj˩˧ siː˩˧ hɔː˩˥ jiː˩˧ 
+wavs/0_0565.wav|siː˩˥ hɐu˩˥ pɐk̚˩˥ jyː˨˩ ʦiː˨ ʦɐu˩˥ , kʰɐu˨˩ jɐŋ˨˩ pɐk̚˩˥ jyː˨˩ kʰɐu˨˩ kiː˩˥ 
+wavs/0_0566.wav|sɐi˩˧ siː˨˩ hɐi˨ hɐŋ˩˧ tɐi˨ , ʦœːŋ˩˥ taːi˨ kɔːk̚˩˥ hœːŋ˩˧ liː˩˧ 
+wavs/0_0567.wav|tuː˨ ʦʰɵj˨˩ mɔːk̚˨ tuː˨ hɛːk̚˩˥ , jyːŋ˩˧ sæːŋ˩˧ mɔːk̚˨ jyːŋ˩˧ siː˩˥ 
+wavs/0_0568.wav|jɐŋ˨˩ kɪŋ˩˧ pæːk̚˨ tʰɐu˨˩ tʰɪŋ˨˩ , ŋɔː˩˧ kɪŋ˩˧ pæːk̚˨ tʰɐu˨˩ hiː˩˥ 
+wavs/0_0569.wav|tɔː˩˧ siːu˩˥ siːu˩˥ nɪŋ˨˩ mɔːŋ˨˩ , pɐk̚˩˥ tɐu˩˧ pæːk̚˨ tʰɐu˨˩ siː˩˥ 
+wavs/0_0570.wav|ʦʰœːŋ˨˩ jɐu˩˧ fʊŋ˨˩ 
+wavs/0_0571.wav|pɐk̚˩˥ jɐu˩˧ jiː˩˧ 
+wavs/0_0572.wav|hɐu˩˥ siː˨ pɐk̚˩˥ ʦʰɐk̚˩˥ mʊŋ˨˩ , ɔːk̚˩˥ siː˨ ʦyːŋ˨ ʦʰɪŋ˩˧ liː˩˧ 
+wavs/0_0573.wav|ʦʰɐk̚˨ hɐi˨ siːu˩˥ jɐŋ˨˩ , tiː˩˧ kʷɔː˩˧ hɐi˨ kʷɐŋ˩˧ ʦiː˩˥ 
+wavs/0_0574.wav|kʷɐŋ˩˧ ʦiː˩˥ kʷuː˩˧ kʰʊŋ˨˩ , siːu˩˥ jɐŋ˨˩ kʰʊŋ˨˩ siː˩˧ laːm˩˧ jaː˩˧ 
+wavs/0_0575.wav|pʰɐŋ˨˩ kʰʊŋ˨˩ ʦiː˨ ʦɵj˨ , fuː˩˧ kʷɐi˩˧ tɔː˩˧ jɐu˩˧ 
+wavs/0_0576.wav|pɐk̚˩˥ jiː˩˧ ŋɔː˩˧ wɐi˨˩ tɐk̚˩˥ , fæːŋ˩˥ jiː˩˧ ŋɔː˩˧ wɐi˨˩ sɐu˨˩ 
+wavs/0_0577.wav|nɐŋ˨˩ hœːŋ˩˧ ʦɐk̚˨ ʦʊŋ˩˧ ʦʰyː˩˥ 
+wavs/0_0578.wav|pɐk̚˩˥ hɔː˩˥ kʰʊk̚˩˥ ʦʊŋ˩˧ kʰɐu˨˩ 
+wavs/0_0579.wav|jɐŋ˨˩ muː˨˩ jyːŋ˩˧ lyː˨ , pɪk̚˩˥ jɐu˩˧ kɐŋ˨ jɐu˩˧ 
+wavs/0_0580.wav|tiː˩˧ ŋɔː˩˧ ʦɛː˩˥ ŋɔː˩˧ sɐm˩˧ jɐu˩˧ 
+wavs/0_0581.wav|m̩˨˩ tiː˩˧ ŋɔː˩˧ ʦɛː˩˥ wɐi˨ ŋɔː˩˧ hɔː˩˥ kʰɐu˨˩ 
+wavs/0_0582.wav|ʦʰɐŋ˨˩ tʰɪŋ˩˧ m̩˨˩ hɐŋ˩˥ hyː˩˧ 
+wavs/0_0583.wav|ʦiː˩˥ tɐŋ˩˥ jyː˩˧ lɐm˨˩ tʰɐu˨˩ 
+wavs/0_0584.wav|sɛːŋ˨˩ siː˨ mɔːk̚˨ syːk̚˩˥ 
+wavs/0_0585.wav|fʊk̚˩˥ sɵj˩˥ næːŋ˨˩ sɐu˩˧ 
+wavs/1_0000.wav|siː˨ fiː˩˧ ʦiː˩˥ wɐi˨˩ tɔː˩˧ ʦɵj˩˥ , fæːŋ˨˩ nɐu˩˧ kaːi˩˧ jɐŋ˩˧ kʰœːŋ˨˩ ʦʰɐk̚˩˥ tʰɐu˨˩ 
+wavs/1_0001.wav|jɐŋ˩˧ tɐk̚˩˥ jɐk̚˩˥ siː˨˩ ʦiː˩˧ hiː˩˧ , mɪŋ˩˧ tɐk̚˩˥ pæːk̚˩˥ jɐk̚˨ ʦiː˩˧ jɐu˩˧ 
+wavs/1_0002.wav|kɐŋ˨ lɵj˨˩ hɔːk̚˨ tɐk̚˩˥ wuː˩˧ kʷɐi˩˧ fæːk̚˩˥ 
+wavs/1_0003.wav|tɐk̚˩˥ sʊk̚˩˥ tʰɐu˨˩ , ʦɐu˨ jiːu˩˧ sʊk̚˩˥ tʰɐu˨˩ lɔːk̚˩˥ 
+wavs/1_0004.wav|kyː˨ fæːk̚˩˥ ʦiːu˩˧ ʦiːu˩˧ ŋɔːk̚˨ , hiː˩˧ kʊŋ˩˧ jɐk̚˨ jɐk̚˨ jɐu˩˧ 
+wavs/1_0005.wav|jɐŋ˨˩ sæːŋ˩˧ jɐk̚˩˥ sɐi˩˧ , ʦʰɐu˩˥ sæːŋ˩˧ jɐk̚˩˥ ʦʰɐŋ˩˧ 
+wavs/1_0006.wav|hɐk̚˩˥ fæːk̚˩˥ m̩˨˩ tiː˩˧ kʰɐŋ˨˩ hɔːk̚˨ ʦɐu˩˥ 
+wavs/1_0007.wav|tʰɐi˩˥ tʰɐi˩˥ jɐu˨ hɐi˨ pæːk̚˨ tʰɐu˨˩ lɐu˩˥ laːk̚˧ 
+wavs/1_0008.wav|ŋyːk̚˨ tɐu˩˧ sɐp̚˨ ŋ˩˧ kʷɔːŋ˩˧ mɐŋ˨˩ siːu˩˥ , jɐŋ˨˩ tɐu˩˧ ʦʊŋ˩˧ nɪŋ˨˩ mæːŋ˨ siː˨ jɐu˩˧ 
+wavs/1_0009.wav|jiː˨˩ syːŋ˩˧ ʦiː˨ jɐu˩˧ jiː˨˩ syːŋ˩˧ fʊk̚˩˥ 
+wavs/1_0010.wav|mɔːk̚˨ wɐi˨˩ jiː˨˩ syːŋ˩˧ ʦɔːk̚˩˥ maː˩˧ ŋɐu˨˩ 
+wavs/1_0011.wav|jɐŋ˨˩ sæːŋ˩˧ pɐk̚˩˥ mʊŋ˩˧ pæːk̚˩˥ , sœːŋ˨˩ waːi˨˩ ʦʰɪŋ˩˧ sɵj˩˧ jɐu˩˧ 
+wavs/1_0012.wav|kɐm˩˧ ʦiːu˩˧ jɐu˩˧ ʦɐu˩˥ kɐm˩˧ ʦiːu˩˧ ʦɵj˩˧ 
+wavs/1_0013.wav|mɐŋ˨˩ jɐk̚˨ sɐu˨˩ lɵj˨˩ mɐŋ˨˩ jɐk̚˨ kɔːŋ˩˥ 
+wavs/1_0014.wav|luː˨ fʊŋ˨˩ hiːm˩˥ ʦʰyː˩˧ næːŋ˨˩ wuːi˨˩ piː˨ 
+wavs/1_0015.wav|siː˨ tɐu˩˧ tʰɐu˨˩ lɵj˨˩ pɐk̚˩˥ ʦiː˨ jɐu˨˩ 
+wavs/1_0016.wav|jœːk̚˨ nɐŋ˨˩ jiː˩˧ kaː˩˧ pɛːŋ˨ , ʦɐu˩˥ pɐk̚˩˥ kaːi˩˥ ʦɐŋ˩˧ sɐu˨˩ 
+wavs/1_0017.wav|jɐŋ˨˩ pʰɐŋ˨˩ pɐk̚˩˥ jyː˩˧ , sɵj˩˥ pʰɐŋ˨˩ pɐk̚˩˥ lɐu˨˩ 
+wavs/1_0018.wav|jɐk̚˩˥ kaː˩˧ jɐu˩˧ nyː˩˧ pæːk̚˩˥ kaː˩˧ kʰɐu˨˩ , jɐk̚˩˥ maː˩˧ pɐk̚˩˥ hæːŋ˨˩ pæːk̚˩˥ maː˩˧ jɐu˩˧ 
+wavs/1_0019.wav|jɐu˩˧ faː˩˧ fɔːŋ˩˧ ʦœːk̚˩˥ ʦɐu˩˥ , muː˨˩ ŋyːk̚˨ pɐk̚˩˥ tɐŋ˩˧ lɐu˨˩ 
+wavs/1_0020.wav|saːm˩˧ puːi˩˧ tʰʊŋ˩˧ taːi˨ tɐu˨ , jɐk̚˩˥ ʦɵj˩˧ kaːi˩˥ ʦʰɪŋ˩˧ sɐu˨˩ 
+wavs/1_0021.wav|sɐm˩˧ sæːŋ˩˧ pɐk̚˩˥ kɐŋ˩˥ ʦʰɔːŋ˨˩ mæːŋ˩˧ fuː˩˥ , taːi˨ fuːi˩˥ ʦʊŋ˩˧ syː˩˧ naːp̚˨ sɐi˩˧ lɐu˨˩ 
+wavs/1_0022.wav|sɐk̚˩˥ faː˩˧ syː˩˧ kiːm˩˥ tiːm˩˥ , wuːi˩˧ ŋyːk̚˨ pɐk̚˩˥ sɔː˩˧ tʰɐu˨˩ 
+wavs/1_0023.wav|taːi˨ tɐi˩˥ syːŋ˩˥ tʰaː˩˧ kiː˩˧ kʷɐk̚˩˥ hɐu˩˥ , pɐk̚˩˥ ʦʰæːk̚˩˥ hʊŋ˨˩ fɐŋ˩˥ jaː˩˧ fʊŋ˩˧ lɐu˨˩ , pɐk̚˩˥ ʦʰæːk̚˩˥ hʊŋ˨˩ fɐŋ˩˥ jaː˩˧ fʊŋ˩˧ lɐu˨˩ 
+wavs/1_0024.wav|sɐu˨ jɐŋ˩˧ sɐm˩˧ ʦʰyː˩˧ jiː˨˩ sɪŋ˩˧ tʰɵj˩˧ , tɐk̚˩˥ jiː˩˧ nʊŋ˨˩ siː˨˩ pɪŋ˨ hɔː˩˥ jɐu˩˧ 
+wavs/1_0025.wav|mɔːk̚˨ tɵj˨ siː˨ fiː˩˧ lɵj˨˩ jɐp̚˨ jiː˩˧ , ʦʰʊŋ˨˩ ʦʰɪŋ˨˩ jɐŋ˩˧ wuːi˩˧ fæːŋ˩˥ sɛːŋ˨˩ sɐu˨˩ , ʦʰʊŋ˨˩ ʦʰɪŋ˨˩ jɐŋ˩˧ wuːi˩˧ fæːŋ˩˥ wɐi˨˩ sɐu˨˩ 
+wavs/1_0026.wav|lɐu˨˩ tɐk̚˩˥ ŋ˩˧ wuː˨˩ mɐŋ˨˩ ŋyːk̚˨ ʦɵj˨ , pɐk̚˩˥ sɐu˨˩ muː˨˩ ʦʰyː˩˧ haː˩˧ kɐm˩˧ ŋɐu˩˧ 
+wavs/1_0027.wav|lɐu˨˩ tɐk̚˩˥ ŋ˩˧ wuː˨˩ mɐŋ˨˩ ŋyːk̚˨ ʦɵj˨ , pɐk̚˩˥ sɐu˨˩ muː˨˩ ʦʰyː˩˧ haː˩˧ kɐm˩˧ ŋɐu˩˧ 
+wavs/1_0028.wav|jɐu˩˧ pɪk̚˨ jɐu˩˧ jyː˨˩ ʦʰyː˩˧ , mɔːk̚˨ lyːŋ˩˥ ʦʰɪŋ˩˥ tʰæːŋ˩˧ tʰɐu˨˩ 
+wavs/1_0029.wav|hyː˩˧ siː˨˩ ʦʊŋ˩˧ syː˩˧ hyː˩˧ , ʦɵj˩˧ saːm˩˧ lɐu˨˩ pɐk̚˩˥ ʦyː˨ 
+wavs/1_0030.wav|jɐŋ˩˧ jɐk̚˩˥ kyː˩˧ , sɐk̚˩˥ jɐk̚˩˥ nuː˨ , jiːu˨˩ jɐk̚˩˥ ʦœːk̚˨ , tʰɵj˩˧ jɐk̚˩˥ puː˨ 
+wavs/1_0031.wav|saːm˩˧ sɐp̚˨ pɐk̚˩˥ hɐu˨˩ , siː˩˧ sɐp̚˨ pɐk̚˩˥ fuː˩˧ 
+wavs/1_0032.wav|ŋ˩˧ sɐp̚˨ ʦœːŋ˩˧ lɵj˨˩ ʦʰɐm˨˩ siː˩˥ luː˨ 
+wavs/1_0033.wav|sæːŋ˩˧ pɐk̚˩˥ lɐŋ˨ wɐŋ˨˩ , siː˩˥ pɐk̚˩˥ jɐŋ˨ siː˩˧ 
+wavs/1_0034.wav|fuː˨ muː˩˧ jɐŋ˩˧ sɐm˩˧ ʦʊŋ˩˧ jɐu˩˧ pɪk̚˨ 
+wavs/1_0035.wav|fuː˩˧ ʦʰɐi˩˧ jiː˨ ʦʰʊŋ˨˩ jaː˩˧ fɐŋ˩˧ liː˨˩ 
+wavs/1_0036.wav|jɐŋ˨˩ sæːŋ˩˧ ʦʰiː˩˧ niːu˩˧ tʰʊŋ˨˩ lɐm˨˩ sʊk̚˩˥ , taːi˨ hæːŋ˨ lɵj˨˩ siː˨˩ kɔːk̚˩˥ ʦiː˨ fiː˩˧ 
+wavs/1_0037.wav|jɐŋ˨˩ sɪŋ˨ piː˨ jɐŋ˨˩ hiː˩˧ , maː˩˧ sɪŋ˨ piː˨ jɐŋ˨˩ kʰiː˨˩ 
+wavs/1_0038.wav|jɐŋ˨˩ muː˨˩ wæːŋ˨˩ ʦʰɵj˨˩ pɐk̚˩˥ fuː˩˧ , maː˩˧ muː˨˩ jɛː˩˧ ʦʰɐu˩˥ pɐk̚˩˥ fiː˨˩ 
+wavs/1_0039.wav|jɐŋ˨˩ ɔːk̚˩˥ jɐŋ˨˩ pʰaː˩˧ tʰɪŋ˩˧ pɐk̚˩˥ pʰaː˩˧ , jɐŋ˨˩ sɪŋ˨ jɐŋ˨˩ hiː˩˧ tʰɪŋ˩˧ pɐk̚˩˥ hiː˩˧ 
+wavs/1_0040.wav|jɐŋ˨˩ sɪŋ˨ jɐŋ˨˩ hiː˩˧ tʰɪŋ˩˧ pɐk̚˩˥ hiː˩˧ 
+wavs/1_0041.wav|sɪŋ˨ ɔːk̚˩˥ tɐu˩˧ tʰɐu˨˩ ʦʊŋ˩˧ jɐu˩˧ pɐu˩˧ , ʦiː˩˥ ʦæːŋ˩˧ lɵj˨˩ ʦɐu˩˥ jyː˩˧ lɵj˨˩ ʦʰiː˨˩ 
+wavs/1_0042.wav|wɔːŋ˨˩ hɔː˨˩ sœːŋ˨ jɐu˩˧ ʦʰɐŋ˨˩ ʦʰɐŋ˩˧ jɐk̚˨ 
+wavs/1_0043.wav|hiː˩˥ hɔː˩˥ jɐŋ˨˩ muː˨˩ tɐk̚˩˥ wɐŋ˨ siː˨˩ 
+wavs/1_0044.wav|tɐk̚˩˥ ʦʰʊŋ˩˧ siː˩˧ jʊk̚˨ 
+wavs/1_0045.wav|wʊŋ˩˧ kyː˩˧ lyː˨ ŋɐi˨˩ 
+wavs/1_0046.wav|niːm˨ niːm˨ jɐu˩˧ jyː˨˩ lɐm˨˩ tɐk̚˨ niːm˨ niːm˨ jɐu˩˧ jyː˨˩ lɐm˨˩ tɐk̚˨ jɐk̚˨ , sɐm˩˧ sɐm˩˧ sœːŋ˨˩ ʦʰiː˩˧ kʷɔː˩˧ kʰiːu˨˩ siː˨˩ 
+wavs/1_0047.wav|jɐŋ˩˧ hʊŋ˨˩ hæːŋ˨˩ hiːm˩˥ tɐu˨ , fuː˩˧ kʷɐi˩˧ ʦʰiː˩˧ faː˩˧ ʦiː˩˧ 
+wavs/1_0048.wav|jɐŋ˨˩ ʦʰɐŋ˨˩ mɔːk̚˨ tɐu˨ ʦʰɐŋ˩˧ kʷɔːŋ˩˧ hɐu˩˥ , ʦiː˩˥ pʰaː˩˧ ʦʰɐu˩˧ lɵj˨˩ jɐu˩˧ læːŋ˩˧ siː˨˩ 
+wavs/1_0049.wav|sʊŋ˩˧ kʷɐŋ˩˧ ʦʰɪŋ˩˧ liː˩˧ , ʦʊŋ˩˧ syː˩˧ jɐk̚˩˥ pɪk̚˨ 
+wavs/1_0050.wav|tæːŋ˨ ʦœːŋ˩˧ læːŋ˩˧ ŋæːŋ˩˧
+wavs/1_0051.wav|fʊŋ˩˧ pʰɔːŋ˨˩ haːi˩˧ 
+wavs/1_0052.wav|fʊŋ˩˧ niː˩˧ wæːŋ˨˩ hæːŋ˨˩ tɐu˩˧ kiː˩˥ siː˨˩ 
+wavs/1_0053.wav|kɪŋ˩˧ siː˨ mɔːk̚˨ syːk̚˩˥ , mɐŋ˨ siː˨ pɐk̚˩˥ tiː˩˧ 
+wavs/1_0054.wav|hæːŋ˨˩ siː˨ jɐu˩˧ kʷʊŋ˩˥ , muː˨˩ siː˨ ʦɐu˩˥ kʷɐi˩˧ 
+wavs/1_0055.wav|kaː˩˧ tyːŋ˨ jiːm˩˧ ʦɐu˨ ʦɐŋ˩˧ hʊŋ˨˩ sɐk̚˩˥ 
+wavs/1_0056.wav|jaː˩˧ piː˨ pʰɔːŋ˨˩ jɐŋ˨˩ syːk̚˩˥ siː˨ fiː˩˧ 
+wavs/1_0057.wav|sɪŋ˨ siː˨ hɔː˩˥ ʦɔːk̚˩˥ , ɔːk̚˩˥ siː˨ mɔːk̚˨ wɐi˨˩ 
+wavs/1_0058.wav|hyː˩˥ jɐŋ˨˩ jɐk̚˩˥ mɐk̚˨ , ʦʰɪŋ˩˧ kɐm˩˧ pɐk̚˩˥ jiː˨˩ 
+wavs/1_0059.wav|lʊŋ˨˩ sæːŋ˩˧ lʊŋ˨˩ ʦiː˩˥ , fuː˩˥ sæːŋ˩˧ pʰaːu˩˧ jiː˨˩ 
+wavs/1_0060.wav|lʊŋ˨˩ jɐu˨˩ ʦʰɪŋ˩˥ sɵj˩˥ ʦɐu˩˧ haː˩˧ hiː˩˧ , fuː˩˥ lɔːk̚˨ pʰɐŋ˨˩ jœːŋ˨˩ piː˨ hyːŋ˩˥ hiː˩˧ 
+wavs/1_0061.wav|jɐk̚˩˥ kyː˩˥ sɐu˩˥ tɐŋ˩˧ lʊŋ˨˩ fuː˩˥ pɔːŋ˩˥ , sɐp̚˨ nɪŋ˨˩ sɐŋ˩˧ tɐu˩˧ fʊŋ˨ wɔːŋ˨˩ ʦʰiː˨˩ 
+wavs/1_0062.wav|sɐp̚˨ nɪŋ˨˩ ʦʰœːŋ˩˧ haː˩˧ muː˨˩ jɐŋ˨˩ mɐŋ˨ , jɐk̚˩˥ kyː˩˥ sɛːŋ˨˩ mɐŋ˨˩ tʰɪŋ˩˧ haː˩˧ ʦiː˩˧ 
+wavs/1_0063.wav|jɐk̚˩˥ kyː˩˥ sɛːŋ˨˩ mɐŋ˨˩ tʰɪŋ˩˧ haː˩˧ tiː˩˧ 
+wavs/1_0064.wav|ʦɐu˩˥ ʦaːi˩˧ ʦʰɐm˨˩ sœːŋ˨˩ hæːŋ˨˩ ʦʰyː˩˧ jɐu˩˧ , jɐŋ˨˩ sæːŋ˩˧ ʦʰɐk̚˩˥ sɐp̚˨ kʷuː˩˥ lɵj˨˩ hiː˩˧ 
+wavs/1_0065.wav|jœːŋ˩˧ jiː˨˩ tɵj˨ lɐu˩˧ , ʦɐk̚˩˥ kʊk̚˩˥ fɔːŋ˨˩ kiː˩˧ 
+wavs/1_0066.wav|kɐi˩˧ tʰyːŋ˨˩ kɐu˩˥ jiː˨˩ ʦiː˩˧ ʦʰʊk̚˩˥ , muː˨˩ sɐk̚˩˥ kʰiː˨˩ siː˨˩ 
+wavs/1_0067.wav|kɐi˩˧ tʰyːŋ˨˩ kɐu˩˥ ʦʰiː˩˥ ʦiː˩˧ ʦʰʊk̚˩˥ , muː˨˩ sɐk̚˩˥ kʰiː˨˩ siː˨˩ 
+wavs/1_0068.wav|suː˩˥ kaː˩˧ ʦiː˩˧ hɐu˩˥ , hɔː˩˥ jiː˩˧ muː˨˩ kiː˩˧ jiː˩˧ 
+wavs/1_0069.wav|sœːŋ˨˩ ʦœːŋ˩˧ jɐu˩˧ jɐk̚˨ siː˩˧ muː˨˩ jɐk̚˨ , mɔːk̚˨ paː˩˥ muː˨˩ siː˨˩ tɔːŋ˩˧ jɐu˩˧ siː˨˩ 
+wavs/1_0070.wav|siː˨˩ lɵj˨˩ fʊŋ˩˧ sʊŋ˩˧ tʰɐŋ˨˩ wɔːŋ˨˩ kɔːk̚˩˥ 
+wavs/1_0071.wav|wɐŋ˨ hyː˩˧ lɵj˨˩ kʷɐŋ˩˧ ʦɪŋ˩˧ fʊk̚˩˥ piː˩˧ 
+wavs/1_0072.wav|jɐp̚˨ mʊŋ˨˩ jɐu˩˧ mɐŋ˨ wɐŋ˨˩ fuː˩˧ siː˨ 
+wavs/1_0073.wav|kʷʊŋ˩˧ fʊŋ˩˧ jʊŋ˨˩ ŋæːŋ˨˩ pɪŋ˨ tɐk̚˩˥ tiː˩˧ 
+wavs/1_0074.wav|kʷʊŋ˩˧ ʦʰɐŋ˩˧ syː˩˧ liː˨ sɐu˩˧ , sɐŋ˨˩ lɐŋ˨˩ miːu˨ ʦʊk̚˩˥ fiː˨˩ 
+wavs/1_0075.wav|sɐk̚˩˥ kʰœːk̚˩˥ lɵj˨˩ tʰɐŋ˨˩ ʦiː˩˧ nuː˨ 
+wavs/1_0076.wav|paː˨ kʰœːk̚˩˥ fuː˩˥ lɔːŋ˨˩ ʦiː˩˧ wɐi˩˧ 
+wavs/1_0077.wav|jiːu˨˩ jɐŋ˨˩ syːŋ˩˧ jɐŋ˨˩ ʦiː˩˧ pʊŋ˩˥ , syː˩˧ jɐŋ˨˩ syːŋ˩˧ jɐŋ˨˩ ʦiː˩˧ kiː˩˧ 
+wavs/1_0078.wav|hɐu˩˥ jɪŋ˨˩ næːŋ˨˩ tɐk̚˩˥ , ɔːk̚˩˥ jyː˩˧ jiː˨ siː˩˧ 
+wavs/1_0079.wav|jɐk̚˩˥ jɪŋ˨˩ kiː˩˧ ʦʰɐk̚˩˥ , siː˩˧ maː˩˧ næːŋ˨˩ ʦɵj˩˧ 
+wavs/1_0080.wav|tɐu˨ ŋ˨˩ hɐu˩˥ ʦɛː˩˥ siː˨ ŋ˨˩ ʦʰɐk̚˨ 
+wavs/1_0081.wav|tɐu˨ ŋ˨˩ ɔːk̚˩˥ ʦɛː˩˥ siː˨ ŋ˨˩ siː˩˧ 
+wavs/1_0082.wav|luː˨ fʊŋ˨˩ haːp̚˨ hæːk̚˩˥ syː˩˧ ʦʰɐŋ˨˩ kiːm˩˧ , pɐk̚˩˥ siː˨ ʦʰɵj˨˩ jɐŋ˨˩ mɔːk̚˨ hɪŋ˩˧ siː˩˧ 
+wavs/1_0083.wav|luː˨ fʊŋ˨˩ haːp̚˨ hæːk̚˩˥ syː˩˧ ʦʰɐŋ˨˩ kiːm˩˧ , pɐk̚˩˥ siː˨ ʦʰɵj˨˩ jɐŋ˨˩ mɔːk̚˨ hɪŋ˩˧ siː˩˧ 
+wavs/1_0084.wav|saːm˩˧ jɐŋ˨˩ tʰʊŋ˨˩ hæːŋ˨˩ , pɪk̚˩˥ jɐu˩˧ ŋɔː˩˧ siː˩˧ 
+wavs/1_0085.wav|ʦæːk̚˨ kʰiː˨˩ sɪŋ˨ ʦɛː˩˥ jiː˨˩ ʦʰʊŋ˨˩ ʦiː˩˧ , kʰiː˨˩ pɐk̚˩˥ sɪŋ˨ ʦɛː˩˥ jiː˨˩ kʷuːi˩˥ ʦiː˩˧ 
+wavs/1_0086.wav|siːu˩˥ ʦɔːŋ˩˧ pɐk̚˩˥ nuː˩˧ lɐk̚˨ , lɐu˩˧ taːi˨ tʰuː˨˩ piː˩˧ sœːŋ˩˧ 
+wavs/1_0087.wav|jɐŋ˨˩ jɐu˩˧ sɪŋ˨ jyːŋ˨ 
+wavs/1_0088.wav|tʰɪŋ˩˧ pɪk̚˩˥ jɐu˨ ʦiː˩˧ 
+wavs/1_0089.wav|mɔːk̚˨ jɐm˩˥ mɔːk̚˨ jɐm˩˥ jɐu˩˧ siː˨˩ ʦɐu˩˥ , fɐŋ˩˧ fɐŋ˩˧ ʦɵj˩˧ tɐu˩˧ jɐu˩˧ 
+wavs/1_0090.wav|mɔːk̚˨ jɐm˩˥ maːu˩˧ siː˨˩ ʦɐu˩˥ , fɐŋ˩˧ fɐŋ˩˧ ʦɵj˩˧ tɐu˩˧ jɐu˩˧ 
+wavs/1_0091.wav|mɔːk̚˨ maː˨ jɐu˩˧ siː˨˩ ʦʰɐi˩˧ , jɐk̚˩˥ jɛː˨ sɐu˨ kʷuː˩˧ ʦʰɐi˩˧ 
+wavs/1_0092.wav|ʦʊŋ˩˧ maː˨˩ tɐk̚˩˥ maː˨˩ , ʦʊŋ˩˧ tɐu˨ tɐk̚˩˥ tɐu˨ 
+wavs/1_0093.wav|tʰɪŋ˩˧ ŋæːŋ˩˧ fuːi˩˧ fuːi˩˧ , sɔː˩˧ jiː˨˩ pɐk̚˩˥ lɐu˨ 
+wavs/1_0094.wav|kɪŋ˩˧ kʷʊŋ˩˧ mɔːk̚˨ hœːŋ˩˧ ʦʰɪŋ˨˩ 
+wavs/1_0095.wav|ʦuː˨ hæːk̚˩˥ mɔːk̚˨ ʦɵj˨ hɐu˨ 
+wavs/1_0096.wav|nɐŋ˨˩ tʰiːm˩˧ jɐk̚˩˥ tɐu˩˥ 
+wavs/1_0097.wav|mɔːk̚˨ tʰiːm˩˧ jɐk̚˩˥ hɐu˩˥ 
+wavs/1_0098.wav|tʰɔːŋ˨˩ lɔːŋ˨˩ puː˨ siːm˨˩ , hiː˩˥ tiː˩˧ wɔːŋ˨˩ ʦœːk̚˩˥ ʦɵj˨ hɐu˨ 
+wavs/1_0099.wav|pɐk̚˩˥ kʰɐu˨˩ kɐm˩˧ jʊk̚˨ ʦʰʊŋ˨˩ ʦʰʊŋ˨˩ kʷɐi˩˧ , tæːŋ˨ jyːŋ˨ jiː˨˩ syːŋ˩˧ kɔː˩˧ kɔː˩˧ jɪŋ˨˩ 
+wavs/1_0100.wav|jɐk̚˩˥ jɐk̚˨ fuː˩˧ ʦʰɐi˩˧ , pæːk̚˩˥ sɐi˩˧ jɐŋ˩˧ jyːŋ˨˩ 
+wavs/1_0101.wav|pæːk̚˩˥ sɐi˩˧ sɐu˩˧ lɵj˨˩ tʰʊŋ˨˩ syːŋ˨˩ tuː˨ , ʦʰɪŋ˩˧ sɐi˩˧ sɐu˩˧ lɵj˨˩ kʊŋ˨ ʦɐm˩˥ mɪŋ˨˩ 
+wavs/1_0102.wav|sæːk̚˩˥ jɐŋ˨˩ jɐk̚˩˥ mæːŋ˨ , ʦiː˨ syːŋ˩˥ saːm˩˧ ʦʰɪŋ˩˧ 
+wavs/1_0103.wav|sœːŋ˩˧ jɐŋ˨˩ jɐk̚˩˥ jyː˩˧ , liː˨ jyː˨˩ tɐu˩˧ kʷʊk̚˩˥ 
+wavs/1_0104.wav|fuː˩˧ mʊk̚˨ fʊŋ˨˩ ʦʰɐŋ˩˧ jɐu˨˩ ʦɵj˩˧ fæːk̚˩˥ , jɐŋ˨˩ muː˨˩ lœːŋ˩˥ tuː˨ ʦɵj˩˧ siːu˩˥ nɪŋ˨˩ 
+wavs/1_0105.wav|miː˨ mæːŋ˩˧ sɪŋ˩˧ tʰɐu˨˩ sʊk̚˩˥ , kɐi˩˧ mɐŋ˨˩ ʦɐu˩˥ fʊŋ˩˧ tʰɪŋ˩˧ 
+wavs/1_0106.wav|ʦœːŋ˩˧ sœːŋ˩˧ hʊŋ˩˧ ʦʰɪŋ˨˩ hɐm˩˧ ʦɐu˩˥ maː˩˧ , kʊŋ˩˧ hɐu˨ tʰuː˩˧ lyː˩˧ hɐu˩˥ ʦʰæːŋ˩˧ syːŋ˨˩ 
+wavs/1_0107.wav|fuː˩˧ jɐŋ˨˩ siː˩˧ lɵj˨˩ nɪŋ˨˩ , kʰʊŋ˨˩ jɐŋ˨˩ siː˩˧ ŋæːŋ˩˧ ʦʰɪŋ˨˩ 
+wavs/1_0108.wav|sɐi˩˧ sœːŋ˩˧ jœːk̚˨ jiːu˩˧ jɐŋ˨˩ ʦʰɐŋ˨˩ hɐu˩˥ , sɛː˩˧ hyː˩˧ mɐk̚˨ kɪŋ˨ mɔːk̚˨ ʦʰyː˩˥ ʦʰɪŋ˨˩ 
+wavs/1_0109.wav|siː˩˥ sæːŋ˩˧ jɐu˩˧ mɐŋ˨ , fuː˩˧ kʷɐi˩˧ ʦɵj˨ tʰɪŋ˩˧ 
+wavs/1_0110.wav|kɐk̚˩˥ sɛːk̚˨ jyːŋ˨˩ jɐu˩˧ fɔː˩˥ 
+wavs/1_0111.wav|pɐk̚˩˥ kɐk̚˩˥ naːi˩˧ muː˨˩ jɪŋ˩˧ 
+wavs/1_0112.wav|wɐi˨˩ hɔːk̚˨ ʦʰiː˩˥ tiː˩˧ tɐu˨ , pɐk̚˩˥ hɔːk̚˨ jɐk̚˨ tʰuː˨˩ jɪŋ˨˩ 
+wavs/1_0113.wav|mɔːk̚˨ siːu˩˧ tʰaː˩˧ jɐŋ˨˩ lɐu˩˧ 
+wavs/1_0114.wav|ʦʊŋ˩˧ syː˩˧ wæːŋ˨˩ tɐu˩˧ lɐu˩˧ 
+wavs/1_0115.wav|tæːŋ˨ nɐŋ˨˩ jiː˩˧ pʊŋ˩˥ fɐŋ˩˧ , ʦʊŋ˩˧ syː˩˧ mɐu˩˧ fæːŋ˨˩ nɐu˩˧ 
+wavs/1_0116.wav|kʷɐŋ˩˧ ʦiː˩˥ wuːi˩˧ ʦʰɵj˨˩ , ʦʰyː˩˥ ʦiː˩˧ jɐu˩˧ tɐu˨ 
+wavs/1_0117.wav|ʦɐŋ˩˧ fuː˩˧ wuːi˩˧ sɐk̚˩˥ , naːp̚˨ ʦiː˩˧ jiː˩˧ lɐi˩˧ 
+wavs/1_0118.wav|sɪŋ˨ jɐu˩˧ sɪŋ˨ pɐu˩˧ , ɔːk̚˩˥ jɐu˩˧ ɔːk̚˩˥ pɐu˩˧ 
+wavs/1_0119.wav|pɐk̚˩˥ siː˨ pɐk̚˩˥ pɐu˩˧ , jɐk̚˨ ʦiː˩˥ pɐk̚˩˥ tɐu˩˧ 
+wavs/1_0120.wav|jɐŋ˨˩ jiː˨˩ muː˨˩ sɐŋ˩˧ 
+wavs/1_0121.wav|pɐk̚˩˥ tiː˩˧ kʰiː˨˩ hɔː˩˥ jaː˩˧ 
+wavs/1_0122.wav|jɐk̚˩˥ jɐŋ˨˩ tɐu˨ hɐu˩˥ , ʦʰɪŋ˩˧ jɐŋ˨˩ ʦyːŋ˨ sɐk̚˨ 
+wavs/1_0123.wav|fæːŋ˨˩ siː˨ jiːu˩˧ hɐu˩˥ , syː˩˧ mɐŋ˨ saːm˩˧ lɐu˩˧ 
+wavs/1_0124.wav|jœːk̚˨ ʦæːŋ˩˧ siːu˩˥ hɔː˩˥ , pɪŋ˨ sɐk̚˩˥ taːi˨ tɐu˨ 
+wavs/1_0125.wav|nɪŋ˨˩ nɪŋ˨˩ fɔːŋ˨˩ kiː˩˧ , jɛː˨ jɛː˨ fɔːŋ˨˩ tɐu˨ 
+wavs/1_0126.wav|hɔːk̚˨ ʦɛː˩˥ jyː˨˩ wɔː˨˩ jyː˨˩ tɐu˨ , pɐk̚˩˥ hɔːk̚˨ ʦɛː˩˥ jyː˨˩ hɐu˩˧ jyː˨˩ ʦʰɐu˩˥ 
+wavs/1_0127.wav|jyː˨ jɐm˩˥ ʦɐu˩˥ siː˨˩ syː˩˧ jɐm˩˥ ʦɐu˩˥ , tɐk̚˩˥ kɐu˩˧ kɔː˩˧ ʦʰyː˩˧ ʦʰɛː˩˥ kɐu˩˧ kɔː˩˧ 
+wavs/1_0128.wav|jɐŋ˩˧ fʊŋ˩˧ ʦʰɵj˩˧ fɔː˩˥ , jʊŋ˨ lɐk̚˨ pɐk̚˩˥ tɔː˩˧ 
+wavs/1_0129.wav|pɐk̚˩˥ jɐŋ˩˧ jyː˨˩ fuː˨ jɐŋ˩˧ , ʦɐm˩˥ tɐk̚˩˥ kɪŋ˩˧ pɔː˩˧ tʰuː˨˩ 
+wavs/1_0130.wav|pɐk̚˩˥ jɐŋ˩˧ jyː˨˩ fuː˨ jɐŋ˩˧ , ʦɐm˩˥ tɐk̚˩˥ kɪŋ˩˧ pɔː˩˧ tʰuː˨˩ 
+wavs/1_0131.wav|muː˨˩ kʰɐu˨˩ tɐu˩˧ ʦʰyː˩˧ jɐŋ˨˩ ʦʰɐŋ˨˩ hɐu˩˥ , pɐk̚˩˥ jɐm˩˥ ʦʰʊŋ˨˩ tʰaː˩˧ ʦɐu˩˥ kaː˩˧ kɐu˩˧ 
+wavs/1_0132.wav|tiː˩˧ siː˨ siːu˩˥ siː˨˩ fæːŋ˨˩ nɐu˩˧ siːu˩˥ , sɐk̚˩˥ jɐŋ˨˩ tɔː˩˧ ʦʰyː˩˧ siː˨ fiː˩˧ tɔː˩˧ 
+wavs/1_0133.wav|sɐk̚˩˥ jɐŋ˨˩ tɔː˩˧ ʦʰyː˩˧ siː˨ fiː˩˧ tɔː˩˧ 
+wavs/1_0134.wav|jɐp̚˨ sæːŋ˩˧ pɐk̚˩˥ pʰaː˩˧ sœːŋ˩˧ jɐŋ˨˩ fuː˩˥ , ʦiː˩˥ pʰaː˩˧ jɐŋ˨˩ ʦʰɐŋ˨˩ lœːŋ˩˥ mɪŋ˨ tɐu˩˧ 
+wavs/1_0135.wav|kʰœːŋ˨˩ ʦʊŋ˩˧ kɐŋ˩˧ jɐu˩˧ kʰœːŋ˨˩ ʦʊŋ˩˧ sɐu˩˥ , ɔːk̚˩˥ jɐŋ˨˩ syː˩˧ jʊŋ˨ ɔːk̚˩˥ jɐŋ˨˩ mɔː˨˩ 
+wavs/1_0136.wav|wuːi˩˧ siː˩˥ pɐk̚˩˥ ʦɵj˨ kaː˩˧ hɐu˨˩ fuː˩˧ , fʊŋ˩˧ lɐu˨˩ pɐk̚˩˥ jʊŋ˨ ʦœːk̚˨ jiː˩˧ tɔː˩˧ 
+wavs/1_0137.wav|kʷɔːŋ˩˧ jɐm˩˧ ʦʰiː˩˧ ʦɪŋ˩˧ , jɐk̚˨ ŋyːk̚˨ jyː˨˩ sɔː˩˧ 
+wavs/1_0138.wav|tʰɪŋ˩˧ siː˨˩ pɐk̚˩˥ jyː˨˩ tiː˨ liː˨ , tiː˨ liː˨ pɐk̚˩˥ jyː˨˩ jɐŋ˨˩ wɔː˨ 
+wavs/1_0139.wav|wɔːŋ˨˩ kɐm˩˧ miː˨ wɐi˨˩ kʷɐi˩˧ , wʊŋ˩˧ ŋɔːk̚˨ ʦɐk̚˨ ʦʰɪŋ˨˩ tɔː˩˧ 
+wavs/1_0140.wav|wʊŋ˩˧ ŋɔːk̚˨ ʦɐk̚˨ ʦʰɪŋ˨˩ tɔː˩˧ 
+wavs/1_0141.wav|sɐi˩˧ sœːŋ˩˧ mæːŋ˨ pʊŋ˩˧ kaːi˩˧ haː˩˧ pɐŋ˩˥ , siː˩˧ lœːŋ˨˩ wɐi˨˩ jɐu˩˧ tʊk̚˨ syː˩˧ kɐu˩˧ 
+wavs/1_0142.wav|sɐi˩˧ kæːŋ˩˧ hɐu˩˥ jyː˩˧ syː˩˧ syːk̚˩˥ ʦɐŋ˨ , tʰɪŋ˩˧ haː˩˧ mɐŋ˨˩ sæːŋ˩˧ ʦɐŋ˩˧ ʦiːm˩˧ tɔː˩˧ 
+wavs/1_0143.wav|wɐi˨˩ sɪŋ˨ ʦɵj˩˧ lɔːk̚˨ , wɐi˨˩ ɔːk̚˩˥ næːŋ˨˩ tʰɐu˨˩ 
+wavs/1_0144.wav|jœːŋ˨˩ jɐu˩˧ kʷɐi˨ jyː˩˧ ʦiː˩˧ jɐŋ˩˧ 
+wavs/1_0145.wav|a˩˧ jɐu˩˧ fæːŋ˩˥ puː˨ ʦiː˩˧ jiː˨ 
+wavs/1_0146.wav|niː˩˧ kɐp̚˩˥ kʰyː˨˩ miː˨ kɐp̚˩˥ , jɐŋ˨˩ hæːŋ˨˩ sɐm˩˧ pɐk̚˩˥ hæːŋ˨˩ 
+wavs/1_0147.wav|jɐŋ˩˧ ɔːk̚˩˥ jœːŋ˨˩ sɪŋ˨ 
+wavs/1_0148.wav|ʦɐp̚˩˥ kʰiː˨˩ lœːŋ˩˥ tyːŋ˩˧ 
+wavs/1_0149.wav|ʦʰɐi˩˧ jɪŋ˨˩ fuː˩˧ wɔː˨ siːu˩˥ , ʦiː˩˥ haːu˩˧ fuː˨ sɐm˩˧ fʊŋ˩˧ 
+wavs/1_0150.wav|kiː˩˧ ʦɵj˨ fuː˩˥ ʦɐŋ˩˧ , fæːŋ˩˥ kʷuː˩˧ muː˨˩ jɐk̚˩˥ 
+wavs/1_0151.wav|fæːŋ˩˧ fʊk̚˩˥ ʦiː˩˧ sɵj˩˥ , sɐu˩˧ ʦiː˩˧ sɐk̚˨ næːŋ˨˩ 
+wavs/1_0152.wav|jɐŋ˨˩ sæːŋ˩˧ tiː˩˧ ʦʊk̚˩˥ hɔː˩˥ siː˨˩ ʦʊk̚˩˥ , jɐŋ˨˩ lɐu˩˧ tʰɐu˩˧ hæːŋ˨˩ ʦʰɛː˩˥ siː˨ hæːŋ˨˩ 
+wavs/1_0153.wav|tæːŋ˨ jɐu˩˧ lʊk̚˨ jœːŋ˨˩ hɐm˩˧ hɐi˨ maː˩˧ , ʦʰyː˩˧ ʦʰyː˩˧ jɐu˩˧ luː˨ tʰɐu˩˧ ʦœːŋ˩˥ wʊŋ˩˧ 
+wavs/1_0154.wav|kɪŋ˩˧ ʦɛː˩˥ jiː˨ , hɔːk̚˨ ʦɛː˩˥ næːŋ˨˩ 
+wavs/1_0155.wav|mɔːk̚˨ ʦœːŋ˩˧ jʊŋ˨˩ jiː˨ tɐk̚˩˥ , pɪŋ˨ ʦɔːk̚˩˥ tɐŋ˩˥ hæːŋ˨˩ tʰɐi˩˥ 
+wavs/1_0156.wav|jʊŋ˨ sɐm˩˧ kɐi˩˧ kaːu˩˧ pʊŋ˩˧ pʊŋ˩˧ ʦʰɔː˩˧ 
+wavs/1_0157.wav|tʰɵj˩˧ puː˨ siː˩˧ lœːŋ˨˩ siː˨ siː˨ næːŋ˨˩ 
+wavs/1_0158.wav|tɐu˨ luː˨ kɔːk̚˩˥ pɪk̚˨ , jœːŋ˩˧ kaː˩˧ jɐk̚˩˥ pʊŋ˩˧ 
+wavs/1_0159.wav|ʦʰʊŋ˨˩ kiːm˨ jɐp̚˨ ʦʰɛː˩˧ jiː˨ , ʦʰʊŋ˨˩ ʦʰɛː˩˧ jɐp̚˨ kiːm˨ næːŋ˨˩ 
+wavs/1_0160.wav|tiː˩˧ jɐm˩˧ kɔːŋ˩˥ jyː˩˧ tiː˩˧ jɐm˩˧ tʰɛːŋ˩˧ 
+wavs/1_0161.wav|m̩˨˩ hɐi˨ tiː˩˧ jɐm˩˧ mɔːk̚˨ jyː˩˧ tæːŋ˨ 
+wavs/1_0162.wav|tiːm˩˥ sɛːk̚˨ faː˩˧ wɐi˨˩ kɐm˩˧ , jɐŋ˨˩ sɐm˩˧ jɐu˨˩ miː˨ ʦʊk̚˩˥ 
+wavs/1_0163.wav|sɐŋ˩˧ haːu˨ tuː˩˥ , maːi˨ haːu˨ ʊk̚˩˥ 
+wavs/1_0164.wav|tʰaː˩˧ jɐŋ˨˩ kʷʊŋ˩˧ faː˩˧ , pɐk̚˩˥ siːp̚˩˥ niː˩˧ mʊk̚˨ 
+wavs/1_0165.wav|tʰaː˩˧ jɐŋ˨˩ lʊk̚˩˥ lʊk̚˩˥ , pɐk̚˩˥ siːp̚˩˥ niː˩˧ ʦʊk̚˩˥ 
+wavs/1_0166.wav|sɵj˨˩ jɐŋ˨˩ pɐk̚˩˥ wuːi˩˧ ʦiː˩˥ syːŋ˩˧ jɪŋ˨˩ , sɵj˨˩ jɐŋ˨˩ pɐk̚˩˥ wuːi˩˧ ʦʰɪŋ˩˧ ʦʊŋ˩˧ sʊk̚˩˥ 
+wavs/1_0167.wav|mɔːk̚˨ paː˩˥ ʦɐŋ˩˧ sɐm˩˧ hʊŋ˩˧ kɐi˩˧ kaːu˩˧ , ŋ˩˧ hæːŋ˨˩ pɐk̚˩˥ siː˨ ʦɛː˩˧ tʰɐi˨˩ mʊk̚˨ 
+wavs/1_0168.wav|jyː˩˧ jɐŋ˨˩ pɐk̚˩˥ wɔː˨ , hyːŋ˩˧ jɐŋ˨˩ jœːŋ˩˧ ŋɔː˨˩ . jyː˩˧ jɐŋ˨˩ pɐk̚˩˥ mʊk̚˨ , hyːŋ˩˧ jɐŋ˨˩ kaː˩˧ ʊk̚˩˥ 
+wavs/1_0169.wav|tæːŋ˨ hæːŋ˨˩ hɐu˩˥ siː˨ , mɔːk̚˨ mɐŋ˨ ʦʰɪŋ˨˩ ʦʰɐŋ˨˩ 
+wavs/1_0170.wav|hɔː˨˩ haːp̚˩˥ sɵj˩˥ kɐp̚˩˥ , jɐŋ˨˩ kɐp̚˩˥ kɐi˩˧ sæːŋ˩˧ 
+wavs/1_0171.wav|mɐŋ˨˩ tiː˩˧ sæːŋ˩˧ jɐu˩˧ fuː˩˥ , mɔːk̚˨ hœːŋ˩˧ fuː˩˥ sæːŋ˩˧ hæːŋ˨˩ 
+wavs/1_0172.wav|luː˨ pɐk̚˩˥ hæːŋ˨˩ pɐk̚˩˥ tɐu˩˧ , siː˨ pɐk̚˩˥ wɐi˨˩ pɐk̚˩˥ sɛːŋ˨˩ 
+wavs/1_0173.wav|jɐŋ˨˩ pɐk̚˩˥ hyːŋ˩˧ pɐk̚˩˥ sɪŋ˨ , ʦʊŋ˩˧ pɐk̚˩˥ taː˩˥ pɐk̚˩˥ mɐŋ˨˩ 
+wavs/1_0174.wav|muː˨˩ ʦʰɪŋ˨˩ fɔːŋ˩˧ tyːŋ˨ ʦɐu˩˥ , lɐm˨˩ lɐu˩˧ ʦʰiː˩˥ tʰɐi˩˥ kɐŋ˩˧ 
+wavs/1_0175.wav|tiːm˩˥ tʰaːp̚˩˥ ʦʰɐk̚˩˥ ʦʰɐŋ˨˩ , pɐk̚˩˥ jyː˨˩ ɐm˩˧ ʦʰyː˩˧ jɐk̚˩˥ tɐŋ˩˧ 
+wavs/1_0176.wav|mæːŋ˨ siː˨ hyːŋ˩˧ jɐŋ˨˩ jɐu˩˧ mʊŋ˨˩ muːi˨ , kyː˩˥ tʰɐu˨˩ saːm˩˧ ʦʰɛːk̚˩˥ jɐu˩˧ sɐŋ˨˩ mɐŋ˨˩ 
+wavs/1_0177.wav|tæːŋ˨ ʦʰyːŋ˨˩ fɔːŋ˩˧ ʦʰyːŋ˩˧ tʰuː˩˥ , lɐu˨˩ jyː˩˧ lɐu˨˩ jyː˩˧ ʦiː˩˥ syːŋ˩˧ kæːŋ˩˧ . tæːŋ˨ ʦʰyːŋ˨˩ fɔːŋ˩˧ ʦʰyːŋ˩˧ tʰuː˩˥ , lɐu˨˩ jyː˩˧ ʦiː˩˥ syːŋ˩˧ kæːŋ˩˧ 
+wavs/1_0178.wav|mɪk̚˨ kʰœːk̚˩˥ sɐm˩˧ tʰɐu˨˩ fɔː˩˥ 
+wavs/1_0179.wav|tʰɐk̚˩˥ hiː˩˥ fɐk̚˨ ʦʰɪŋ˨˩ tɐŋ˩˧ 
+wavs/1_0180.wav|sɐŋ˩˧ sɐŋ˩˧ sœːŋ˨˩ pɐk̚˩˥ ʦʊk̚˩˥ , mʊŋ˩˥ mʊŋ˩˥ ʦɔːk̚˩˥ kʊŋ˩˧ hɐŋ˩˧ 
+wavs/1_0181.wav|ʦʊŋ˩˧ sɐŋ˩˧ lɔːŋ˩˧ lɔːŋ˩˧ , pɐk̚˩˥ jyː˨˩ kʷuː˩˧ ŋyːk̚˨ tʊk̚˨ mɐŋ˨˩ 
+wavs/1_0182.wav|hɐŋ˩˧ tɐi˨ sœːŋ˩˧ fuːi˨ , pɐk̚˩˥ jyː˨˩ ʦiː˨ sæːŋ˩˧ 
+wavs/1_0183.wav|hɐp̚˨ liː˩˧ hɔː˩˥ ʦɔːk̚˩˥ , siːu˩˥ liː˨ mɔːk̚˨ ʦæːŋ˩˧ 
+wavs/1_0184.wav|maːu˩˧ tæːŋ˩˧ faː˩˧ hɐu˩˥ hʊŋ˩˧ jɐp̚˨ mʊk̚˨ 
+wavs/1_0185.wav|ʦɐu˩˥ faː˩˧ sɵj˩˧ siːu˩˥ kɪk̚˩˥ sɐk̚˨ sɛːŋ˨˩ 
+wavs/1_0186.wav|ʦɐu˩˥ faː˩˧ sɵj˩˧ siːu˩˥ kɪk̚˩˥ sɐk̚˨ sɛːŋ˨˩ 
+wavs/1_0187.wav|hiː˩˧ lɐu˩˧ mɔːk̚˨ hiː˩˧ siːu˩˥ , hiː˩˧ jɐŋ˨˩ sɐm˩˧ pɐk̚˩˥ mɐŋ˨˩ 
+wavs/1_0188.wav|ʦʰɵj˨˩ fɐŋ˩˧ kæːŋ˩˧ ʦʰɔː˨˩ sɐu˩˧ tiː˨ liː˨ , tʰaː˩˧ siː˨˩ paːu˩˥ mʊŋ˩˧ ʦɛː˨ ʦʰɔːŋ˩˧ tʰɪŋ˩˧ 
+wavs/1_0189.wav|tʰaː˩˧ siː˨˩ paːu˩˥ mʊŋ˩˧ ʦɛː˨ ʦʰɔːŋ˩˧ tʰɪŋ˩˧ 
+wavs/1_0190.wav|tɐk̚˩˥ jɐŋ˩˧ ʦʰɛː˩˥ jɐŋ˩˧ , tɐk̚˩˥ nɵj˨ ʦʰɛː˩˥ nɵj˨ 
+wavs/1_0191.wav|pɐk̚˩˥ jɐŋ˩˧ pɐk̚˩˥ nɵj˨ , siːu˩˥ siː˨ sɛːŋ˨˩ taːi˨ 
+wavs/1_0192.wav|sœːŋ˩˧ lɐŋ˨ ʦʰɐŋ˩˥ jɐŋ˩˧ hʊŋ˨˩ , kaː˩˧ kɐi˩˧ ʦiːm˨ ʦiːm˨ tʰɵj˩˧ 
+wavs/1_0193.wav|jɪŋ˨˩ fuː˩˧ lɐŋ˨ fuː˩˧ kʷɐi˩˧ , ɔːk̚˩˥ fuː˩˧ lɐŋ˨ fuː˩˧ paːi˨ 
+wavs/1_0194.wav|jɐk̚˩˥ jɐŋ˨˩ jɐu˩˧ hɐŋ˩˧ , siːu˨ mɐŋ˨˩ haːm˨˩ laːi˨ 
+wavs/1_0195.wav|jɐŋ˨˩ lɐu˩˧ sɐm˩˧ , jɐŋ˨˩ lɐu˩˧ sɐm˩˧ m̩˨˩ lɐu˩˧ , jɐŋ˨˩ kʰʊŋ˨˩ ʦiː˩˧ pɐk̚˩˥ kʰʊŋ˨˩ 
+wavs/1_0196.wav|jɐŋ˨˩ muː˨˩ , jɐŋ˨˩ muː˨˩ ʦʰɪŋ˩˧ jɐk̚˨ hɐu˩˥ , faː˩˧ muː˨˩ pæːk̚˩˥ jɐk̚˨ hʊŋ˨˩ 
+wavs/1_0197.wav|sæːk̚˩˥ jɐŋ˨˩ hɔː˩˥ syː˩˧ , ʦʰɐŋ˨˩ liː˩˧ næːŋ˨˩ jʊŋ˨˩ 
+wavs/1_0198.wav|ʦaː˩˧ fuː˩˧ pɐk̚˩˥ tiː˩˧ sɐŋ˩˧ sɐu˨ jʊŋ˨ , ʦaː˩˧ pʰɐŋ˨˩ næːŋ˨˩ kʷuːi˩˥ kɐu˨ kaː˩˧ fʊŋ˩˧ 
+wavs/1_0199.wav|ʦɔː˨ sœːŋ˩˧ hæːk̚˩˥ sœːŋ˨˩ mʊŋ˩˧ , ʦɐŋ˩˧ ʦʊŋ˩˧ ʦɐu˩˥ pɐk̚˩˥ , hʊŋ˩˧ 
+wavs/1_0200.wav|ʦɔː˨ sœːŋ˩˧ hæːk̚˩˥ sœːŋ˨˩ mʊŋ˩˧ , ʦɐŋ˩˧ ʦʊŋ˩˧ ʦɐu˩˥ pɐk̚˩˥ hʊŋ˩˧ 
+wavs/1_0201.wav|uk̚˩˥ lɐu˨ kɐŋ˩˧ ʦɐu˩˧ lɪŋ˨˩ nɪŋ˨˩ jyː˩˧ , hæːŋ˨˩ syːŋ˨˩ jɐu˨ jyː˨ taː˩˥ tʰɐu˨˩ fʊŋ˩˧ 
+wavs/1_0202.wav|sɐŋ˩˥ jɐŋ˩˧ lɔːk̚˨ tɔːk̚˨ fɔːŋ˩˧ sɛːŋ˨˩ ʦʊk̚˩˥ , jyː˨˩ wɐi˨˩ pɐŋ˩˧ pɔː˩˧ ʦʰiː˩˥ faː˩˧ lʊŋ˨˩ 
+wavs/1_0203.wav|kiː˩˧ tɐk̚˩˥ siːu˩˥ siː˨˩ kʰiː˨˩ ʦʊk̚˩˥ maː˩˧ 
+wavs/1_0204.wav|tʰɐi˩˥ haː˩˧ jɐu˨ siː˨ pæːk̚˨ tʰɐu˨˩ jʊŋ˩˧ 
+wavs/1_0205.wav|lɐi˩˧ jiː˨ sæːŋ˩˧ jyː˩˧ fuː˩˧ ʦʊk̚˩˥ , tɐu˨ ʦʰɐk̚˨ ʦʰɐk̚˩˥ jyː˩˧ pʰɐŋ˨˩ kʰʊŋ˨˩ 
+wavs/1_0206.wav|tʰɪŋ˩˧ sœːŋ˩˧ ʦʊŋ˩˧ sɐŋ˩˧ kaːi˩˧ kʊŋ˩˥ pɐk̚˩˥ 
+wavs/1_0207.wav|sɐi˩˧ kæːŋ˩˧ muː˨˩ sɵj˩˥ pɐk̚˩˥ ʦiːu˩˧ tʊŋ˩˧ 
+wavs/1_0208.wav|kʷɐŋ˩˧ ʦiː˩˥ wʊŋ˩˧ pʰɐŋ˨˩ , tæːk̚˨ jɐŋ˨˩ tiː˩˧ mɐŋ˨ 
+wavs/1_0209.wav|kʷɐŋ˩˧ ʦiː˩˥ wʊŋ˩˧ kʷɐŋ˩˧ ʦiː˩˥ wʊŋ˩˧ pʰɐŋ˨˩ , tæːk̚˨ jɐŋ˨˩ tiː˩˧ mɐŋ˨ 
+wavs/1_0210.wav|ʦʊŋ˩˧ jɪŋ˨˩ jɐk̚˨ jiː˩˧ liː˨ jyː˩˧ hæːŋ˨˩ , lœːŋ˨˩ jœːk̚˨ fuː˩˥ hɐu˩˥ liː˨ jyː˩˧ pɛːŋ˨ 
+wavs/1_0211.wav|sɐŋ˨ tʰɪŋ˩˧ ʦɛː˩˥ ʦʰyːŋ˨˩ , jɐk̚˨ tʰɪŋ˩˧ ʦɛː˩˥ mɔːŋ˨˩ 
+wavs/1_0212.wav|jɐŋ˨˩ wɐi˨˩ ʦʰɵj˨˩ siː˩˥ , niːu˩˧ wɐi˨˩ hɛːk̚˩˥ mɔːŋ˨˩ 
+wavs/1_0213.wav|fuː˩˧ ʦʰɐi˩˧ sœːŋ˩˧ hɐp̚˨ hɐu˩˥ , kʰɐm˨˩ sɐk̚˩˥ jyː˩˧ sɐŋ˩˧ wɔːŋ˨˩ 
+wavs/1_0214.wav|jɐu˩˧ jiː˨˩ pʰɐŋ˨˩ pɐk̚˩˥ kɐu˩˥ , muː˨˩ ʦiː˩˥ fuː˩˧ pɐk̚˩˥ ʦœːŋ˩˥ 
+wavs/1_0215.wav|sɪŋ˨ pɪk̚˩˥ sɐu˨ lɐu˩˧ , ɔːk̚˩˥ pɪk̚˩˥ ʦɐu˩˥ mɔːŋ˨˩ 
+wavs/1_0216.wav|sɔːŋ˩˥ hɐu˩˥ sɐk̚˨ tɔː˩˧ pʰɪŋ˩˧ ʦɔːk̚˩˥ jœːk̚˨ 
+wavs/1_0217.wav|faːi˩˧ sɐm˩˧ siː˨ kʷɔː˩˧ hʊŋ˩˥ sæːŋ˩˧ jœːŋ˩˧ 
+wavs/1_0218.wav|fuː˩˧ kʷɐi˩˧ tɐŋ˨ jiːu˩˧ wʊŋ˩˧ pʊŋ˩˥ fɐŋ˩˧ , pʰɐŋ˨˩ kʰʊŋ˨˩ pɐk̚˩˥ pɪk̚˩˥ wɔːŋ˩˥ siː˩˧ lœːŋ˨˩ 
+wavs/1_0219.wav|wæːk̚˨ sɵj˩˥ muː˨˩ fʊŋ˩˧ hʊŋ˩˧ ʦɔːk̚˩˥ lɔːŋ˨ , sɐu˩˧ faː˩˧ sɵj˩˧ hɐu˩˥ pɐk̚˩˥ mɐŋ˨˩ hœːŋ˩˧ 
+wavs/1_0220.wav|wæːk̚˨ sɵj˩˥ muː˨˩ fʊŋ˩˧ hʊŋ˩˧ ʦɔːk̚˩˥ lɔːŋ˨ , sɐu˩˧ faː˩˧ sɵj˩˧ hɐu˩˥ pɐk̚˩˥ mɐŋ˨˩ hœːŋ˩˧ 
+wavs/1_0221.wav|tʰaːm˩˧ kʰyː˨˩ jɐk̚˩˥ tɐu˩˥ maːi˩˧ 
+wavs/1_0222.wav|sɐk̚˩˥ kʰœːk̚˩˥ pʊŋ˩˧ nɪŋ˨˩ lœːŋ˨˩ 
+wavs/1_0223.wav|ʦæːŋ˩˧ kʰyː˨˩ jɐk̚˩˥ kœːk̚˩˥ tʰyːŋ˨˩ , fæːŋ˩˥ sɐk̚˩˥ jɐk̚˩˥ ʦaːu˩˥ jœːŋ˨˩ 
+wavs/1_0224.wav|lʊŋ˨˩ kʷɐi˩˧ mæːŋ˩˧ tʊŋ˨ wɐŋ˨˩ jɐu˨˩ sɐp̚˩˥ , sɛː˨ kʷɔː˩˧ ʦʰɐŋ˩˧ sæːŋ˩˧ ʦʰɐu˩˥ mʊk̚˨ hœːŋ˩˧ 
+wavs/1_0225.wav|pʰɐŋ˨˩ sæːŋ˩˧ ʦiː˩˥ wuːi˩˧ lœːŋ˨˩ jɐŋ˨˩ tyːŋ˩˥ , hɔː˩˥ pɐk̚˩˥ wuːi˨˩ tʰɐu˨˩ paː˩˥ ʦiː˨ lœːŋ˨˩ 
+wavs/1_0226.wav|kɪŋ˩˧ sɪŋ˨ jyː˨˩ pɐk̚˩˥ kʰɐp̚˨ , kɪŋ˩˧ ɔːk̚˩˥ jyː˨˩ tʰaːm˩˧ tʰɔː̃i˩˧ 
+wavs/1_0227.wav|jɐŋ˨˩ kʰʊŋ˨˩ ʦiː˩˧ tyːŋ˩˥ , maː˩˧ sɐu˩˧ mɐu˨˩ ʦœːŋ˩˥ 
+wavs/1_0228.wav|ʦiː˨ kaː˩˧ sɐm˩˧ liː˩˧ kɐp̚˩˥ , tʰaː˩˧ jɐŋ˨˩ miː˨ tiː˩˧ mɔːŋ˨˩ 
+wavs/1_0229.wav|pʰɐŋ˨˩ muː˨˩ tæːk̚˨ siː˩˥ ʦœːŋ˩˧ kɐm˩˧ ʦɐŋ˨ 
+wavs/1_0230.wav|pʰɐŋ˨˩ muː˨˩ tæːk̚˨ siː˩˥ ʦœːŋ˥ kɐm˩˧ ʦɐŋ˨ , pɛːŋ˨ jɐu˩˧ kɐu˩˧ jɐŋ˨˩ syːk̚˩˥ jœːk̚˨ fɔː̃i˩˧ 
+wavs/1_0231.wav|ʦʊk̚˩˥ lɵj˨˩ mɔːk̚˨ jyː˩˧ syːk̚˩˥ , siː˨ kʷɔː˩˧ sɐm˩˧ ʦʰɐŋ˩˧ lœːŋ˨˩ 
+wavs/1_0232.wav|ʦʰɐu˩˧ ʦiː˩˧ mʊŋ˩˧ sæːŋ˩˧ tɔː˩˧ sɐu˩˧ sɐk̚˩˥ , ʦʰɐŋ˩˧ lɵj˨˩ muː˨˩ ʦʰyː˩˧ pɐk̚˩˥ faː˩˧ hœːŋ˩˧ 
+wavs/1_0233.wav|fæːŋ˨˩ jɐŋ˨˩ pɐk̚˩˥ hɔː˩˥ maːu˨ sœːŋ˩˧ , fuːi˩˥ sɵj˩˥ pɐk̚˩˥ hɔː˩˥ tɐu˩˥ lœːŋ˨˩ 
+wavs/1_0234.wav|ʦʰɐŋ˩˧ ʦʰɐŋ˩˧ ʦiː˥ sɵj˩˥ , wɐi˨˩ tʰuː˩˥ sɔː˩˥ fɔːŋ˨˩ . ʦɐi˩˧ ʦɐi˩˧ ʦiː˩˧ siː˩˥ , wɐi˨˩ ʦɐu˩˥ sɔː˩˥ sœːŋ˩˧ 
+wavs/1_0235.wav|hɐu˩˧ ʦʰɐu˩˥ ʦiː˥ haː˩˧ , wæːk̚˨ jɐu˩˧ læːŋ˨˩ hœːŋ˩˧ 
+wavs/1_0236.wav|maːu˨˩ ʦʰiː˨˩ ʦiː˥ ʊk̚˩˥ , wæːk̚˨ jɐu˩˧ hɐu˨˩ wɔːŋ˨˩ 
+wavs/1_0237.wav|muː˨˩ hæːŋ˨ ʦyː˩˧ mʊŋ˨˩ sæːŋ˩˧ ŋɔː˨ fuː˩˧, kiː˩˥ tɔː˩˧ pæːk̚˨ ʊk̚˩˥ ʦʰɐk̚˩˥ hɐŋ˩˧ sœːŋ˩˧ 
+wavs/1_0238.wav|muː˨˩ hæːŋ˨ ʦyː˩˧ mʊŋ˨˩ sæːŋ˩˧ ŋɔː˨ fuː˩˧, kiː˩˥ tɔː˩˧ pæːk̚˨ ʊk̚˩˥ ʦʰɐk̚˩˥ hɐŋ˩˧ sœːŋ˩˧ 
+wavs/1_0239.wav|ʦɵj˩˧ hɐu˨ kʰɪŋ˨˩ kʷʰɐŋ˩˧ taːi˨ , wuː˨˩ ʦʊŋ˩˧ jɐk̚˨ ŋyːk̚˨ ʦœːŋ˩˥ 
+wavs/1_0240.wav|mæːŋ˨ siː˨ kaːi˩˧ jiː˩˧ tɐŋ˨ , fɐu˨˩ sæːŋ˩˧ hʊŋ˩˧ pæːk̚˩˥ mɔː̃i˨˩ . fɐu˨˩ sæːŋ˩˧ hʊŋ˩˧ pæːk̚˨ mɔː̃i˨˩ 
+wavs/1_0241.wav|ʦʰɪŋ˩˧ liː˩˧ sʊŋ˩˧ hɐu˨˩ mɐu˨˩ 
+wavs/1_0242.wav|lɐi˩˧ hɛːŋ˩˧ jɐŋ˨˩ jiː˨ ʦʰʊŋ˨˩ 
+wavs/1_0243.wav|jɐk̚˩˥ jɐŋ˨˩ ʦʰyːŋ˨˩ hyː˩˧ , pæːk̚˩˥ jɐŋ˨˩ ʦʰyːŋ˨˩ sɐk̚˨ 
+wavs/1_0244.wav|sɐi˩˧ siː˨ mɐŋ˨˩ jyː˨˩ kɛːŋ˩˧ , ʦʰɪŋ˨˩ ʦʰɐŋ˨˩ ɐm˩˧ ʦʰiː˩˧ ʦʰɐk̚˩˥ 
+wavs/1_0245.wav|kʷɔːŋ˩˧ jɐm˩˧ wɔː̃i˨˩ kɐm˩˧ næːŋ˨˩ maːi˩˧ , jɐk̚˩˥ sɐi˩˧ jyː˨˩ kʰyː˩˧ kʷɔː˩˧ kʷʰɐk̚˩˥ 
+wavs/1_0246.wav|lœːŋ˨˩ tʰɪŋ˨˩ mæːŋ˨ kʰɐŋ˩˧ 
+wavs/1_0247.wav|jɐk̚˨ hɛːk̚˩˥ jɐk̚˩˥ sɐŋ˩˧ 
+wavs/1_0248.wav|taːi˨ haː˨ ʦʰɪŋ˩˧ kæːŋ˩˧ , jɛː˨ mɪŋ˨˩ pæːk̚˩˥ ʦʰɛːk̚˩˥ . ʦʰɪŋ˩˧ kɐŋ˩˧ mæː̃i˨ tɪŋ˩˥ , haːu˩˧ jiː˨ wɐi˨˩ sɪŋ˩˧ 
+wavs/1_0249.wav|jɐk̚˩˥ ʦiː˨ jɐp̚˨ kʊŋ˩˧ mʊŋ˨˩ 
+wavs/1_0250.wav|kɐu˩˥ ŋɐu˨˩ tʰɔː˩˧ pɐk̚˩˥ ʦʰɐk̚˩˥ 
+wavs/1_0251.wav|ŋaː˨˩ mʊŋ˨˩ pæːk̚˩˥ ʦiː˨ fuːi˩˧ , jɐu˩˧ liː˩˧ muː˨˩ ʦʰɪŋ˨˩ mɔːk̚˨ ʦɐŋ˩˧ lɵj˨˩ 
+wavs/1_0252.wav|fuː˩˧ ʦʰʊŋ˨˩ sɐŋ˩˧ hɐp̚˨ hiː˩˥ , pʰɐŋ˨˩ jɐŋ˩˧ pɐk̚˩˥ syːŋ˩˧ lɵj˨˩ 
+wavs/1_0253.wav|kaː˩˧ ʦʊŋ˩˧ muː˨˩ ʦʰɵj˨˩ ʦiː˩˥ , kʷʊŋ˩˧ ʦʰʊŋ˨˩ hɔː˩˥ ʦʰyː˩˧ lɵj˨˩ 
+wavs/1_0254.wav|mæː̃i˨ siː˨ pɐk̚˩˥ jɐu˨˩ jɐŋ˨˩ kɐi˩˧ kaːu˩˧ , jɐk̚˩˥ sæː̃i˩˧
+wavs/1_0255.wav|tuː˩˧ siː˨ mɐŋ˨ wʊŋ˩˧ pʰaːi˨˩ 
+wavs/1_0256.wav|kɐp̚˩˥ hæːŋ˨˩ mæːŋ˨ hæːŋ˨˩ , ʦʰɪŋ˨˩ ʦʰɐŋ˨˩ ʦiː˩˥ jɐu˩˧ tɔː˩˧ siːu˩˥ luː˨ 
+wavs/1_0257.wav|jɐŋ˨˩ kæː̃i˩˧ siː˩˧ jyː˩˧ , tʰɪŋ˩˧ mɐŋ˨˩ jœːk̚˨ lɵj˨˩ 
+wavs/1_0258.wav|ɐm˩˧ sɐk̚˩˥ kʷʰɐi˩˧ sɐm˩˧ , sɐŋ˨˩ mʊk̚˨ jyː˨˩ tɪŋ˨ 
+wavs/1_0259.wav|jɐk̚˩˥ hɐu˨˩ ʦiː˩˧ ɔːk̚˩˥ , hyːŋ˩˧ jɐŋ˨˩ mɔːk̚˨ ʦɔːk̚˩˥ . jɐk̚˩˥ hɐu˨˩ ʦiː˥ sɪŋ˨ , jyː˩˧ jɐŋ˨˩ fɔː̃i˩˧ pɪŋ˨ 
+wavs/1_0260.wav|hiː˩˧ jɐŋ˨˩ siː˨ wɔː˨ , jiːu˨˩ jɐŋ˨˩ siː˨ fʊk̚˩˥ . tʰɪŋ˩˧ ŋæːŋ˩˧ fuːi˩˧ fuːi˩˧ , pɐu˩˧ jɐŋ˩˧ sɐm˨ ʦʰʊk̚˩˥ 
+wavs/1_0261.wav|sɐŋ˩˧ jɪŋ˨˩ jɪŋ˨˩ jyː˩˧ 
+wavs/1_0262.wav|sɐŋ˨˩ jɐm˩˧ kʷɐi˩˥ fʊk̚˨ 
+wavs/1_0263.wav|jɐŋ˨˩ kɔːk̚˩˥ jɐu˩˧ sɐm˩˧ , sɐm˩˧ kɔːk̚˩˥ jɐu˩˧ kɪŋ˩˧ 
+wavs/1_0264.wav|hɐu˩˥ syːk̚˩˥ pɐk̚˩˥ jyː˨˩ sɐŋ˩˧ fʊŋ˨˩ , jiː˩˧ mɐŋ˨˩ pɐk̚˩˥ jyː˨˩ mʊk̚˨ kɪŋ˩˧ 
+wavs/1_0265.wav|jœːŋ˩˧ kʷɐŋ˩˧ ʦʰɪŋ˩˧ jɐk̚˨ , jʊŋ˨ ʦɵj˨ jɐk̚˩˥ ʦiːu˩˧ 
+wavs/1_0266.wav|kʷɔːk̚˩˥ ʦʰɐŋ˩˧ ʦʰɵj˨˩ ʦiː˩˥ kʷɐi˩˧ , kaː˩˧ fuː˩˧ siːu˩˥ jiː˨˩ kiːu˩˧ 
+wavs/1_0267.wav|liː˨ tɐu˩˧ kʷʊk̚˩˥ tʰɐi˩˥ hɐŋ˨˩ jiː˨ hɐp̚˨ , ɔːk̚˩˥ jyː˩˧ sœːŋ˩˧ jɐŋ˨˩ hɐŋ˨ pɐk̚˩˥ siːu˩˧ 
+wavs/1_0268.wav|kʊŋ˩˧ tɐu˨ sɐi˩˧ kæːŋ˩˧ wɐi˨˩ pæːk̚˨ fæːk̚˩˥ 
+wavs/1_0269.wav|kʷɐi˩˧ jɐŋ˨˩ tʰɐu˨˩ sœːŋ˩˧ pɐk̚˩˥ ʦʰɐŋ˨˩ jiːu˨˩ 
+wavs/1_0270.wav|jɐu˩˧ ʦʰɪŋ˨˩ hɐm˩˧ ʦʰɐk̚˩˥ ʦʊŋ˩˧ , muː˨˩ jiː˩˧
+wavs/1_0271.wav|læː̃i˩˧ ʦʰɐk̚˩˥ mʊŋ˨˩ 
+wavs/1_0272.wav|wɐi˨˩ kʷʊŋ˩˧ sɵj˩˧ ʦɔːk̚˩˥ sœːŋ˩˧ , kʰɐp̚˨ tɐi˨ pɪk̚˩˥ ʦæːŋ˩˧ sɪŋ˩˧ 
+wavs/1_0273.wav|miːu˨˩ ʦʰʊŋ˨˩ tiː˨ fæːk̚˩˥ , syː˨ hœːŋ˩˧ ʦiː˩˧ fɐŋ˩˧ 
+wavs/1_0274.wav|fuː˨ ʦiː˩˥ , fuː˨ ʦiː˩˥ wɔː˨ jiː˨˩ kaː˩˧ pɐk̚˩˥ tʰɵj˩˧ , hɐŋ˩˧ tɐi˨ wɔː˨ jiː˨˩ kaː˩˧ pɐk̚˩˥ fɐŋ˩˧ 
+wavs/1_0275.wav|kʷʊŋ˩˧ jɐu˩˧ ʦɐŋ˩˧ tʰiːu˨˩ , mɐŋ˨˩ jɐu˩˧ wɔː˨ jœːk̚˩˥ 
+wavs/1_0276.wav|hæːŋ˨˩ siː˨˩ pɐk̚˩˥ siːu˩˧ hœːŋ˩˧ , kɐp̚˩˥ siː˨˩ pʰɐu˩˧ fɐk̚˨ kœːk̚˩˥ 
+wavs/1_0277.wav|hɐŋ˨ sæːŋ˩˧ tʰaːi˩˧ pʰɐŋ˨˩ muː˨˩ siː˨ jɐk̚˨ , hʊŋ˩˥ fʊŋ˨˩ nɪŋ˨˩ lɐu˩˧ pɐk̚˩˥ tɔː˩˧ siː˨˩ 
+wavs/1_0278.wav|kʷɔːk̚˩˥ lyːŋ˨ siː˩˧ lœːŋ˨˩ ʦœːŋ˩˧ , kaː˩˧ pʰɐŋ˨˩ siː˩˧ jɪŋ˨˩ ʦʰɐi˥ 
+wavs/1_0279.wav|ʦʰiː˨˩ tʰɔː̃i˨˩ ʦɐk̚˩˥ sɵj˩˥ syː˩˧ fɔː̃i˨˩ fʊŋ˨ , tʰɪŋ˨˩ tiː˨ kʰɐŋ˨˩ kæː̃i˩˧ ʦʊk̚˩˥ jœːŋ˩˧ kaː˩˧ 
+wavs/1_0280.wav|ʦʰiː˨˩ tʰɔː̃i˨˩ ʦɐk̚˩˥ sɵj˩˥ syː˩˧ fɔː̃i˨˩ fʊŋ˩˧ 
+wavs/1_0281.wav|tʰɪŋ˨˩ tiː˨ kʰɐŋ˨˩ kæː̃i˩˧ ʦʊk̚˩˥ jœːŋ˩˧ kaː˩˧ 
+wavs/1_0282.wav|kɐŋ˩˧ sɐm˩˧ pɐk̚˩˥ pʰaː˩˧ fʊŋ˩˧ jiːu˨˩ tʊŋ˨ , syː˨ ʦɐŋ˩˧ muː˨˩ sɐu˨˩ jyːk̚˨ jɐŋ˩˥ ʦʰɛː˨˩ 
+wavs/1_0283.wav|kʷaːi˩˧ syːŋ˩˧ , ŋɔː˩˧ tiː˩˧ tɐu˨ mɐu˩˧ sʊŋ˩˧ , niː˩˧ hyː˩˧ ʦyː˩˥ tɔː˩˧ lœːŋ˩˥ wʊŋ˩˥ fæː̃i˨ lɔː˥ 
+wavs/1_0284.wav|tʰɐŋ˩˧ jɐk̚˨ sœːŋ˩˥ jɐm˩˥ kɐ̃i˥ , niː˩˧ pɐu˩˧ kɐŋ˥ jiːu˩˧ lɔːk̚˨ jɐk̚˩˥ tiː˥ fuːi˩˥ saː˩˧ ʦɐu˨ hɐu˩˥ miː˨ kɔː˩˧
+wavs/1_0285.wav|sœːŋ˩˧ ʦʰiː˩˧ niː˩˧ lɔːk̚˨ tɐk̚˩˥ tɔː˩˧ kʷɔː˩˧ tʰɐu˨˩ , hɐu˩˥ haːm˨˩ , hɐu˩˥ kɛːŋ˩˥ fʊk̚˩˥ aː˩˧ 
+wavs/1_0286.wav|nɛː˩˧ tiː˥ wɔːŋ˨˩ sɐm˩˧ kʷʊk̚˩˥ syː˩˥ tʰʊŋ˨˩ maːi˨˩ ʦʰɵj˩˧ tʰɐu˨˩ hɐu˩˥ tʰiːm˨˩ , hyː˩˧ syːŋ˩˥ tʰɐu˨˩ maːi˩˧ kɔː˩˧ maː˩˧ ? ŋɔː˩˧ jɐk̚˩˥ ʦɐŋ˨ kæː̃i˩˧ hyː˩˧ maːi˩˧ tiː˥ fæːŋ˩˥ lɵj˨˩  
+wavs/1_0287.wav|kaːu˩˧ kʰiː˨˩ pɪŋ˩˧ lɪk̚˨ puː˨ , jɐu˩˧ kiː˩˥ tʰiːu˨˩ ŋɔː˨˩ hyːŋ˩˥ kʊŋ˩˧ ʦʰɐk̚˩˥ lɵj˨˩ , jɐu˨ jɐu˩˧ hɐu˩˥ tɔː˩˧ laːp̚˨ saːp̚˩˥ , hɐu˩˥ ŋɐŋ˩˧ siː˩˥ aː˧
+wavs/1_0288.wav|niː˩˧ lɔː˩˥ paː˩˥ sɐu˩˧ kʷʊŋ˩˥ sɛː˩˥ ʦʰaːp̚˩˥ hyː˩˧ fɐk̚˩˥ ʦɐŋ˨ kʰyː˨˩ , tɐŋ˩˥ ŋɔː˩˧ maːi˩˧ paːu˩˧ hʊŋ˨˩ mɐu˨˩ nɐi˨˩ fæː̃i˩˥ lɐi˨˩ taː˩˥ hɐu˩˥ kʰyː˨˩ 
+wavs/1_0289.wav|tɐŋ˩˥ ŋɔː˩˧ maːi˩˧ paːu˩˧ hʊŋ˨˩ mɐu˨˩ nɐi˨˩ fæː̃i˩˥ lɵj˨˩ taː˩˥ hɐu˩˥ kʰyː˨˩ 
+wavs/1_0290.wav|maː˨˩ maː˨˩ waː˨ niː˩˧ nɐŋ˨˩ haːi˨ , muːi˩˧ ʦɐi˩˥ jɐŋ˨˩ jɐŋ˨˩ , ʦɐŋ˨ kæːŋ˩˧ ʦɐu˨ ʦɐŋ˩˥ hɐu˩˥ kaː˩˧ sɵj˩˥ pɐm˩˧ lɔː˨˩ 
+wavs/1_0291.wav|jɐk̚˩˥ ʦɐŋ˩˥ ŋɔː˩˧ ʦyː˩˥ pʊk̚˩˥ fɐŋ˩˥ ʦɐi˩˥ , pʰuː˨˩ tæːk̚˨ mɐŋ˩˧ mʊŋ˨˩ sɪŋ˩˧ tʰʊŋ˨˩ lɵj˨˩ siː˩˧ , ʦyː˩˥ haː˩˧ maːi˩˧ 
+wavs/1_0292.wav|jɐk̚˩˥ ʦɐŋ˩˥ ŋɔː˩˧ ʦyː˩˥ pʊk̚˩˥ fɐŋ˩˥ ʦɐi˩˥ , pʰuː˨˩ tæːk̚˨ mɐŋ˩˧ mʊŋ˨˩ sɪŋ˩˧ tʰʊŋ˨˩ lɵj˨˩ siː˩˧ haː˩˧ maːi˩˧ , ʦyː˩˥ mɐu˨˩ kʷaː˩˧ piː˩˧ niː˩˧ hɛːk̚˩˥ 
+wavs/1_0293.wav|hɛːk̚˩˥ sɐŋ˨ tiː˥ sʊŋ˩˧ tʰɐu˨˩ sʊŋ˩˧ miː˩˧ , ʦɐu˨ wuːi˩˧ lɵj˨˩ pɐŋ˩˧ kɐu˩˥ 
+wavs/1_0294.wav|niː˩˧ ʦʰɵj˩˧ mʊŋ˨˩ hɐu˩˥ , ʦuː˨ miː˥ jɛː˩˧ ʦɐu˩˥ lɵj˨˩ ʦɐu˩˥ hyː˩˧ aː˧ ?
+wavs/1_0295.wav|niː˩˧ kɪŋ˩˧ m̩˨˩ kɪŋ˩˧ tɐu˩˥ niː˩˧ taːi˨ pæːk̚˩˥ aː˩˧ ?
+wavs/1_0296.wav|niː˩˧ m̩˨˩ ʦʰiː˩˧ kaː˩˧ , sɛːŋ˨˩ jɐk̚˨ kʷuː˩˧ ʦyː˨ liːu˨ , niː˩˧ jiːu˩˧ pɔː̃i˩˧ maː˨˩ maː˨˩ wɔː˨ aː˩˧ naːi˩˧ ʦuː˨ saːi˩˧ 
+wavs/1_0297.wav|niː˩˧ aː˩˧ naːi˩˧ tʰʊŋ˨˩ ŋɔː˩˧ kɔː̃i˩˥ , waː˨ kæːk̚˩˥ liː˨˩ jɐu˩˧ jɐŋ˨˩ waː˨ niː˩˧ jɐk̚˩˥ ʦɐu˩˥ hyː˩˧ kʊŋ˩˧ tiː˨ lʊŋ˨˩ 
+wavs/1_0298.wav|ʦɐŋ˩˥ tɐu˩˧ tʰɐu˨˩ mɐu˨˩ kɐi˩˧ ʦɐi˩˥ tuː˥ sɐp̚˩˥ maːi˨˩ , læːŋ˩˧ ʦʊŋ˨ lɐu˨˩ piː˨ nʊŋ˨˩ , naː˥ haː˩˧ ɔː˩˧ tuː˩˥ ʦɐi˩˥ 
+wavs/1_0299.wav|haːm˩˧ niː˩˧ m̩˨˩ hɐu˩˥ hyː˩˧ liːu˨ kaː˩˧ laː˩˧ . haːm˩˧ niː˩˧ m̩˨˩ hɐu˩˥ sɛːŋ˨˩ jɐk̚˨ hyː˩˧ liːu˨ , niː˩˧ m̩˨˩ tʰɛːŋ˩˧ waː˨ . jɐk̚˩˥ ʦɐu˩˥ hyː˩˧ liːu˨ , kaːu˩˥ tɐu˩˧ læːŋ˩˧ ʦʊŋ˨ , tɐi˩˥ niː˩˧ siː˩˥ laː˩˧
+wavs/1_0300.wav|niː˩˧ ʦuː˨ mɛː˥ maːi˩˧ kɐm˩˥ tɔː˩˧ sæː̃i˩˧ kʷɔː˩˥ fæː̃i˩˥ lɵj˨˩ aː˧
+wavs/1_0301.wav|jɐu˨ maːi˩˧ kɐm˩˥ tɔː˩˧ sɔːŋ˩˧ niːm˨ , syːŋ˩˧ m̩˨˩ syːŋ˩˧ kaː˩˧ ?
+wavs/1_0302.wav|m̩˨˩ hɐu˩˥ hɛːk̚˩˥ , ʦɐu˨ fæːk̚˨ niː˩˧ kiː˩˥ jɐk̚˨ mɐu˩˧ tɐk̚˩˥ hyː˩˧ maːu˨˩ liːu˨ 
+wavs/1_0303.wav|kɐi˩˧ ʦʰɐŋ˩˧ , ʦʰɵj˩˧ kʷaːi˩˥ ʦɐi˩˥ , tiː˨ tɐu˩˥ , tɐu˨ fuː˨ muːi˨˩ , jiːu˩˥ fæːŋ˨
+wavs/1_0304.wav|tʰɐm˥ jɐk̚˨
+wavs/1_0305.wav|jɐm˩˥ kɐŋ˥ , fuːi˩˥ saː˩˧ , kɛːŋ˩˥ fʊk̚˩˥
+wavs/1_0306.wav|kʷʊk̚˩˥ syː˩˥
+wavs/1_0307.wav|ʦʰɵj˩˧ tʰɐu˩˥
+wavs/1_0308.wav|hyː˩˧ syːŋ˩˥ tʰɐu˨˩
+wavs/1_0309.wav|kaːu˩˧ kʰiː˨˩
+wavs/1_0310.wav|ŋɔː˨˩ hyːŋ˩˥
+wavs/1_0311.wav|ŋɐŋ˥ siː˩˥ , sɐu˩˧ kʷʊŋ˩˥ , sɛː˩˥ ʦʰaːp̚˩˥ , hʊŋ˨˩ mɐu˨˩ nɐi˨˩
+wavs/1_0312.wav|nɐŋ˨˩ haːi˨ , fɐŋ˩˥ ʦɐi˩˥ , pʰuː˨˩ tæːk̚˨ , lɵj˨˩ siː˩˧ , mɐu˨˩ kʷaː˩˧ , pɐŋ˨ kɐu˩˥
+wavs/1_0313.wav|ŋɪk̚˨ tʰɐu˨˩ , lɵj˨˩ kʊŋ˩˧ hœːŋ˩˥ , lɔːk̚˨ jyː˩˧
+wavs/1_0314.wav|hyː˩˧ maːu˩˥ liːu˨ , tʰɔː̃i˨˩ miː˩˧
+wavs/1_0315.wav|ʦʰɔː˩˧ jɐk̚˩˥ 
+wavs/1_0316.wav|ʦʰɵj˩˧ hʊŋ˨˩ mɐu˩˥ 
+wavs/1_0317.wav|tʰiːm˩˧ hœːŋ˩˧
+wavs/1_0318.wav|ʦuː˨ saːi˩˧ 
+wavs/1_0319.wav|tʰɐu˨˩ hyː˩˧
+wavs/1_0320.wav|maː˨˩ tʰɔː̃i˩˥ , pɛːŋ˩˥ ʦɐi˩˥
+wavs/1_0321.wav|maːi˩˧ sæːŋ˩˥
+wavs/1_0322.wav|kaː˩˧ kɐu˩˧ ʦɐi˩˥
+wavs/1_0323.wav|kaːi˩˧ kɐu˩˧ ʦɐi˩˥
+wavs/1_0324.wav|tʰyːŋ˨˩ jyːŋ˨˩ , sɐu˨ sɐk̚˩˥
+wavs/1_0325.wav|naː˥ haː˩˧ 
+wavs/1_0326.wav|siːu˩˧ lɪŋ˨˩ pʰaːi˨˩
+wavs/1_0327.wav|a˩˧ naːi˩˧ , kæːk̚˩˥ liː˨˩
+wavs/1_0328.wav|tiː˨ lʊŋ˨˩ 
+wavs/1_0329.wav|tʰɐu˨˩ mɐu˨˩ kɐi˩˧ ʦɐi˩˥ 
+wavs/1_0330.wav|lɐu˨˩ piː˨ nʊŋ˨˩ 
+wavs/1_0331.wav|ɔ˩˧ tuː˩˥ ʦaːi˩˥ 
+wavs/1_0332.wav|tʊŋ˩˧ tʰɪk̚˩˥ tʰɪk̚˩˥ 
+wavs/1_0333.wav|ʦuː˨ saːi˩˧ 
+wavs/1_0334.wav|m̩˨˩ tiː˩˧ 
+wavs/1_0335.wav|kɔː̃i˩˥ sɐŋ˨˩ sɪk̚˨ 
+wavs/1_0336.wav|kʊk̚˩˥ hiː˩˧
+wavs/1_0337.wav|kɐŋ˩˧ 
+wavs/1_0338.wav|kɐŋ˩˧ , ʦɪk̚˩˥ hɐi˨ ʦʊŋ˩˧ jiː˩˧
+wavs/1_0339.wav|ʦʊŋ˩˧ jiː˩˧ , kɐŋ˩˧
+wavs/1_0340.wav|ŋaː˨˩ ʦiːu˩˧ , fæː̃i˩˧ kʷɔː˩˥ ʦɐi˩˥ 
+wavs/1_0341.wav|sɔː̃i˩˧ niːm˩˥ 
+wavs/1_0342.wav|jɐk̚˩˥ tɵj˩˧ ʦyː˩˧
