@@ -149,7 +149,7 @@ def get_hparams(init=True):
                       help='Model name')
   
   args = parser.parse_args()
-  model_dir = os.path.join("../drive/MyDrive", args.model)
+  model_dir = os.path.join("models", args.model)
 
   if not os.path.exists(model_dir):
     os.makedirs(model_dir)
@@ -220,6 +220,10 @@ def get_logger(model_dir, filename="train.log"):
   if not os.path.exists(model_dir):
     os.makedirs(model_dir)
   h = logging.FileHandler(os.path.join(model_dir, filename))
+  h.setLevel(logging.DEBUG)
+  h.setFormatter(formatter)
+  logger.addHandler(h)
+  h = logging.StreamHandler(sys.stdout)
   h.setLevel(logging.DEBUG)
   h.setFormatter(formatter)
   logger.addHandler(h)

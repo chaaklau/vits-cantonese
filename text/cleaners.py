@@ -6,7 +6,7 @@ import re
 # from text.english import english_to_lazy_ipa, english_to_ipa2, english_to_lazy_ipa2
 # from text.thai import num_to_thai, latin_to_thai
 # from text.shanghainese import shanghainese_to_ipa
-from text.cantonese import cantonese_to_ipa
+# from text.cantonese import cantonese_to_ipa
 # from text.ngu_dialect import ngu_dialect_to_ipa
 
 
